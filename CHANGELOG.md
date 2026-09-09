@@ -5,6 +5,12 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.2.1 — 2026-09-09
+
+- **Placeholder slots get no chapter.** The Open Slot is a placeholder in the guide (role "placeholder", place
+  "Unassigned"), not an element; its page is gone and the book is 18 chapters, Terminal Fog looping back to the
+  Morning Meeting. The builder skips any card the guide marks that way.
+
 ## 0.2.0 — 2026-09-08
 
 - **The page is now a short story** (Steve: "turn it into a short story — each of the 19 elements its own title,
