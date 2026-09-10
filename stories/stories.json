@@ -1,5 +1,5 @@
 {
- "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt.",
+ "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick.",
  "reading_level": "preteen/teen (ages ~11-15)",
  "guide_draft": "0.7",
  "guide_sha1": "3bfa3ae5fd5a80ffaaae6ff9006e904a44f49d14",
@@ -15,7 +15,8 @@
     "There is no chairperson, no agenda and no minutes. The meeting decides one thing: what the city needs today. Then the crows lift off, the artist picks up their bucket, and the water goes still. Somewhere behind them, without anyone noticing, the mist begins to move. If it looks like someone feeding crows, the meeting is probably going well."
    ],
    "image_prompt": "Trout Lake in East Vancouver just before sunrise, glassy still water, a murder of crows gathered on the grass and in a bare tree by the shore with unusual collective focus, all facing one tired, ordinary-looking person in paint-spattered work clothes sitting on a park bench and feeding them, a paint bucket beside the bench, the whole scene easy to mistake for someone feeding birds, distant city lights across the water.",
-   "motifs": "Wires grow out of the bare tree the crows sit in and run down into the reeds; a faint circle of engraved geometry lies on the still water with no source."
+   "motifs": "Wires grow out of the bare tree the crows sit in and run down into the reeds; a faint circle of engraved geometry lies on the still water with no source.",
+   "source_photo": "EV_0065"
   },
   "morning-mist": {
    "title": "Morning Mist",
@@ -25,7 +26,8 @@
     "That is how you spot it. Not by the weather, which looks like ordinary Vancouver weather, but by the way the city seems to agree with itself all at once. The mist carries what is needed, not how to do it."
    ],
    "image_prompt": "East Vancouver back lanes at first light with thin mist drifting over rooftops, utility poles and wires, wet footprints on the pavement leading toward an open window, and one dry patch of asphalt shaped like a small lake.",
-   "motifs": "The mist is drawn as fine engraved lines threading through the wires and along the lanes; one painted glyph on a garage wall is catching the mist first."
+   "motifs": "The mist is drawn as fine engraved lines threading through the wires and along the lanes; one painted glyph on a garage wall is catching the mist first.",
+   "source_photo": "EV_0137"
   },
   "wire-choir": {
    "title": "The Wire Choir",
@@ -35,7 +37,8 @@
     "It cannot reach everywhere. Inside Stanley Park the signal fades into the trees, which is the Green Static's job. And whatever people make from what they hear, a track, a gathering, a wall of paint, feeds back into the city and keeps it from falling silent. No one hears the broadcast as an announcement. Hum low. Hum high. Bass carries. City knows."
    ],
    "image_prompt": "A dense tangle of overhead trolley wires, power lines and transformers above an East Vancouver street, the wires briefly lining up into the shape of a sound wave, a speaker cone strapped to a utility pole, faint lines of sound spreading along the wires.",
-   "motifs": "Wires come out of the trees along the street and join the pole lines; the overhead wires resolve into a waveform and a glyph; a pair of headphones hangs from a wire."
+   "motifs": "Wires come out of the trees along the street and join the pole lines; the overhead wires resolve into a waveform and a glyph; a pair of headphones hangs from a wire.",
+   "source_photo": "EV_0143"
   },
   "skytrain": {
    "title": "Skytrain",
@@ -115,7 +118,8 @@
     "The Nocturnals take over from the Sunset and lead toward the Sixth Hour. The Green Static, which confuses every scheduled system, does not confuse them. Night eyes. Follow bass. No address. They know."
    ],
    "image_prompt": "An East Vancouver service road and rail cut at night, wet pavement, chain-link fence and a loading bay, a trail of animal tracks in the wet leading toward one unmarked warehouse door with a thin line of light under it, only the shadow of an animal slipping out of the edge of the picture, the feeling of being led somewhere, no people.",
-   "motifs": "Paw prints and engraved guide-lines lead to the one door; a painted symbol beside it; wires from a tree over the fence run to the loading bay."
+   "motifs": "Paw prints and engraved guide-lines lead to the one door; a painted symbol beside it; wires from a tree over the fence run to the loading bay.",
+   "source_photo": "EV_0128"
   },
   "terminal-fog": {
    "title": "Terminal Fog",
@@ -145,7 +149,8 @@
     "The Green Static scrambles the Circuit's signals around Stanley Park, and somewhere near Wreck Beach there is a gap it has never fully closed. The rule is the shortest one in the city. Keep moving."
    ],
    "image_prompt": "The Vancouver seawall curving away at blue hour, a wet path with water on one side and the city on the other, a row of old lamp posts repeating into the distance and disappearing around the bend, a cyclist and a runner, one lamp post drawn a second time where it should not be.",
-   "motifs": "One lamp repeats farther around the bend than it should; engraved boundary geometry runs along the wall's edge; wires from a shoreline tree run into the lamps."
+   "motifs": "One lamp repeats farther around the bend than it should; engraved boundary geometry runs along the wall's edge; wires from a shoreline tree run into the lamps.",
+   "source_photo": "EV_0095"
   },
   "green-static": {
    "title": "Green Static",
@@ -165,7 +170,8 @@
     "The Outer Circuit cannot quite contain it. The Beyond starts somewhere past the bottom. Sometimes the fog comes up the stairs instead of in from the sea. Step down. Beautiful beach. Somewhere below. Never the last."
    ],
    "image_prompt": "An impossibly long wooden staircase with railings descending through tall coastal cedar and fir trees into fog, the steps continuing far beyond what is possible, one small figure partway down counting the steps, the lowest steps fading into blank white paper.",
-   "motifs": "The stairs continue far past what perspective allows, into blank; small counting marks carved on the rails; wires drop from the trees alongside."
+   "motifs": "The stairs continue far past what perspective allows, into blank; small counting marks carved on the rails; wires drop from the trees alongside.",
+   "source_photo": "EV_0013"
   },
   "beyond": {
    "title": "The Beyond",
