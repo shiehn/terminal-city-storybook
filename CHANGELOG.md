@@ -5,6 +5,11 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.2.3 — 2026-09-10
+
+- **Chants retired** (Steve, T62: "1, gone"). Field notes now carry only the card's rule; the 0.5 chants stay in
+  `folklore.json` under `legacy` as provenance and are not printed.
+
 ## 0.2.2 — 2026-09-09
 
 - **Field guide Draft 0.7.** 19 chapters in the guide's list order (not tempo order), the 3:17 Freight new; all
