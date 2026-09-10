@@ -5,6 +5,16 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.4.0 — 2026-09-10
+
+- **The dark ground.** Steve on the paper version of 0.3.0: "I don't love the new washed out storybook art… it's not the
+  images but I don't like the mostly white look"; on the dark mock: "yep, darkness better". The page ground is now the
+  drawings' own black (`#0B0C0D`), type off-white (`#EDEFF1`), captions and hairlines in graphite (`#A9B1B8` / `#2A2F34`),
+  the one red accent unchanged. The masters are unchanged and shown native: white line on black, no inversion, no curve,
+  no blend. The map is the video side's white-line layer (`renders/terminal_map/map_ink.png`), so book and videos share
+  one map; landmark thumbnails are ink-inverted to off-white. Builder: `build_site.py --theme dark|paper`, dark default.
+  No image credits spent.
+
 ## 0.3.0 — 2026-09-10
 
 - **Masters under the style guide.** Every chapter's illustration is now a hybrid drawing made from the node's own
