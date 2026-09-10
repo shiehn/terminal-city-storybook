@@ -5,6 +5,15 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.2.2 — 2026-09-09
+
+- **Field guide Draft 0.7.** 19 chapters in the guide's list order (not tempo order), the 3:17 Freight new; all
+  19 stories retold from the 0.7 dossiers (JOB · OPERATING LOGIC · CONNECTIONS · VISIBLE EVIDENCE · RULE); four plates
+  regenerated where the scene changed (the Morning Meeting is one Repair Person feeding reporting crows, the
+  Nocturnals are tracks and shadows rather than a cast of animals, the Eternal Night is forgotten built space, the
+  Freight is new). The map page gains a short preface and the guide's north star. Card fields the draft leaves
+  empty (phase, BPM off the ten anchors) no longer print.
+
 ## 0.2.1 — 2026-09-09
 
 - **Placeholder slots get no chapter.** The Open Slot is a placeholder in the guide (role "placeholder", place

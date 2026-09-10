@@ -1,171 +1,182 @@
 {
- "_about": "Storybook retellings of the field guide, one per card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style).",
+ "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story.",
  "reading_level": "preteen/teen (ages ~11-15)",
- "guide_draft": "0.5",
- "guide_sha1": "b536e7747514f06c983bbc3cb45841ac53de0779",
- "written": "2026-09-08",
+ "guide_draft": "0.7",
+ "guide_sha1": "3bfa3ae5fd5a80ffaaae6ff9006e904a44f49d14",
+ "written": "2026-09-09",
+ "north_star": "THE CITY MUST NOT FALL SILENT.",
+ "preface": "Terminal City is a hidden city that shares every street, wire and shoreline with Vancouver. Most people only ever see Vancouver. Terminal City is the layer underneath, the one that keeps the music, the art and the strange ideas moving so that the city never falls silent. Nobody rules it. It is not finished, and it never will be. Every day it is inspected, repaired, handed over and rebuilt, and every morning it starts again at Trout Lake. These are its nineteen parts.",
  "stories": {
   "morning-meeting": {
    "title": "The Morning Meeting",
    "paragraphs": [
-    "Every morning, before the sun comes up, representatives of Terminal City gather at Trout Lake to decide what kind of day it is going to be. The crows arrive first, because crows are always first. The coyotes stay back at the edge of the park, pretending they are not interested. A faint static gathers in the reeds, like a radio caught between stations. And the water listens.",
-    "Nobody has ever figured out who runs the meeting. There is no chairperson, no agenda and no minutes. What the meeting decides is not written down anywhere. It simply happens, the way weather happens, and then it is over. By the time the first joggers and dog-walkers reach the lake, the representatives have gone and the park looks like an ordinary park.",
-    "There is one way to tell whether the meeting is in session. Look at the water. If Trout Lake is perfectly still, not a ripple, not a ring, then the meeting is happening right now. Hold still. Gather here. Before the city wakes, it has to start again."
+    "Every morning, before the sun comes up, the day's first meeting happens at Trout Lake, and almost nobody notices it. If you walked past, you would see a murder of crows in a tree by the water and one tired-looking person on a bench in paint-spattered work clothes, feeding them. That is the whole meeting. That is exactly what it is supposed to look like.",
+    "The crows are reporting. All day yesterday they were out inspecting the city: roofs, wires, walls, parks, the edges where the streets meet the water. Now they are telling the Repair Person what they found. Which corners have gone quiet. Where a crack has opened. Where music and art and attention are running thin. The crows do not speak English, and they do not need to. The person on the bench understands without a word.",
+    "There is no chairperson, no agenda and no minutes. The meeting decides one thing: what the city needs today. Then the crows lift off, the person picks up their bucket, and the water goes glassy and still. If it looks like someone feeding crows, the meeting is probably going well."
    ],
-   "image_prompt": "Trout Lake in East Vancouver just before sunrise: perfectly still water reflecting bare trees, a loose circle of crows standing at the shoreline among reeds as if holding a meeting, two coyotes half hidden at the edge of the park, a little mist on the water, distant city lights."
+   "image_prompt": "Trout Lake in East Vancouver just before sunrise, glassy still water, a murder of crows gathered on the grass and in a bare tree by the shore with unusual collective focus, all facing one tired, ordinary-looking person in paint-spattered work clothes sitting on a park bench and feeding them, a paint bucket beside the bench, the whole scene easy to mistake for someone feeding birds, distant city lights across the water."
   },
   "morning-mist": {
-   "title": "The Morning Mist",
+   "title": "Morning Mist",
    "paragraphs": [
-    "When the meeting ends, something has to carry the decision out into the city. That job belongs to the Morning Mist. A light mist, or a thin rain, follows the meeting out of Trout Lake and drifts over every district before sunrise. It carries the meeting's mood the way weather carries a smell. Nobody reads it, but everybody receives it.",
-    "The mist does not care about walls. It slips in through vents and open windows and comes home on wet footprints. It settles on the wires before the Wire Choir wakes, and the crows fly through it on their way to work and take the day's tone from it. When it moves on, the city is slightly better tuned than it was before.",
-    "Some streets miss it. If your street is dry at dawn, it did not get the message, and it will run yesterday's version of the day until the Repair People notice and fix it. Terminal Fog is the mist's late-night relative, and it does the opposite job. The mist delivers the day. The fog takes it away."
+    "When the meeting ends, the city has to be told what it needs. Nobody sends a message. Instead, a light mist, or a thin rain, drifts out of Trout Lake and settles over every district before sunrise, catching on telephone wires, wet paint, rails, glass, seawall lamps and tree branches.",
+    "The mist does not carry instructions. It carries a state: where things are urgent, where a boundary has gone weak, where sound and colour are thinning. Every part of the city reads the same mist differently. A Repair Person feels where to patch. The wires feel where a song should land. A boundary feels where to hold. Nothing is written in the air, but unrelated things wake up and change their tone together.",
+    "That is how you spot it. Not by the weather, which looks like ordinary Vancouver weather, but by the way the city seems to agree with itself all at once. The mist carries what is needed, not how to do it."
    ],
    "image_prompt": "East Vancouver back lanes at first light with thin mist drifting over rooftops, utility poles and wires, wet footprints on the pavement leading toward an open window, and one dry patch of asphalt shaped like a small lake."
-  },
-  "crows": {
-   "title": "The Crows",
-   "paragraphs": [
-    "Every morning the crows leave their roost in Burnaby and cross East Vancouver in one long, loose formation. Every evening they fly back, on time, like a shift change at a factory. That is exactly what it is. The crows are the workforce of Terminal City: organized, punctual, and not especially polite.",
-    "Their job is inspection. They check the Wire Choir line by line, listening for anything that has fallen out of tune. When a crow finds a fault, it does not write a report. It lands on it. A crow standing perfectly still on a wire is a work order, and the Repair People will come to fix whatever the crow is standing on. Nobody assigns the crows this work. They simply do it.",
-    "The crows take their shift from the Morning Mist and hand the city over to the Nocturnals when they go home. Without them the city would never know it was broken until something stopped working. Clock in. Black on the line. They count the faults on their way home."
-   ],
-   "image_prompt": "A long loose formation of crows crossing the dawn sky over East Vancouver rooftops and utility poles, one crow standing perfectly still on a wire in the foreground, an old punch-card time clock mounted on the pole beneath it."
-  },
-  "skytrain": {
-   "title": "The Skytrain",
-   "paragraphs": [
-    "Terminal City has a lot of clocks, and none of them agree. So the city keeps its time by the SkyTrain. The trains run above the streets on a schedule no printed timetable matches, and every district sets its clocks by the sound of them passing overhead.",
-    "The trains carry passengers, but they also carry the day. A version of the morning's instructions rides on every train, loaded on by the Morning Mist, and it is delivered wherever the doors slide open. When a train is late, a whole district runs on yesterday. When two trains pass each other, their versions compare notes.",
-    "The crows inspect the guideway from above. The Old Line, which is older and more stubborn, refuses to speak to the SkyTrain at all. And late at night the Sixth Hour depends on the last train not really being the last. Set your clock by the train, not the clock."
-   ],
-   "image_prompt": "A SkyTrain running along its elevated concrete guideway above a corridor of trees and low rooftops, seen from the street below, a station platform with a hanging sign that shows only a blank shape, a large platform clock, a few small figures looking up and setting their watches."
   },
   "wire-choir": {
    "title": "The Wire Choir",
    "paragraphs": [
-    "If you stand in an East Van lane and listen, you can hear it. Power lines, trolley wires, transformers, rail signals, radios, club sound systems, feedback, street hum and bass. In Terminal City these are not separate noises. They are all parts of one enormous instrument called the Wire Choir, and it is how the city talks to itself.",
-    "Terminal City does not really tell the difference between music and information. Tempo tells you how urgent something is. Bass carries weight. Repetition means the message was received. Even silence is a message. When every wire in the city goes quiet at the same moment, it means Terminal City is listening.",
-    "The crows follow the choir on their rounds. The Probes feed it news from outside, and the Far Shore translates the signals nobody understands. There is only one place it cannot reach: the Green Static of Stanley Park, where every signal fades into the trees. Hum low. Hum high. Bass carries. City knows."
+    "Look up in an East Van lane and you will see them: telephone poles, layers of wires, trolley lines, transformers. Add radios, headphones, car stereos and the bass leaking out of a club door, and you have the Wire Choir, the network that carries sound through Terminal City.",
+    "Its job is to make sure the right sound reaches the right place. When the mist says a neighbourhood is going quiet, the Choir leans on coincidence. A song comes on at exactly the right moment. A recommendation appears. Someone leaves a window open. You still choose what you listen to, and you really did choose it, but the timing was a little too good. There is no DJ and no control room. The Choir only nudges.",
+    "It cannot reach everywhere. Inside Stanley Park the signal fades into the trees, which is the Green Static's job. And whatever people make from what they hear, a track, a gathering, a wall of paint, feeds back into the city and keeps it from falling silent. No one hears the broadcast as an announcement. Hum low. Hum high. Bass carries. City knows."
    ],
    "image_prompt": "A dense tangle of overhead trolley wires, power lines and transformers above an East Vancouver street, the wires briefly lining up into the shape of a sound wave, a speaker cone strapped to a utility pole, faint lines of sound spreading along the wires."
   },
-  "old-line": {
-   "title": "The Old Line",
+  "skytrain": {
+   "title": "Skytrain",
    "paragraphs": [
-    "Terminal City does not abandon routes. It only takes them off the public schedule. Under Commercial Drive and the streets around it, old streetcar rails still lie beneath the asphalt, and on wet nights they come back. Look at the reflections in a puddle and you might see them, shining where no track should be.",
-    "Sometimes a car arrives on the Old Line. It has no route number and no destination sign. It stops where work needs doing, not where the passengers would like to go. You may board. You may not choose where you get off. The Repair People's marks show which stops are safe, and the crows ride short sections when their wings are tired.",
-    "The Old Line is the older relative of the SkyTrain, and it carries whatever the SkyTrain will not. The two lines do not speak to each other. Old line, still running. No request. Work ahead."
+    "Terminal City is spread out from the port to the park to the far side of the inlet, and all of it has to run on the same clock. That clock is the SkyTrain. Doors, chimes, arrivals, crossings, the same intervals repeating all day: a city-sized metronome that thousands of commuters happen to ride.",
+    "You will not see anything strange on the train itself. The evidence is in the timing. A train pulls in at the exact moment the Wire Choir changes its tune three districts away. Two things that have nothing to do with each other line up a little too perfectly. A door chime lands right on the beat of the song in your headphones.",
+    "The Old Line remembers routes the city forgot. The 3:17 Freight carries things away. The SkyTrain does neither. It only keeps time, and because it does, the rest of the city can agree on when things happen. On time. Between the lines. Every door opens at once."
    ],
-   "image_prompt": "Commercial Drive at night after rain, old streetcar rails shining in the puddles where no track exists on the street, an old interurban tram car with no route number arriving out of the dark under a web of trolley wires, shop awnings and reflections."
+   "image_prompt": "A SkyTrain running along its elevated concrete guideway above a corridor of trees and low rooftops, seen from the street below, a station platform with a hanging sign that shows only a blank shape, a large platform clock, a few small figures looking up and setting their watches."
   },
   "probes": {
    "title": "The Probes",
    "paragraphs": [
-    "Down at the port, giant cranes stand along the water. Most people think they are for lifting containers. In Terminal City they are the Probes: sensory instruments, like enormous antennas, and their job is to find out what is happening in the world beyond the fog.",
-    "The Probes send ships out of the city carrying questions. When the ships come back, the cranes lift something more than cargo. They lift weather, rumours, objects, languages, sounds and other kinds of news. Sometimes the cargo is only the box the information travelled in.",
-    "Anything the city cannot understand is sent across the water to the Far Shore to be translated. Anything useful is broadcast through the Wire Choir. And if you ever see a crane turned to face inland instead of the sea, you will know it has learned something. Send out. Bring back. Lift the signal. What did you see?"
+    "Down at the port, the giant cranes stand along the water. To most people they are machinery. In Terminal City they are the Probes, and they are sensory instruments: the city's way of reaching outside itself.",
+    "Ships leave with questions. They come back with weather, objects, languages, sounds, rumours, materials and patterns nobody here has seen before. Sometimes the cargo is only the box the information travelled in. The cranes lift it out and pass it on: to the Far Shore for translation, into the Wire Choir as sound, or to the Repair People as a kind of mark the city has never painted.",
+    "Without the Probes, Terminal City would only ever feed on itself. And if you see a crane turned to face inland instead of the sea, it has learned something. Send out. Bring back. Lift the signal. What did you see?"
    ],
    "image_prompt": "Giant harbour gantry cranes along the port of Vancouver with hooks shaped like antennas, one crane turned to face inland, a container ship beneath them, faint radio waves rising from the hooks, mountains and fog beyond the inlet."
   },
-  "outer-circuit": {
-   "title": "The Outer Circuit",
+  "old-line": {
+   "title": "The Old Line",
    "paragraphs": [
-    "The seawall looks like a path for walking and cycling. It is really the Outer Circuit, a perimeter inspection route, and its job is to check that Terminal City still meets the water in the correct place.",
-    "The inspectors are the walkers, runners, cyclists, and people who simply cannot sleep. Every one of them is verifying the edge of the city, whether they know it or not. This matters more than it sounds. If enough of them stop moving at once, sections of the shoreline begin to disagree about where they belong.",
-    "The Repair People inspect the cracks along the wall. Around Stanley Park the Green Static interrupts the Circuit's signals, and somewhere near Wreck Beach there may be a gap in it that nobody has closed: the Endless Stair. Keep moving. Water on the left. City on the right. Hold the edge."
+    "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. Terminal City has not. The Old Line is the city's memory, buried in its infrastructure, and on wet nights it shows itself. Look into a puddle on a street with no tracks and you may see rails shining in the reflection.",
+    "The Old Line does not run on a timetable, and it does not care what the current map says. It exists so the city is never trapped inside the present. Old alignments, old rights-of-way, old versions of a corner keep feeding into the new build, and a car on the Old Line might stop where a place used to matter rather than where a passenger expects.",
+    "The Repair People mark remembered places along it. The crows inspect it. The 3:17 Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten. You may follow an old route. You may not assume it goes where the current map says."
    ],
-   "image_prompt": "The Vancouver seawall curving away at blue hour, a wet path with water on one side and the city on the other, a row of old lamp posts repeating into the distance and disappearing around the bend, a cyclist and a runner, one lamp post drawn a second time where it should not be."
+   "image_prompt": "Commercial Drive at night after rain, old streetcar rails shining in the puddles where no track exists on the street, an old interurban tram car with no route number arriving out of the dark under a web of trolley wires, shop awnings and reflections."
   },
   "repair-people": {
    "title": "The Repair People",
    "paragraphs": [
-    "Terminal City is always coming apart a little. Cracks open, colours fade, and pieces of the day go missing. The people who keep it together are the Repair People: graffiti writers, painters, sticker makers, muralists, photographers, paste-up crews, and anyone with a marker and a ladder.",
-    "What ordinary Vancouver calls a tag, a mural, a poster or a sticker is, in Terminal City, structural maintenance. A painted line across a crack is holding the wall together. A sticker on a pole is patching a leak in the day. The layers pile up because no repair lasts forever, and the next crew always has more to fix.",
-    "Many of their ideas come back from the Green Static, where nothing is authorized and everything is new. Even the Probes down at the port carry repair marks. The Repair People have one rule, and it is strict: never paint over something you did not see being painted. Mark the wall. Patch the crack. Still wet. Hold it together."
+    "Painters, graffiti writers, sticker makers, paste-up crews, photographers, muralists, anyone with a ladder, a bucket, a marker or a camera and work clothes: these are the Repair People, and they look human enough to disappear into Vancouver.",
+    "What the city sees as a tag, a sticker, a mural or a fresh coat of paint is structural maintenance in Terminal City. A Repair Person treats a crack in a wall with the seriousness of a plumber treating a burst pipe. They are hard to get to know. Ask one a question and you will get a short answer and a person already turning back to the work. Nobody knows exactly what they are, and the city has decided not to ask.",
+    "They take their priorities from the Morning Meeting and their odd ideas from the Green Static. Everything they fix stays visible, because that is the point: the repair is also the art, and the art is what keeps people noticing. Every repair remains visible. Never leave a crack unmarked."
    ],
    "image_prompt": "An East Vancouver alley wall layered with murals, posters and stickers, a figure seen from behind on a ladder painting one bold brushstroke across a real crack in the brickwork so that the stroke holds the wall together, paint cans, a roller and a bucket below."
   },
-  "green-static": {
-   "title": "The Green Static",
+  "crows": {
+   "title": "Crows",
    "paragraphs": [
-    "There is one place in Terminal City where the Wire Choir cannot go. At the edge of Stanley Park the signal weakens, and inside the trees it fails completely. Clocks drift. Routes become approximate. Ideas that were assigned to you simply disappear. This is the Green Static.",
-    "It sounds like a fault, but the city needs it. In place of the lost signal come fragments nobody transmitted: a melody with no source, a colour that feels remembered rather than seen, a rhythm that refuses to line up with the grid. Artists and musicians walk into the park on purpose to lose the signal and see what arrives instead.",
-    "Nothing received inside the park counts as authorized, and that is exactly why it matters. The Repair People depend on the unassigned ideas that come back out. The Outer Circuit wraps around the park but never gets in, and the Nocturnals pass through it as if it were nothing. Lose signal. Go green. Hear nothing. Bring something back."
+    "Every evening the crows cross Vancouver in one long, loose stream, heading east to roost, and every morning they come back. It looks like a commute because it is one. The crows are Terminal City's inspectors, and they are going home after a long shift.",
+    "During the day they check everything: roofs, wires, streets, parks, rails, walls, the edges of the city. They notice the corner that has gone quiet, the wall that has cracked, the boundary that has gone soft. They do not write it down. They carry it to Trout Lake before dawn and report it at the Morning Meeting, where it becomes the city's list for the day.",
+    "They are reliable, collective, and blue-collar to the bone, but they are still crows: no uniforms, no lunch pails, no English. If you see a whole flock facing the same point at once, they have found something. Never ask a crow what department it works for."
    ],
-   "image_prompt": "A dense Stanley Park forest trail under enormous old trees and fog, radio-wave arcs arriving from the city and dissolving into leaves at the edge of the trees, a musician sitting on a fallen log with headphones on listening to nothing, a faint glow of the city far beyond the trunks."
-  },
-  "endless-stair": {
-   "title": "The Endless Stair",
-   "paragraphs": [
-    "At the western edge of the city, a long wooden staircase goes down through the trees toward Wreck Beach. Everyone agrees there is a beautiful beach at the bottom. The strange part is that everyone who claims to have reached it describes it differently.",
-    "Some walkers say they went down for hours. Others come back before they can remember deciding to turn around. Nobody agrees on how many steps there are, and the stairs seem to know when you are counting. If you stop, they add more. The Repair People refuse to mark the lower steps, and Terminal Fog sometimes rises up from below instead of rolling in from the water.",
-    "The Endless Stair may be a gap in the Outer Circuit that no department has ever closed. It is the city's way out: for inspiration, for a change of perspective, for a long weekend that lasts as long as it needs to. Those who reach the bottom come home by way of The Beyond. Step down. Beautiful beach. Somewhere below. Never the last."
-   ],
-   "image_prompt": "An impossibly long wooden staircase with railings descending through tall coastal cedar and fir trees into fog, the steps continuing far beyond what is possible, one small figure partway down counting the steps, the lowest steps fading into blank white paper."
-  },
-  "beyond": {
-   "title": "The Beyond",
-   "paragraphs": [
-    "Look north across the water and you will see the mountains. In Terminal City the mountains are the edge of the transmission. Past them, the Wire Choir goes silent, and that is where The Beyond begins.",
-    "Several times each summer, people leave the city for temporary settlements past the mountains, improvised towns of speakers, lights and tents that run for a weekend and then vanish. What comes back is not really the people. It is what they carry: new rhythms, new marks for the walls, and a slightly different idea of what the city is for. The Probes send their ships toward it. The Far Shore translates what it says.",
-    "Everything that comes back from The Beyond arrives at the next Morning Meeting as new business. Nothing returns unchanged, and that is the point. Past the last tower. Past the last light. Bring it back. Bring it back different."
-   ],
-   "image_prompt": "The North Shore mountain skyline seen past harbour cranes, wires and rooftops, with one extra ridge line drawn faintly behind the real one, a road climbing up into cloud, and in a valley beyond the mountains a small temporary camp of tents, speaker stacks and a little stage, a line of birds leaving the city and another line returning."
-  },
-  "far-shore": {
-   "title": "The Far Shore",
-   "paragraphs": [
-    "Across Burrard Inlet, on the lower slopes of the North Shore, the apartment lights come on at night. Most nights they are only lights. But sometimes they arrange themselves into long, flowing shapes, like a script written in a language nobody in Terminal City speaks.",
-    "The city cannot read it, and yet it can act on it. The Probes send unknown information across the water to be translated here, and the Wire Choir rebroadcasts whatever comes back. The Beyond often flickers on the skyline before a new message appears. Some residents of the Far Shore can read the lights. None of them admit it.",
-    "There is one rule that never changes: the message can only be read from the south side of the water. Cross over and it is just apartments again. Far shore. Light by light. Read the night. Send it back."
-   ],
-   "image_prompt": "North Vancouver seen at night across Burrard Inlet from the south shore, dark mountain slopes and rows of apartment lights, a handful of the lights joined into one flowing, graceful, unreadable calligraphic curve rising like smoke, definitely not real letters or words, the pattern reflected in the water."
+   "image_prompt": "A long loose formation of crows crossing the dawn sky over East Vancouver rooftops and utility poles, one crow standing perfectly still on a wire in the foreground, an old punch-card time clock mounted on the pole beneath it."
   },
   "sunset": {
-   "title": "The Sunset",
+   "title": "Sunset",
    "paragraphs": [
-    "In Terminal City, sunset is not a view. It is a procedure. The crows are already home. The Wire Choir turns itself down by an amount nobody can measure. And on the western horizon the light goes out the way a machine winds down at the end of a shift.",
-    "In that minute, the day signs the city over to the night. The Sixth Hour is authorised. The Nocturnals are released. Whatever the day could not use begins its slow walk toward the Eternal Night. Nothing changes hands until the sun is fully down, which is why everything in the city seems to pause and wait for it.",
-    "People stop on the seawall and on rooftops to watch. This is correct. Of all the parts of the daily cycle, the Sunset is the only one designed to be seen. Last light. Turn the key. The other city is clocking in."
+    "In Terminal City the sunset is a shift change. All day the city has been inspected and patched and kept in time. As the light goes through the wires and over the rooftops, the Repair People put their brushes down, the crows head home, and the daytime systems hand the city over to the night.",
+    "You feel it without knowing why. Around sunset people want to stop working, walk, meet someone, eat, listen to something, make something, go out. That is not an accident. Maintenance is not the point of the city. Maintenance exists so that people can eventually stop working, and the sunset is the moment they are allowed to.",
+    "The Nocturnals start scouting. The Wire Choir shifts from daytime traffic to night music. The other city clocks in. Last light. Turn the key."
    ],
    "image_prompt": "A western horizon of water seen past East Vancouver rooftops, utility poles and wires, the sun sinking as a half circle with one line beneath it, a second fainter horizon line drawn above the real one, streetlights already lit, a few people watching from a rooftop and from the seawall."
   },
   "sixth-hour": {
    "title": "The Sixth Hour",
    "paragraphs": [
-    "Some warehouse rooms in East Van only exist after midnight. The Repair People mark the doors. The Nocturnals find them first. The Wire Choir carries the signal without ever admitting it. Inside, bass, bodies, art and architecture push past the city's normal limits, and the city lets them.",
-    "By the sixth hour, the walls breathe by millimetres. Distance stretches. A door that you walked through an hour ago now opens onto a different building. Nobody knows whether this is a malfunction or an essential pressure release, a way of letting off steam so the rest of the city can hold together. Probably it is both.",
-    "Whatever gets damaged tonight becomes tomorrow's repair list. And there is one rule everyone learns: if the music stops before sunrise, leave before the coyotes do. Red door. Sixth hour. Bass on. Don't go home."
+    "The Sixth Hour is not six o'clock. It is the sixth hour of music without a break. Some warehouse rooms in East Van are perfectly ordinary for the first five hours. After that, they get less reliable.",
+    "By the sixth hour, distance stretches. The walls breathe by a few millimetres. A door is not quite where it was. Nothing dramatic happens, and nobody could photograph it, but everyone in the room feels the rules of space go soft. Terminal City lets this happen on purpose. It is a stress test, or a pressure release, or the way new creative energy gets made. The city has never decided which, and it does not need to.",
+    "The Nocturnals find the room. The Wire Choir carries the signal without admitting it. Whatever gets bent tonight goes on the crows' list tomorrow. The sixth hour starts when the music does. Red door. Bass on. Don't go home."
    ],
    "image_prompt": "An anonymous windowless East Vancouver warehouse at night on wet pavement, a single small door glowing bright with light spilling out onto the ground, bass waves rippling the brickwork around it, a small painted mark beside the door, a coyote waiting patiently outside."
   },
   "nocturnals": {
    "title": "The Nocturnals",
    "paragraphs": [
-    "After dark, the coyotes leave Trout Lake. They slip through alleys, rail cuts, empty lots and service roads toward warehouse rooms that do not advertise themselves. Raccoons come along. Crows who are off shift come along. These are the Nocturnals, and they always know where the music is before any human does.",
-    "They are curious, indulgent and badly supervised. They attend the Morning Meeting, though nobody is sure how much attention they pay. They pass through the Green Static without losing their way, and they lead people toward the Sixth Hour with a look that says: this way, obviously. Some wander off toward the Endless Stair and take a while to come back.",
-    "The city trusts them exactly as much as it should, which is not very much. Never trust an animal that already knows the address. Night eyes. Follow bass. No address. They know."
+    "After sunset, somebody has to find where the night is happening before anyone else does. In Terminal City that is the Nocturnals: the night scouts. They are not a council and not a workforce. They are whatever reliably leads you to the right unmarked door.",
+    "Sometimes that is a set of tracks on a wet service road. Sometimes it is a shadow moving along a rail cut, or a coyote that seems to be waiting at exactly the right warehouse. Sometimes it is just a coincidence that keeps happening. People follow without meaning to, and they end up somewhere the wider city has not noticed yet.",
+    "The Nocturnals take over from the Sunset and lead toward the Sixth Hour. The Green Static, which confuses every scheduled system, does not confuse them. Night eyes. Follow bass. No address. They know."
    ],
-   "image_prompt": "Coyotes trotting through an industrial East Vancouver alley at night past chain-link fencing and a loading bay, a raccoon and an off-duty crow following them, a trail of paw prints on the wet road leading to one unmarked door with light spilling from under it."
-  },
-  "eternal-night": {
-   "title": "The Eternal Night",
-   "paragraphs": [
-    "Morning does not destroy the darkness. It only moves it. All the night that the city cannot use in daylight has to be stored somewhere, and it is stored in the Eternal Night: inside old brick, hotel windows, alley mouths, awnings, loading doors, stairwells and the deepest architectural shadows of the Downtown Eastside.",
-    "Lost minutes are kept there too. The district is not dark because of the people who live in it. Its buildings are simply carrying more night than the rest of the city, and while the rest of the city sleeps, its hidden systems keep working: culture, machinery, animals, the slow business of the deep hours.",
-    "The Repair People mark the spots where darkness leaks out. The Wire Choir sounds lower and slower here. And if you ever find a clock in the Eternal Night, do not use it. Light goes in. Night stays. Time missing. Store it here."
-   ],
-   "image_prompt": "An old brick hotel building at the deepest hour of night drawn as an almost solid block of black ink, fire escapes, awnings and a loading door, a single lit window, an alley mouth so dark it seems to swallow the light of the nearby street lamp, an empty rain-wet street, no people."
+   "image_prompt": "An East Vancouver service road and rail cut at night, wet pavement, chain-link fence and a loading bay, a trail of animal tracks in the wet leading toward one unmarked warehouse door with a thin line of light under it, only the shadow of an animal slipping out of the edge of the picture, the feeling of being led somewhere, no people."
   },
   "terminal-fog": {
    "title": "Terminal Fog",
    "paragraphs": [
-    "When the after-hours rooms empty and the last freight has cleared, the fog comes in from the water. The Outer Circuit disappears first. Then downtown. Then the rails. Then East Van. The last thing you can see, before the whole city is gone, is Trout Lake.",
-    "Inside the fog, Terminal City is taken apart and put back together, just differently enough to survive another day. A building might be missing when the fog lifts. A street might be a little shorter. The damage from the Sixth Hour is covered over. Sometimes the fog comes up out of the Endless Stair instead of in from the sea.",
-    "Then the fog thins, Trout Lake appears first, the water goes still, and the Morning Meeting begins again. The city never comes back exactly the same, and that is how it survives. Everything has returned so far. City ends. White line. No horizon. Start again."
+    "The Repair People patch the city all day, one wall at a time. Some things cannot be patched. For those, Terminal City has the fog.",
+    "Late at night, after the after-hours rooms have emptied and the Freight has taken away what cannot stay, fog comes in from the water. It covers the shoreline, the tracks, the lights, the skyline, until enough of Vancouver is hidden for Terminal City to be rebuilt underneath. This is the full rebuild, the one that fixes what a brush cannot.",
+    "When the fog lifts, the city is back. Almost. One familiar thing is gone, or shifted, or slightly wrong, and nobody announces it. Then the crows fly out to inspect the new build, and the cycle returns to Trout Lake. Everything has returned so far. City ends. White line. No horizon. Start again."
    ],
    "image_prompt": "A great bank of fog rolling in from the harbour and swallowing ship masts, a crane tip, downtown towers and rail lines, everything dissolving into blank white paper, while in the foreground a small still lake with reeds and one crow remains the last visible place."
+  },
+  "eternal-night": {
+   "title": "Eternal Night",
+   "paragraphs": [
+    "Not every part of the city gets looked at. There are old brick buildings with sealed doors, empty windows, signs for shops that closed long ago, rooms nobody has opened in years, paintings on walls that no one walks past anymore. The Eternal Night is what happens where attention has withdrawn.",
+    "It is not a place on the map so much as a condition. When people stop looking at something, the night settles into it and stays, even at noon. Things get lost there: old art, old rooms, whole habits a neighbourhood used to have. This is the danger Terminal City works against, not a villain but a slow forgetting, and the Eternal Night is where you can watch it happening.",
+    "The crows still inspect its edges. The Repair People mark where it leaks. What exactly the Eternal Night does for the city is a question the city has not finished answering. Light goes in. Night stays."
+   ],
+   "image_prompt": "An old brick building in the deepest hour of night with a sealed loading door, empty windows, a painted shop sign faded past reading, an old mural fading on the side wall, deep architectural shadow and rain, one window impossibly black as if it absorbs the light of the street lamp, an empty street, no people anywhere."
+  },
+  "outer-circuit": {
+   "title": "The Outer Circuit",
+   "paragraphs": [
+    "The seawall looks like a path. It is also the edge of the city, and edges have to be checked. Every walker, runner and cyclist on the seawall, and every person who cannot sleep and goes for a walk along the water at two in the morning, is checking it without knowing.",
+    "In Terminal City their movement is what keeps the edge in place. Think of it as a treadmill for the boundary. As long as people keep moving around the curve, the city knows exactly where it stops and the water begins. When the movement thins out, a stretch of path or shoreline can start to drift, or a lamp repeats itself farther around the bend than it should.",
+    "The Green Static scrambles the Circuit's signals around Stanley Park, and somewhere near Wreck Beach there is a gap it has never fully closed. The rule is the shortest one in the city. Keep moving."
+   ],
+   "image_prompt": "The Vancouver seawall curving away at blue hour, a wet path with water on one side and the city on the other, a row of old lamp posts repeating into the distance and disappearing around the bend, a cyclist and a runner, one lamp post drawn a second time where it should not be."
+  },
+  "green-static": {
+   "title": "Green Static",
+   "paragraphs": [
+    "At the edge of Stanley Park, the Wire Choir goes quiet. Inside, it fails completely. Schedules turn approximate, clocks drift, and the ideas you were carrying in with you simply disappear. This is the Green Static, and it is the one place in Terminal City where the city cannot hear itself.",
+    "That is the point. In place of the lost signal come things nobody sent: a melody, a colour, a picture, a rhythm that refuses the grid. Artists and Repair People walk into the trees on purpose to lose the signal and see what turns up instead. Whatever they bring out is unauthorized, and unauthorized does not mean unwanted.",
+    "The Outer Circuit runs around the park but never gets in. The Nocturnals pass through it easily. Without the Green Static, the city would become perfectly synchronized, and a perfectly synchronized city is a silent one. Lose signal. Go green. Hear nothing. Bring something back."
+   ],
+   "image_prompt": "A dense Stanley Park forest trail under enormous old trees and fog, radio-wave arcs arriving from the city and dissolving into leaves at the edge of the trees, a musician sitting on a fallen log with headphones on listening to nothing, a faint glow of the city far beyond the trunks."
+  },
+  "endless-stair": {
+   "title": "The Endless Stair",
+   "paragraphs": [
+    "At the far western edge of the city, a long wooden staircase drops through the trees toward Wreck Beach. Everyone agrees there is a beautiful beach at the bottom. Nobody agrees on how many steps it takes to get there, and the people who make it down describe the beach differently every time.",
+    "The stair is the city's way out. It feeds something Terminal City cannot make for itself: scale, sky, sea, the feeling of leaving the useful world behind for a while. People stand at the bottom and feel small and glad about it, and the city receives that too. The stairs know when you are counting. Stop, and they add steps.",
+    "The Outer Circuit cannot quite contain it. The Beyond starts somewhere past the bottom. Sometimes the fog comes up the stairs instead of in from the sea. Step down. Beautiful beach. Somewhere below. Never the last."
+   ],
+   "image_prompt": "An impossibly long wooden staircase with railings descending through tall coastal cedar and fir trees into fog, the steps continuing far beyond what is possible, one small figure partway down counting the steps, the lowest steps fading into blank white paper."
+  },
+  "beyond": {
+   "title": "The Beyond",
+   "paragraphs": [
+    "Past the mountains, the city's signal ends, and that is where The Beyond begins: the forests, the rivers, the highways, and the temporary towns of speakers, lights and tents that appear in the wilderness for a weekend and vanish.",
+    "Vancouver people leave the grid for The Beyond and come back different. They bring rhythms the city has never played, techniques nobody here taught them, ways of being together that the streets did not have before. The Probes bring the machine version of outside news through the port. The Beyond brings the human version, on dusty cars, at dawn.",
+    "The Green Static gets people ready to receive new ideas. The Beyond supplies them. The Wire Choir sounds different for weeks after a return. Leave with the old map. Return with something the map cannot name."
+   ],
+   "image_prompt": "The North Shore mountain skyline seen past harbour cranes, wires and rooftops, with one extra ridge line drawn faintly behind the real one, a road climbing up into cloud, and in a valley beyond the mountains a small temporary camp of tents, speaker stacks and a little stage, a line of birds leaving the city and another line returning."
+  },
+  "far-shore": {
+   "title": "Far Shore",
+   "paragraphs": [
+    "Across Burrard Inlet, the lights of North Vancouver climb the lower slopes of the mountains. Seen from the south side of the water, on the right night, they seem to arrange themselves into flowing shapes, like a script written in a language nobody in Terminal City speaks.",
+    "The Far Shore is where things the city cannot understand get translated. Material from the Probes and from The Beyond arrives as noise; from here it comes back as patterns the Wire Choir can use. Nobody has ever read the lights out loud, and they never spell anything real. They only resolve into something usable, and only from the other side of the water.",
+    "The city is not sure the Far Shore has earned its place. It stays on probation, the weakest part of the whole system, kept for now because the image is beautiful and the job is real. Far shore. Light by light. Read the night. Send it back."
+   ],
+   "image_prompt": "North Vancouver seen at night across Burrard Inlet from the south shore, dark mountain slopes and rows of apartment lights, a handful of the lights joined into one flowing, graceful, unreadable calligraphic curve rising like smoke, definitely not real letters or words, the pattern reflected in the water."
+  },
+  "3-17-freight": {
+   "title": "The 3:17 Freight",
+   "paragraphs": [
+    "At 3:17 in the morning, a freight train crosses the East Van rail corridor by the False Creek flats. It is always 3:17. If you happen to be awake and look at a clock, it will say 3:17, and so will the next clock, and the one after that.",
+    "The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, objects that ended up in the wrong place, the residue of a long night: anything the city cannot reconcile in the current build gets loaded onto the Freight and carried out. Nobody has explained who does the loading, and the city is not in a hurry to find out. The train seems to go on longer than it should. Cars repeat. It does not matter how many.",
+    "The Old Line keeps what must be remembered. The Freight removes what cannot remain. When it has gone, the fog comes in behind it and the rebuild begins. Three seventeen. Hold time. Load it out. Do not count the cars."
+   ],
+   "image_prompt": "A long freight train crossing an East Vancouver rail corridor at night beside dark industrial flats, the train stretching farther into the distance than it should with cars that seem to repeat, a rail crossing signal, and several clock faces visible in the scene (a station clock, a clock in a window, a clock on a pole) whose hands all show seventeen minutes past three, wet ground, no people."
   }
  }
 }
