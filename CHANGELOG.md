@@ -5,6 +5,16 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.3.0 — 2026-09-10
+
+- **Masters under the style guide.** Every chapter's illustration is now a hybrid drawing made from the node's own
+  photographs plus the arcane engraving archive (`sas-project-mgmt/canon/STYLE.md`, approved by Steve 2026-09-10 with
+  the Repair People plate as the reference specimen): one source photograph per master, geometry locked to it, drawn in
+  the archive's white-line engraving language and shown here inverted to ink on cold paper. Three takes were made per
+  node; the promoted take is recorded in `stories/stories.json` (`master`), the contact sheets live under
+  `album-art/assets/story-plates/sheets/` for later swaps. The earlier pencil-illustration plates are retired.
+- Chants retired (0.2.3). Field notes carry the card's rule only.
+
 ## 0.2.3 — 2026-09-10
 
 - **Chants retired** (Steve, T62: "1, gone"). Field notes now carry only the card's rule; the 0.5 chants stay in
