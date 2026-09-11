@@ -407,6 +407,9 @@
   "creator_url": "https://linktr.ee/stevehiehn",
   "music_note": "All music was created using a custom DAW,",
   "tool_label": "Signals & Sorcery",
-  "tool_url": "https://signalsandsorcery.com/"
+  "tool_url": "https://signalsandsorcery.com/",
+  "creator_bio": "a software developer and electronic musician based in Vancouver, Canada",
+  "portrait": "/Users/stevehiehn/sas-platform/album-art/assets/credits/steve-linktree.png",
+  "_portrait_note": "drop a real photo at album-art/assets/credits/steve.jpg and point `portrait` at it; the builder shows it small, round and greyscale on the home page only"
  }
 }

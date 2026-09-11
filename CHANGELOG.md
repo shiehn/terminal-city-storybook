@@ -5,6 +5,12 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.8.3 — 2026-09-11
+
+- Credits line now reads "Made by Steve Hiehn, a software developer and electronic musician based in Vancouver, Canada";
+  the home page shows a small round greyscale portrait beside it (his public avatar for now; swappable via
+  `stories.json` `credits.portrait`).
+
 ## 0.8.2 — 2026-09-11
 
 - **Credits, discreetly.** Every colophon ends with "Made by Steve Hiehn" linking to his page, and the note that all music
