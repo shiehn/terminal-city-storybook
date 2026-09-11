@@ -5,6 +5,23 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.6.0 — 2026-09-10
+
+- **The daily cycle as a second ordering.** The home page has an "Album order / Daily cycle" switch: album order stays
+  the default and the page order; the cycle view lists the fifteen timed nodes in the guide's order with the time of day
+  beside each, then "Off the clock" (Green Static, the Endless Stair, the Beyond, Far Shore). In the cycle view only, each
+  map station carries a small monochrome position mark. Chapter field notes open with the node's place in the day.
+- **SkyTrain** everywhere, from Field Guide Draft 0.8 and the re-rendered map; the map cartouche carries no draft number.
+- **About copy**: the preface ends with the guide's line "Maintenance is not the point of the city. Maintenance exists so
+  people can eventually stop working."
+- **Re-drawn masters** for Eternal Night (raw 62bddb8675), the 3:17 Freight (a2c09dd9bf), Far Shore (e60ec3f7db, now
+  drawn from a North Shore photograph) and the Nocturnals (216763e69b), promoted by the video side on Draft 0.8 evidence.
+- **Audio and video gates**: a player appears on a chapter only when its track audio is final and the web export exists
+  (title and BPM only); the video embed only when a URL exists. No chapter is final yet.
+- Steve: "please make sure all this feedback is addressed and implemented" (the site review,
+  `sas-project-mgmt/feedback/2026-09-10-site-review.md`), the approved plan, then on the preview: "push". Built on Draft
+  0.8; no image credits spent by the storybook.
+
 ## 0.5.0 — 2026-09-10
 
 - **An album, not a wiki.** From the site review Steve collected (`sas-project-mgmt/feedback/2026-09-10-site-review.md`;
