@@ -1,8 +1,8 @@
 {
- "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick. hook = the one line under the video slot (site review FB-01/24). no_rule = explicit per-node exception (print no rule). draft_note = a retelling ahead of the guide, flagged in reports. video_url = the chapter's YouTube URL when the video is published (the video slot; the master plate holds it until then).",
+ "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick. hook = the one line under the video slot (site review FB-01/24). no_rule = explicit per-node exception (print no rule). draft_note = a retelling ahead of the guide, flagged in reports. video_url = the chapter's YouTube URL when the video is published (the video slot; the master plate holds it until then). redirects = old slug → new slug (build_site.py writes a tiny redirect page at the old dir).",
  "reading_level": "preteen/teen (ages ~11-15)",
- "guide_draft": "0.8",
- "guide_sha1": "477bd17c60e29f9485efcc057eae2040c093a54c",
+ "guide_draft": "0.9",
+ "guide_sha1": "aabb231f1f82f4448452ef4273a118339ed136c8",
  "written": "2026-09-10",
  "north_star": "THE CITY MUST NOT FALL SILENT.",
  "preface": "Terminal City is a parallel city. It shares every street, wire, rooftop and shoreline with Vancouver, and most people only ever see Vancouver. Underneath, Terminal City keeps the music, the art and the strange ideas moving so that the city never falls silent. The two worlds are not meant to cross, except in one direction: through the outputs. A soundtrack that adjusts itself on the wires. A piece of street art a citizen happens to see. A late-night door that turns out to be the right one. Those are the only places Terminal City is allowed to touch ordinary life, and nobody who is touched by it is supposed to know. Nobody rules it. It is not finished, and it never will be. Every day it is inspected, repaired, handed over and rebuilt, and every morning it starts again at Trout Lake. These are its nineteen parts.",
@@ -67,12 +67,16 @@
    },
    "hook": "The right song, at the right moment, out of somebody else's window."
   },
-  "skytrain": {
-   "title": "Skytrain",
+  "clock": {
+   "title": "The Clock",
    "paragraphs": [
-    "Terminal City runs from the port to the park to the far side of the inlet, and all of it keeps the same time. Not by any clock. By the train. Doors, chimes, arrivals, crossings, the same intervals all day: a city-sized metronome that thousands of commuters happen to ride.",
-    "You will not see anything strange on the train. The evidence is in the timing. A train pulls in at the exact moment a song changes three districts away. A door chime lands on the beat in your headphones. Two things with no connection line up a little too perfectly, once, and then again.",
-    "The Old Line remembers routes the city forgot. The Freight carries things away. The SkyTrain does neither. It only keeps time, and because it does, the rest of the city can agree on when things happen. Every door opens at once."
+    "Terminal City calls the SkyTrain the Clock. All day it moves above and beneath the streets, closing doors, sounding chimes, crossing itself and pulling away again. Thousands of people use it to get somewhere. Almost none of them notice what else it is doing.",
+    "The trains do not follow the rhythm of the city. The city follows the trains.",
+    "A door closes at Commercial–Broadway and, somewhere across town, a light changes. A train enters a station just as music starts behind an apartment window. Two trains pass each other above the street and a hundred unrelated things seem to happen together.",
+    "Usually the coincidences are small enough to ignore. A pedestrian reaches the curb exactly as the signal changes. Rain begins between two songs. The beat in your headphones lands perfectly beneath the door chime. Once you notice it, you start noticing it everywhere.",
+    "The Clock does not tell Terminal City what time it is. It distributes time. As long as the trains keep their rhythm, distant parts of the city remain close enough to agree on when now is.",
+    "Occasionally the Clock drifts. Only by a second or two. That's enough. Music feels slightly late. People arrive just after someone has left. Conversations overlap. Crosswalks seem impatient. Repair People stop what they're doing and look toward the tracks.",
+    "Then a train passes. The doors close. The city catches up."
    ],
    "image_prompt": "A SkyTrain running along its elevated concrete guideway above a corridor of trees and low rooftops, seen from the street below, a station platform with a hanging sign that shows only a blank shape, a large platform clock, a few small figures looking up and setting their watches.",
    "motifs": "Engraved timing geometry radiates from the guideway; a platform clock with hands but no numbers; a small painted symbol on the pillar beneath the line.",
@@ -84,7 +88,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "The city keeps time by the train."
+   "hook": "Every city needs a clock. Vancouver rides inside its.",
+   "author_note": "story = Steve's own text verbatim (sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md), his one-line paragraphs grouped; the first two sentences are the hook"
   },
   "probes": {
    "title": "The Probes",
@@ -393,5 +398,8 @@
    "hook": "The train does not arrive at 3:17. 3:17 arrives with the train.",
    "source_photo": "EV_0094"
   }
+ },
+ "redirects": {
+  "skytrain": "clock"
  }
 }

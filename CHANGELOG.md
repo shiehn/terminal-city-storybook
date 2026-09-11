@@ -5,6 +5,15 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.7.0 — 2026-09-10
+
+- **Node 04 is The Clock.** Steve: "We have decided that element Skytrain needs to be renamed and re-written to [his
+  text] please update all assets accordingly" — his text, verbatim, is the chapter
+  (`sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md`; Field Guide Draft 0.9). Hook "Every city needs a clock.
+  Vancouver rides inside its."; rule "If the SkyTrain chime lands exactly on the beat, don't check the time. The Clock
+  already has it." The page lives at `clock/`; `skytrain/` redirects there. The drawing is unchanged (the SkyTrain is
+  the real thing; only the node is renamed). No image credits spent.
+
 ## 0.6.0 — 2026-09-10
 
 - **The daily cycle as a second ordering.** The home page has an "Album order / Daily cycle" switch: album order stays
