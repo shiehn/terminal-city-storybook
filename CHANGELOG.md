@@ -5,6 +5,12 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.8.2 — 2026-09-11
+
+- **Credits, discreetly.** Every colophon ends with "Made by Steve Hiehn" linking to his page, and the note that all music
+  was created using a custom DAW, Signals & Sorcery (Steve: "add a very discreet section … to link to me the creator …
+  I would also love to add a note about: all music was created using a custom DAS"). Read from `stories.json` `credits`.
+
 ## 0.8.1 — 2026-09-11
 
 - **One tap on touch.** Steve, on a Galaxy S25 in Chrome: "it requires two clicks .. the first turns the hyperlink image red,

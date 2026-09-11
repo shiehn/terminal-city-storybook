@@ -1,5 +1,5 @@
 {
- "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick. hook = the one line under the video slot (site review FB-01/24). no_rule = explicit per-node exception (print no rule). draft_note = a retelling ahead of the guide, flagged in reports. video_url = the chapter's YouTube URL when the video is published (the video slot; the master plate holds it until then). redirects = old slug → new slug (build_site.py writes a tiny redirect page at the old dir).",
+ "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick. hook = the one line under the video slot (site review FB-01/24). no_rule = explicit per-node exception (print no rule). draft_note = a retelling ahead of the guide, flagged in reports. video_url = the chapter's YouTube URL when the video is published (the video slot; the master plate holds it until then). redirects = old slug → new slug (build_site.py writes a tiny redirect page at the old dir). credits = the discreet creator / tool line in every colophon (Steve, 2026-09-11).",
  "reading_level": "preteen/teen (ages ~11-15)",
  "guide_draft": "0.9",
  "guide_sha1": "aabb231f1f82f4448452ef4273a118339ed136c8",
@@ -401,5 +401,12 @@
  },
  "redirects": {
   "skytrain": "clock"
+ },
+ "credits": {
+  "creator_label": "Steve Hiehn",
+  "creator_url": "https://linktr.ee/stevehiehn",
+  "music_note": "All music was created using a custom DAW,",
+  "tool_label": "Signals & Sorcery",
+  "tool_url": "https://signalsandsorcery.com/"
  }
 }
