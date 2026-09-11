@@ -5,6 +5,14 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.8.1 — 2026-09-11
+
+- **One tap on touch.** Steve, on a Galaxy S25 in Chrome: "it requires two clicks .. the first turns the hyperlink image red,
+  and the second performs the navigation .. this is bad .. on mobile it should just be one click". The tap-to-light step is
+  gone; a tap navigates, with the red glow flashing on press. Hover, keyboard focus and the current-station state are unchanged.
+- The Crows landmark redrawn without lettering (video session), and the station masks are now cut per map render: the
+  dark map's set for the dark site, the ink map's set for the paper look, so every glow sits on its own drawing.
+
 ## 0.8.0 — 2026-09-10
 
 - **The drawn elements are the map.** Steve: "the map looks great. But I think the hyperlink numbers are lazy. what I want
