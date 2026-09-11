@@ -5,6 +5,19 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.5.0 — PREVIEW (branch preview/0.5.0, not published)
+
+- **An album, not a wiki** (the site review of 2026-09-10; Steve: "please address all of it"). Chapter anatomy: chapter ·
+  BPM · a small cold role tag → the video slot (the YouTube embed when a video exists, the master plate until then) →
+  a one-line hook → the story → the rule → field notes, collapsed (where + the map, a photograph, known associations)
+  → next chapter (hook + plate) → prev / map / next. The 19-station map leaves the page body for the field notes.
+- **Scaffolding off the public page**: track filenames, "master not yet cut", draft hashes, photo-anchor and disturbance
+  notes, map symbols, the cards' job text, status words, connection sentences. Colophon = version + the disclaimer;
+  the guide draft + sha1 live in an HTML comment for the sync check.
+- **Stories**: an editing pass on all 19 with a hook each — less explanation, more subtext; Eternal Night and Far Shore
+  retold on the review's line (drafts pending Field Guide Draft 0.8); the Nocturnals print no rule until the guide has
+  an in-world one; "SkyTrain" as the public spelling.
+
 ## 0.4.1 — 2026-09-10
 
 - **Navigation** (Steve: "it should be easier to get back to the home page… the maps should always be clickable… highlight
