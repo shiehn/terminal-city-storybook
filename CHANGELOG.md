@@ -5,6 +5,13 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.4.1 — 2026-09-10
+
+- **Navigation** (Steve: "it should be easier to get back to the home page… the maps should always be clickable… highlight
+  the current location but add a hyperlink/rollover everywhere"). The "Terminal City" title on every chapter links to the
+  map; every station on every map (chapter pages and the home page) is a link with a rollover chapter name; the current
+  chapter's station stays highlighted in red; the map caption links to all chapters.
+
 ## 0.4.0 — 2026-09-10
 
 - **The dark ground.** Steve on the paper version of 0.3.0: "I don't love the new washed out storybook art… it's not the
