@@ -5,6 +5,16 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.8.0 — 2026-09-10
+
+- **The drawn elements are the map.** Steve: "the map looks great. But I think the hyperlink numbers are lazy. what I want
+  is the same map, but each element glows red when mouse over or click .. and stays red when in focus" — then, on the
+  preview, "go live". The numbered chips are gone from the home map and the chapter maps; each drawn element is the link,
+  glowing red on hover and keyboard focus, and the current chapter's element stays red on its own map. Touch: tap to
+  light, tap again to open. Built on per-station masks cut from the map (`album-art/renders/terminal_map/stations/`); the
+  station anchors now come from the ink layout (a layout mix-up with the video map was fixed on the way). Same map image.
+  No image credits spent.
+
 ## 0.7.0 — 2026-09-10
 
 - **Node 04 is The Clock.** Steve: "We have decided that element Skytrain needs to be renamed and re-written to [his
