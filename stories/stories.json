@@ -1,8 +1,8 @@
 {
  "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick. hook = the one line under the video slot (site review FB-01/24). no_rule = explicit per-node exception (print no rule). draft_note = a retelling ahead of the guide, flagged in reports. video_url = the chapter's YouTube URL when the video is published (the video slot; the master plate holds it until then).",
  "reading_level": "preteen/teen (ages ~11-15)",
- "guide_draft": "0.7",
- "guide_sha1": "3bfa3ae5fd5a80ffaaae6ff9006e904a44f49d14",
+ "guide_draft": "0.8",
+ "guide_sha1": "477bd17c60e29f9485efcc057eae2040c093a54c",
  "written": "2026-09-10",
  "north_star": "THE CITY MUST NOT FALL SILENT.",
  "preface": "Terminal City is a parallel city. It shares every street, wire, rooftop and shoreline with Vancouver, and most people only ever see Vancouver. Underneath, Terminal City keeps the music, the art and the strange ideas moving so that the city never falls silent. The two worlds are not meant to cross, except in one direction: through the outputs. A soundtrack that adjusts itself on the wires. A piece of street art a citizen happens to see. A late-night door that turns out to be the right one. Those are the only places Terminal City is allowed to touch ordinary life, and nobody who is touched by it is supposed to know. Nobody rules it. It is not finished, and it never will be. Every day it is inspected, repaired, handed over and rebuilt, and every morning it starts again at Trout Lake. These are its nineteen parts.",
@@ -203,7 +203,7 @@
   "nocturnals": {
    "title": "The Nocturnals",
    "paragraphs": [
-    "Something already knows where tonight is. After sunset, before anyone has heard of the room, a set of tracks crosses a wet service road toward it. A shadow moves along a rail cut. A coyote waits at exactly the right warehouse door, and then is not there. In Terminal City these are the Nocturnals: the night scouts.",
+    "Something already knows where tonight is. After sunset, before anyone has heard of the room, a set of tracks crosses a wet service road toward it. A shadow moves along a rail cut. A coyote is already waiting at a warehouse door nobody has told you about. In Terminal City these are the Nocturnals: the night scouts.",
     "They are not a council and not a workforce. They are whatever reliably leads you to the right unmarked door, and they are gone before you can thank them. People follow without meaning to, one coincidence at a time, and end up somewhere the wider city has not noticed yet.",
     "They take the handoff from the Sunset and lead toward the Sixth Hour. The Green Static, which confuses every scheduled system in the city, does not confuse them at all."
    ],
@@ -218,9 +218,7 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Something already knows where tonight is.",
-   "no_rule": true,
-   "no_rule_reason": "the card's RULE in Draft 0.7 is a production note, not an in-world rule (site review FB-15, canon proposal C2); print none until 0.8"
+   "hook": "Something already knows where tonight is."
   },
   "terminal-fog": {
    "title": "Terminal Fog",
@@ -246,7 +244,7 @@
    "paragraphs": [
     "Not every part of the city gets looked at. Sealed doors, empty windows, a sign for a shop that closed years ago, a painting on a wall nobody walks past anymore. Where attention has withdrawn, the night stays, even at noon. This is the Eternal Night.",
     "It is not a place so much as a condition, and it is the one thing Terminal City works against. Not a villain. Just forgetting. When people stop noticing a room, a wall, a habit a neighbourhood had, the night settles into it, and what was there goes missing, quietly, without anyone deciding it should.",
-    "The crows inspect its edges. The Repair People mark where it is leaking. Every other chapter in this book is, one way or another, a way of keeping the Eternal Night from spreading."
+    "The crows inspect its edges and carry them to Trout Lake. By day the Repair People are sent there; what a brush cannot fix, the fog rebuilds; what cannot be rebuilt, the Freight takes away. The Eternal Night keeps nothing. It only shows the city where it is losing."
    ],
    "image_prompt": "An old brick building in the deepest hour of night with a sealed loading door, empty windows, a painted shop sign faded past reading, an old mural fading on the side wall, deep architectural shadow and rain, one window impossibly black as if it absorbs the light of the street lamp, an empty street, no people anywhere.",
    "motifs": "One window impossibly black, drawn as absolute ink; faded painted symbols on the sealed loading door; no people.",
@@ -258,8 +256,7 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Where nobody looks anymore, the night stays.",
-   "draft_note": "retelling on the site review's line (Eternal Night = the condition the city fights: entropy through neglect); pending Field Guide Draft 0.8 (C3)"
+   "hook": "Where nobody looks anymore, the night stays."
   },
   "outer-circuit": {
    "title": "The Outer Circuit",
@@ -356,14 +353,13 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Some things only make sense from across the water.",
-   "draft_note": "retelling on the site review's line (distance is the mechanism); the card's Probationary status stays canon and is never printed; pending Field Guide Draft 0.8 (C4)"
+   "hook": "Some things only make sense from across the water."
   },
   "3-17-freight": {
    "title": "The 3:17 Freight",
    "paragraphs": [
-    "At 3:17 in the morning, a freight train crosses the East Van rail corridor by the False Creek flats. It is always 3:17. If you happen to be awake and look at a clock, it will say 3:17, and so will the next clock, and the one after that.",
-    "The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, objects that ended up in the wrong place, the residue of a long night: anything the city cannot reconcile in the current build gets loaded onto the Freight and carried out. Nobody has explained who does the loading, and the city is not in a hurry to find out. The train seems to go on longer than it should. Cars repeat. It does not matter how many.",
+    "At 3:17 in the morning, a freight train crosses the East Van rail corridor by the False Creek flats. The train does not arrive at 3:17. 3:17 arrives with the train. Every clock within earshot holds at 3:17, or turns to it, for as long as the cars are passing, and lets go when the last one has.",
+    "The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, objects that ended up in the wrong place, the residue of a long night: anything the city cannot reconcile in the current build gets loaded onto the Freight and carried out. Nobody has explained who does the loading, and the city is not in a hurry to find out. The train goes on longer than it should. Cars repeat. Which is one more reason not to count them.",
     "The Old Line keeps what must be remembered. The Freight removes what cannot remain. When it has gone, the fog comes in behind it and the rebuild begins."
    ],
    "image_prompt": "A long freight train crossing an East Vancouver rail corridor at night beside dark industrial flats, the train stretching farther into the distance than it should with cars that seem to repeat, a rail crossing signal, and several clock faces visible in the scene (a station clock, a clock in a window, a clock on a pole) whose hands all show seventeen minutes past three, wet ground, no people.",
@@ -376,7 +372,7 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "At 3:17 a train takes away what the city cannot keep."
+   "hook": "The train does not arrive at 3:17. 3:17 arrives with the train."
   }
  }
 }
