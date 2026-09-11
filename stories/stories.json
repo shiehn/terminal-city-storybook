@@ -211,12 +211,16 @@
    "motifs": "Paw prints and engraved guide-lines lead to the one door; a painted symbol beside it; wires from a tree over the fence run to the loading bay.",
    "source_photo": "EV_0128",
    "master": {
-    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/nocturnals_40c25188ef.png",
-    "sha1": "11a7829fd0",
-    "page_sha1": "7b0f5da1ee",
-    "alignment": 0.217,
-    "picked_by": "alignment",
-    "ground": "paper"
+    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/nocturnals.png",
+    "raw": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/nocturnals_3019226468.png",
+    "registered": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/nocturnals_3019226468.reg.png",
+    "sha1": "216763e69b",
+    "page_sha1": "4abf4d1308",
+    "raw_sha1": "216763e69b",
+    "alignment": 0.222,
+    "picked_by": "video T94 (Draft 0.8 re-take), mirrored from masters.json",
+    "ground": "black",
+    "source_photo": "EV_0128"
    },
    "hook": "Something already knows where tonight is."
   },
@@ -249,14 +253,19 @@
    "image_prompt": "An old brick building in the deepest hour of night with a sealed loading door, empty windows, a painted shop sign faded past reading, an old mural fading on the side wall, deep architectural shadow and rain, one window impossibly black as if it absorbs the light of the street lamp, an empty street, no people anywhere.",
    "motifs": "One window impossibly black, drawn as absolute ink; faded painted symbols on the sealed loading door; no people.",
    "master": {
-    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/eternal-night_3910138f1c_t2.png",
-    "sha1": "a6e4da88d7",
-    "page_sha1": "763a018aeb",
-    "alignment": 0.567,
-    "picked_by": "alignment",
-    "ground": "paper"
+    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/eternal-night.png",
+    "raw": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/eternal-night_a1bf8fec64.png",
+    "registered": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/eternal-night_a1bf8fec64.png",
+    "sha1": "62bddb8675",
+    "page_sha1": "73d08e4bd9",
+    "raw_sha1": "62bddb8675",
+    "alignment": 0.225,
+    "picked_by": "video T94 (Draft 0.8 re-take), mirrored from masters.json",
+    "ground": "black",
+    "source_photo": "EV_0058"
    },
-   "hook": "Where nobody looks anymore, the night stays."
+   "hook": "Where nobody looks anymore, the night stays.",
+   "source_photo": "EV_0058"
   },
   "outer-circuit": {
    "title": "The Outer Circuit",
@@ -346,14 +355,19 @@
    "image_prompt": "North Vancouver seen at night across Burrard Inlet from the south shore, dark mountain slopes and rows of apartment lights, a handful of the lights joined into one flowing, graceful, unreadable calligraphic curve rising like smoke, definitely not real letters or words, the pattern reflected in the water.",
    "motifs": "A handful of the apartment lights are joined into one flowing engraved curve rising like smoke, never letters; the water carries the reflection.",
    "master": {
-    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/far-shore_81c52cd7be.png",
-    "sha1": "eae871d387",
-    "page_sha1": "e34114f406",
-    "alignment": 0.082,
-    "picked_by": "alignment",
-    "ground": "paper"
+    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/far-shore.png",
+    "raw": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/far-shore_b394442481_t3.png",
+    "registered": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/far-shore_b394442481_t3.reg.png",
+    "sha1": "e60ec3f7db",
+    "page_sha1": "af51abb1f7",
+    "raw_sha1": "e60ec3f7db",
+    "alignment": 0.162,
+    "picked_by": "video T94 (Draft 0.8 re-take), mirrored from masters.json",
+    "ground": "black",
+    "source_photo": "EV_0073"
    },
-   "hook": "Some things only make sense from across the water."
+   "hook": "Some things only make sense from across the water.",
+   "source_photo": "EV_0073"
   },
   "3-17-freight": {
    "title": "The 3:17 Freight",
@@ -365,14 +379,19 @@
    "image_prompt": "A long freight train crossing an East Vancouver rail corridor at night beside dark industrial flats, the train stretching farther into the distance than it should with cars that seem to repeat, a rail crossing signal, and several clock faces visible in the scene (a station clock, a clock in a window, a clock on a pole) whose hands all show seventeen minutes past three, wet ground, no people.",
    "motifs": "Several clock faces with hands at seventeen past three and no numbers; the cars repeat; engraved export geometry along the corridor; a painted symbol on the crossing post.",
    "master": {
-    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/3-17-freight_d491c7c1ba.png",
-    "sha1": "f5e2f88bd8",
-    "page_sha1": "0e46d62310",
-    "alignment": 0.49,
-    "picked_by": "alignment",
-    "ground": "paper"
+    "file": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/3-17-freight.png",
+    "raw": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/3-17-freight_1db683a664_t2.png",
+    "registered": "/Users/stevehiehn/sas-platform/album-art/assets/story-plates/raw/3-17-freight_1db683a664_t2.reg.png",
+    "sha1": "a2c09dd9bf",
+    "page_sha1": "f9591ca10e",
+    "raw_sha1": "a2c09dd9bf",
+    "alignment": 0.503,
+    "picked_by": "video T94 (Draft 0.8 re-take), mirrored from masters.json",
+    "ground": "black",
+    "source_photo": "EV_0094"
    },
-   "hook": "The train does not arrive at 3:17. 3:17 arrives with the train."
+   "hook": "The train does not arrive at 3:17. 3:17 arrives with the train.",
+   "source_photo": "EV_0094"
   }
  }
 }
