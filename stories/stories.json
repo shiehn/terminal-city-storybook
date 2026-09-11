@@ -409,7 +409,7 @@
   "tool_label": "Signals & Sorcery",
   "tool_url": "https://signalsandsorcery.com/",
   "creator_bio": "a software developer and electronic musician based in Vancouver, Canada",
-  "portrait": "/Users/stevehiehn/sas-platform/album-art/assets/credits/steve-linktree.png",
-  "_portrait_note": "drop a real photo at album-art/assets/credits/steve.jpg and point `portrait` at it; the builder shows it small, round and greyscale on the home page only"
+  "portrait": "/Users/stevehiehn/sas-platform/album-art/assets/credits/steve.png",
+  "_portrait_note": "Steve's photo (2026-09-11); shown small, round, greyscale on the home page only"
  }
 }
