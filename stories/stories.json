@@ -1,5 +1,5 @@
 {
- "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick. hook = the one line under the video slot (site review FB-01/24). no_rule = explicit per-node exception (print no rule). draft_note = a retelling ahead of the guide, flagged in reports. video_url = the chapter's YouTube URL when the video is published (the video slot; the master plate holds it until then). redirects = old slug → new slug (build_site.py writes a tiny redirect page at the old dir). credits = the discreet creator / tool line in every colophon (Steve, 2026-09-11).",
+ "_about": "Storybook retellings of the field guide, one per named card, written at a preteen/teen reading level (Steve, 2026-09-08: 'each element its own title, a few paragraphs and a generated image'). The GUIDE is canon; these are retellings of it and must never contradict it. When a new guide draft lands, re-read each story against its card and refresh this file (guide_sha1 says which draft they were written from). image_prompt = the scene for the page's illustration (story_plates.py adds the shared style). preface = the map page's introduction. Placeholder slots get no story. motifs = the node's arcane motifs (canon/STYLE.md: symbols painted on walls, wires out of trees, the card's disturbance) for the hybrid plate prompt. source_photo = the master drawing's locked source photograph (EV id), set only where the node has no tagged photo yet (T75 interim) or to override the auto pick. hook = the one line under the video slot (site review FB-01/24). no_rule = explicit per-node exception (print no rule). draft_note = a retelling ahead of the guide, flagged in reports. video_url = the chapter's YouTube URL when the video is published (the video slot; the master plate holds it until then). redirects = old slug → new slug (build_site.py writes a tiny redirect page at the old dir). credits = the discreet creator / tool line in every colophon (Steve, 2026-09-11). MIRROR: paragraphs + hook + title come from canon/story/story.json (mirror_story.py) — never edit them here; chapter_sha1 = the chapter they mirror.",
  "reading_level": "preteen/teen (ages ~11-15)",
  "guide_draft": "0.9",
  "guide_sha1": "aabb231f1f82f4448452ef4273a118339ed136c8",
@@ -26,7 +26,8 @@
     "ground": "paper"
    },
    "hook": "Before sunrise, someone feeds the crows at Trout Lake. That is the whole meeting.",
-   "card_sha1": "417f457a1e8f7c25164a32b0a808d5552c504ce1"
+   "card_sha1": "417f457a1e8f7c25164a32b0a808d5552c504ce1",
+   "chapter_sha1": "ce45d3d9c53093bd6db6de8889968d39cf423abf"
   },
   "morning-mist": {
    "title": "Morning Mist",
@@ -47,7 +48,8 @@
     "ground": "paper"
    },
    "hook": "Some mornings the whole city wakes up knowing the same thing, and nobody said it.",
-   "card_sha1": "52997ffc7ce7727ce36ae4d9862c9bdf531b6088"
+   "card_sha1": "52997ffc7ce7727ce36ae4d9862c9bdf531b6088",
+   "chapter_sha1": "484677efbd702ead2133f8ba7de19adac6dfb87f"
   },
   "wire-choir": {
    "title": "The Wire Choir",
@@ -68,7 +70,8 @@
     "ground": "paper"
    },
    "hook": "The right song, at the right moment, out of somebody else's window.",
-   "card_sha1": "f6408ef13011aa957d7858152bd0f2e572a5f905"
+   "card_sha1": "f6408ef13011aa957d7858152bd0f2e572a5f905",
+   "chapter_sha1": "e9fcccbdb8743f1e4bb162565cf71ce2e153cd69"
   },
   "clock": {
    "title": "The Clock",
@@ -93,7 +96,8 @@
    },
    "hook": "Every city needs a clock. Vancouver rides inside its.",
    "author_note": "story = Steve's own text verbatim (sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md), his one-line paragraphs grouped; the first two sentences are the hook",
-   "card_sha1": "0228171b58397098e0db96132c56b710b586b9d5"
+   "card_sha1": "0228171b58397098e0db96132c56b710b586b9d5",
+   "chapter_sha1": "412425be6e1a48275c5787b5e2e459326915acb5"
   },
   "probes": {
    "title": "The Probes",
@@ -113,7 +117,8 @@
     "ground": "paper"
    },
    "hook": "The cranes are not loading ships. They are listening to somewhere else.",
-   "card_sha1": "ddf9d26d2c2572871296f62367064a740fe5e708"
+   "card_sha1": "ddf9d26d2c2572871296f62367064a740fe5e708",
+   "chapter_sha1": "18cd596be677f77f47fb8994f0c5c958ef029045"
   },
   "old-line": {
    "title": "The Old Line",
@@ -133,7 +138,8 @@
     "ground": "paper"
    },
    "hook": "On wet nights the puddles show rails the street no longer has.",
-   "card_sha1": "ba78875a5745dfad592f1975bb749ee0010e6f5b"
+   "card_sha1": "ba78875a5745dfad592f1975bb749ee0010e6f5b",
+   "chapter_sha1": "557527c401304368fe85a90be63bdb3583a19075"
   },
   "repair-people": {
    "title": "The Repair People",
@@ -153,7 +159,8 @@
     "ground": "paper"
    },
    "hook": "Some of the people painting the walls are holding the city together. You cannot tell which.",
-   "card_sha1": "de486cc6ae9495b3ad61388c7d190e53c99dd58b"
+   "card_sha1": "de486cc6ae9495b3ad61388c7d190e53c99dd58b",
+   "chapter_sha1": "ba4b96dfeb2491eeab3af0dcdae5a233d3f2df00"
   },
   "crows": {
    "title": "Crows",
@@ -173,7 +180,8 @@
     "ground": "paper"
    },
    "hook": "Every evening the crows go home from work.",
-   "card_sha1": "1aa8fe851b38982a0c2cfa6cc2b6c3cd8dcc0413"
+   "card_sha1": "1aa8fe851b38982a0c2cfa6cc2b6c3cd8dcc0413",
+   "chapter_sha1": "974a8a8359587dc238b55c36d5e54a398d3ef923"
   },
   "sunset": {
    "title": "Sunset",
@@ -193,7 +201,8 @@
     "ground": "paper"
    },
    "hook": "Maintenance is not the point of the city.",
-   "card_sha1": "822ec259ac87aa60b8e79dd0d0a7f27053fdb0c1"
+   "card_sha1": "822ec259ac87aa60b8e79dd0d0a7f27053fdb0c1",
+   "chapter_sha1": "36b3fd9d2367d0e199ab0c2a8ba6e9138dd3de02"
   },
   "sixth-hour": {
    "title": "The Sixth Hour",
@@ -213,7 +222,8 @@
     "ground": "paper"
    },
    "hook": "The sixth hour of music, when the walls start to breathe.",
-   "card_sha1": "17bc285c84a71817dcd1309fdac903340a20f532"
+   "card_sha1": "17bc285c84a71817dcd1309fdac903340a20f532",
+   "chapter_sha1": "5774abc15db7b53694924bed93171668751e4443"
   },
   "nocturnals": {
    "title": "The Nocturnals",
@@ -238,7 +248,8 @@
     "source_photo": "EV_0128"
    },
    "hook": "Something already knows where tonight is.",
-   "card_sha1": "fe2a5d794f99bd22931d177bc3b6e9bfd9e256a3"
+   "card_sha1": "fe2a5d794f99bd22931d177bc3b6e9bfd9e256a3",
+   "chapter_sha1": "1ea409e4e1192a2a7399a02732f92cb172897431"
   },
   "terminal-fog": {
    "title": "Terminal Fog",
@@ -258,7 +269,8 @@
     "ground": "paper"
    },
    "hook": "The fog takes the city apart and puts it back almost right.",
-   "card_sha1": "9f54c23642e596345e124f30a93c85e957436b05"
+   "card_sha1": "9f54c23642e596345e124f30a93c85e957436b05",
+   "chapter_sha1": "355fa4cdc3b698c0891dc2b6ac3626b7eb535211"
   },
   "eternal-night": {
    "title": "Eternal Night",
@@ -283,7 +295,8 @@
    },
    "hook": "Where nobody looks anymore, the night stays.",
    "source_photo": "EV_0058",
-   "card_sha1": "7eb91f6f7531586a8352e0c07eda8fd6d66e3fbb"
+   "card_sha1": "7eb91f6f7531586a8352e0c07eda8fd6d66e3fbb",
+   "chapter_sha1": "cc18da62daa6ddc6a217b3b7584c46c1676b7a24"
   },
   "outer-circuit": {
    "title": "The Outer Circuit",
@@ -304,7 +317,8 @@
     "ground": "paper"
    },
    "hook": "Keep moving, and the edge of the city holds.",
-   "card_sha1": "e1003a58766c141a5256cf50134d038842a1e3fe"
+   "card_sha1": "e1003a58766c141a5256cf50134d038842a1e3fe",
+   "chapter_sha1": "302f8748dfabb4a67e58506d9f212dce79c5ae1c"
   },
   "green-static": {
    "title": "Green Static",
@@ -324,7 +338,8 @@
     "ground": "paper"
    },
    "hook": "The one place the city cannot hear itself.",
-   "card_sha1": "95ac2bf85778891cb6d5353011e30c330299c44b"
+   "card_sha1": "95ac2bf85778891cb6d5353011e30c330299c44b",
+   "chapter_sha1": "25dd1765e7e10bc88b6438395a8e89007fb8a345"
   },
   "endless-stair": {
    "title": "The Endless Stair",
@@ -345,7 +360,8 @@
     "ground": "paper"
    },
    "hook": "Everyone agrees there is a beach at the bottom.",
-   "card_sha1": "024ed37a65035b5efdf10d6dad1de27afc0ffbf6"
+   "card_sha1": "024ed37a65035b5efdf10d6dad1de27afc0ffbf6",
+   "chapter_sha1": "a32779bfbb5405b7bfb857a2036014b61587f3a4"
   },
   "beyond": {
    "title": "The Beyond",
@@ -365,7 +381,8 @@
     "ground": "paper"
    },
    "hook": "Past the mountains the signal ends. People go anyway.",
-   "card_sha1": "2ed48d4ee1f68b0793a945e825af59f9ec560c19"
+   "card_sha1": "2ed48d4ee1f68b0793a945e825af59f9ec560c19",
+   "chapter_sha1": "d73fc0f4efa125a1592649ff1f89670dae33c314"
   },
   "far-shore": {
    "title": "Far Shore",
@@ -390,7 +407,8 @@
    },
    "hook": "Some things only make sense from across the water.",
    "source_photo": "EV_0073",
-   "card_sha1": "0e5f7d4dec065d9db0f95e89649e0a7cdfdf70b8"
+   "card_sha1": "0e5f7d4dec065d9db0f95e89649e0a7cdfdf70b8",
+   "chapter_sha1": "42f88d6ab46a9944c555f1f9ff10e7fdd819c54a"
   },
   "3-17-freight": {
    "title": "The 3:17 Freight",
@@ -415,7 +433,8 @@
    },
    "hook": "The train does not arrive at 3:17. 3:17 arrives with the train.",
    "source_photo": "EV_0094",
-   "card_sha1": "ae4be0365505b5d60df0946bed85d878fe276a35"
+   "card_sha1": "ae4be0365505b5d60df0946bed85d878fe276a35",
+   "chapter_sha1": "61ede3c382df24b6f5cb9ea3448bb359bddf86fe"
   }
  },
  "redirects": {
@@ -430,5 +449,7 @@
   "creator_bio": "a software developer and electronic musician based in Vancouver, Canada",
   "portrait": "/Users/stevehiehn/sas-platform/album-art/assets/credits/steve.png",
   "_portrait_note": "Steve's photo (2026-09-11); shown small, round, greyscale on the home page only"
- }
+ },
+ "story_draft": "0.1",
+ "story_sha1": "33dc7d1b0bcecc796f283afbc2f6d958c35b737d"
 }
