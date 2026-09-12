@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$HOME/sas-platform/sas-project-mgmt/scripts/graph.py\" brief 2>/dev/null || true",
+            "timeout": 60,
+            "statusMessage": "tc-graph: checking the production graph"
+          }
+        ]
+      }
+    ]
+  }
+}

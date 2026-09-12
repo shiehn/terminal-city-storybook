@@ -10,9 +10,11 @@
   "morning-meeting": {
    "title": "The Morning Meeting",
    "paragraphs": [
-    "Every morning, before the sun comes up, a thin mist lies on Trout Lake. It hangs in the reeds and drifts over the glassy water, so light you could walk through it and not notice. This is where the day's first meeting happens, and almost nobody sees it. If you walked past, you would see a murder of crows in a tree by the water and one weathered street artist on a bench, paint on their hands and their jacket, feeding them. That is the whole meeting. That is exactly what it is supposed to look like.",
-    "The crows are reporting. They spent yesterday over the whole city, roofs, wires, walls, parks, the edges where the streets meet the water, and they have noticed which corners have gone quiet and where music and art and attention are running thin. They do not speak English. The artist on the bench understands anyway.",
-    "There is no chairperson, no agenda and no minutes. The meeting decides what the city needs today. Then the crows lift off, the artist picks up their bucket, and the water goes still. Somewhere behind them, without anyone noticing, the mist begins to move."
+    "Before sunrise, the painter takes the same lane toward Trout Lake. The bucket brushes a trouser leg. Above the roofs, crows lift off one at a time. A thin mist finds its own way between the houses. All three are going to the same place.",
+    "At the park, the painter joins the others: a roller on a shoulder, a cart, a skateboard, a bicycle with a bucket on the bars. They fall into step without saying good morning. At the water, the painter takes the bench. The others wait beneath the trees while the crows settle close enough to be fed.",
+    "Yesterday they inspected the whole city. This morning, among the roofs and wires briefly reflected in the lake, there is a new courtyard. People have moved in. The walls are still bare. A person with a cup pauses at the entrance, then keeps walking. A bench waits at the far end, and sound seems to pass the entrance without turning in. Behind the new walls stands an old brick doorway that nobody looks toward.",
+    "The painter stops feeding for a moment. Under the trees, the second painter shifts the roller on her shoulder.",
+    "Then the crows leave. The crew picks up its things. To anyone passing, it was a person feeding birds while some painters waited. The mist is already finding the way out."
    ],
    "image_prompt": "Trout Lake in East Vancouver just before sunrise, glassy still water, a murder of crows gathered on the grass and in a bare tree by the shore with unusual collective focus, all facing one tired, ordinary-looking person in paint-spattered work clothes sitting on a park bench and feeding them, a paint bucket beside the bench, the whole scene easy to mistake for someone feeding birds, distant city lights across the water.",
    "motifs": "Wires grow out of the bare tree the crows sit in and run down into the reeds; a faint circle of engraved geometry lies on the still water with no source.",
@@ -27,14 +29,16 @@
    },
    "hook": "Before sunrise, someone feeds the crows at Trout Lake. That is the whole meeting.",
    "card_sha1": "417f457a1e8f7c25164a32b0a808d5552c504ce1",
-   "chapter_sha1": "3ef1060c9727387fd372c485eaa75f40afcd8894"
+   "chapter_sha1": "b6808f3dff2348afc7008f2ac9176f9ab172539b"
   },
   "morning-mist": {
    "title": "Morning Mist",
    "paragraphs": [
-    "Some mornings the whole city wakes up knowing the same thing, and nobody said it. Before sunrise a thin mist drifts out of Trout Lake, where it waited through the meeting, and settles over every district. It catches on telephone wires, wet paint, rails, glass, seawall lamps and the branches of trees.",
-    "It carries no instructions. Nothing is written in the air. But watch what happens under it. A painter turns toward a wall she was not going to paint today. A radio three streets away changes its tone at the same moment. A lamp on the seawall seems to lean into its post. Things that have nothing to do with each other change together, quietly, as if they had all been told.",
-    "That is how you spot it. Not by the weather, which is only Vancouver weather, but by the way the city agrees with itself all at once. The mist carries what is needed, not how to do it."
+    "The second painter leaves Trout Lake with the roller over her shoulder. At the first junction, the Old One turns left with the cart. The Cyclist goes straight on. Nobody unfolds a map.",
+    "The mist has reached the junction before them. It catches on a wire, beads along a rail and settles against a blank wall several streets away. At an upstairs window, a radio makes a small change in tone. The person beside it keeps unpacking a box.",
+    "Morning Mist carries the needs reported at the Meeting through Terminal City. It does not name a colour, pick a song or tell anyone which tool to use. The same damp air can mean a wall to one worker and a missing connection to another. Each receives enough to begin.",
+    "The painter passes two entrances and stops at the third. Through it are a new bench, a long pale wall and a strip of older brick. She lowers the roller. A moment later the Cyclist arrives at the pole outside and looks up. The Old One's cart can be heard approaching from another lane. It arrives just where the Cyclist has put the bicycle. Without looking up, the Cyclist shifts it a hand's width. The cart rolls through.",
+    "Across the courtyard, a resident opens a window. The mist thins in the new light. Nothing resembling an instruction remains, but three people who took different routes have stopped at the same place."
    ],
    "image_prompt": "East Vancouver back lanes at first light with thin mist drifting over rooftops, utility poles and wires, wet footprints on the pavement leading toward an open window, and one dry patch of asphalt shaped like a small lake.",
    "motifs": "The mist is drawn as fine engraved lines threading through the wires and along the lanes; one painted glyph on a garage wall is catching the mist first.",
@@ -49,14 +53,16 @@
    },
    "hook": "Some mornings the whole city wakes up knowing the same thing, and nobody said it.",
    "card_sha1": "52997ffc7ce7727ce36ae4d9862c9bdf531b6088",
-   "chapter_sha1": "0cd6ce9f92ec126f993715bfaebf670538580e56"
+   "chapter_sha1": "c6851ca833e52491f9123afbe8e4a90ba170d337"
   },
   "wire-choir": {
    "title": "The Wire Choir",
    "paragraphs": [
-    "Look up in an East Van lane: telephone poles, layers of wires, trolley lines, transformers. Add every radio, every car stereo, every pair of headphones and the bass leaking under a warehouse door, and you have the Wire Choir. It is how Terminal City sings to itself.",
-    "When a neighbourhood goes quiet, the Choir leans on coincidence. Somebody's car at a red light is playing the exact song. A band is rehearsing through a wall you happen to be leaning on. A radio in an upstairs apartment, a window left open, a snatch of something from a loading bay at two in the morning. You still choose what you listen to. You really did. The timing was just a little too good.",
-    "It cannot reach everywhere. Inside Stanley Park the signal fades into the trees. And whatever people make out of what they heard, a track, a night out, a wall of paint, comes back into the wires and keeps the city from falling silent. No one hears the broadcast as an announcement."
+    "The Cyclist stands beside the pole outside the development. Music leaks from a garage farther down the lane, then disappears beneath a passing truck. A pair of headphones goes by. Upstairs, the resident tries another track. Sound is everywhere. The courtyard still feels outside it.",
+    "The Wire Choir is made of these ordinary things: wires, radios, headphones, bass through walls, songs arriving through someone else's open window. Nobody chooses the whole programme. People choose their own music. The Wire Choir brings those listening moments into unlikely alignment.",
+    "The Cyclist waits while the bench painter completes a short mark at the courtyard corner. From one angle, it is only paint. From another, the shadow of the overhead wire seems to continue into it. The Cyclist steps back until the two meet, then reaches for the bike. Nothing yet. The hand leaves the handlebar and waits. A train passes in the distance.",
+    "Upstairs, the listener rejects one more song. The Cyclist looks toward the window. Then a new track begins, and this time the listener leaves it playing. A resident with a cup slows at the entrance. The sound is quiet enough that they have to stop to hear it.",
+    "The Cyclist picks up the bicycle. The building has its first connection. Nothing announces that fact. The listener opens the window another few inches."
    ],
    "image_prompt": "A dense tangle of overhead trolley wires, power lines and transformers above an East Vancouver street, the wires briefly lining up into the shape of a sound wave, a speaker cone strapped to a utility pole, faint lines of sound spreading along the wires.",
    "motifs": "Wires come out of the trees along the street and join the pole lines; the overhead wires resolve into a waveform and a glyph; a pair of headphones hangs from a wire.",
@@ -71,18 +77,17 @@
    },
    "hook": "The right song, at the right moment, out of somebody else's window.",
    "card_sha1": "f6408ef13011aa957d7858152bd0f2e572a5f905",
-   "chapter_sha1": "5047778e2f72f8c42a0e3e9b931389b2fc032266"
+   "chapter_sha1": "65fb0266cf945686485ea3b51b3cc695574ad42d"
   },
   "clock": {
    "title": "The Clock",
    "paragraphs": [
-    "Terminal City calls the SkyTrain the Clock. All day it moves above and beneath the streets, closing doors, sounding chimes, crossing itself and pulling away again. Thousands of people use it to get somewhere. Almost none of them notice what else it is doing.",
-    "The trains do not follow the rhythm of the city. The city follows the trains.",
-    "A door closes at Commercial–Broadway and, somewhere across town, a light changes. A train enters a station just as music starts behind an apartment window. Two trains pass each other above the street and a hundred unrelated things seem to happen together.",
-    "Usually the coincidences are small enough to ignore. A pedestrian reaches the curb exactly as the signal changes. Rain begins between two songs. The beat in your headphones lands perfectly beneath the door chime. Once you notice it, you start noticing it everywhere.",
-    "The Clock does not tell Terminal City what time it is. It distributes time. As long as the trains keep their rhythm, distant parts of the city remain close enough to agree on when now is.",
-    "Occasionally the Clock drifts. Only by a second or two. That's enough. Music feels slightly late. People arrive just after someone has left. Conversations overlap. Crosswalks seem impatient. Repair People stop what they're doing and look toward the tracks.",
-    "Then a train passes. The doors close. The city catches up."
+    "The Lanky One and the Kid wait beneath the SkyTrain with a bag of brushes between them. The first train comes through as the Kid lifts the bag. Across the neighbourhood, the Cyclist looks up from the courtyard pole at almost the same moment.",
+    "Almost is enough to be awkward. At the new entrance, the painter starts a small corner stroke and stops. An upstairs song arrives a fraction behind the door chime in the Kid's headphones. The city feels as though two people have started speaking together and neither will stop.",
+    "In Terminal City, the SkyTrain is known as the Clock. The trains carry passengers. They also keep far-apart moments close enough to belong to the same now. Usually this looks like a light changing just as someone reaches it, or a song falling neatly under a station chime.",
+    "The Kid puts the bag down. The Lanky One waits. When the Kid reaches for it again too soon, the Lanky One raises one finger. The Kid sits back on the heels. There is no reason to argue with a second.",
+    "Another train passes. Its doors close at the station. The Kid picks up the bag; the crossing changes; the painter finishes the short mark. Upstairs, music begins beside an open window.",
+    "Nobody fixes the train. It has somewhere to be. The two workers carry the brushes toward the courtyard, where the rest of the morning has caught up."
    ],
    "image_prompt": "A SkyTrain running along its elevated concrete guideway above a corridor of trees and low rooftops, seen from the street below, a station platform with a hanging sign that shows only a blank shape, a large platform clock, a few small figures looking up and setting their watches.",
    "motifs": "Engraved timing geometry radiates from the guideway; a platform clock with hands but no numbers; a small painted symbol on the pillar beneath the line.",
@@ -97,14 +102,17 @@
    "hook": "Every city needs a clock. Vancouver rides inside its.",
    "author_note": "story = Steve's own text verbatim (sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md), his one-line paragraphs grouped; the first two sentences are the hook",
    "card_sha1": "0228171b58397098e0db96132c56b710b586b9d5",
-   "chapter_sha1": "376c27d258dba2598b051ec253d9c66ff92adeaa"
+   "chapter_sha1": "91fa57becd4d38be700ab0d1bd3552d8a11d0cff"
   },
   "probes": {
    "title": "The Probes",
    "paragraphs": [
-    "Down at the port, the giant cranes stand along the water. To most people they are machinery. In Terminal City they are the Probes, and they are not loading ships. They are listening to somewhere else.",
-    "Ships leave the harbour with questions. They come back with weather, objects, languages, sounds, rumours, materials and patterns nobody here has seen before, and the cranes lift it all ashore. Sometimes the cargo is only the box the information travelled in.",
-    "Without the Probes the city would only ever feed on itself. If you see a crane turned to face inland instead of the sea, it has learned something. What did you see?"
+    "The Cyclist leaves the bike against a railing and eats beside the harbour. Beyond the water, a crane lifts a container. Another stands with its long arm turned toward the city. Nothing seems to be happening to that one. Above its arm, a gull holds almost still in the wind. Only the tips of its wings move.",
+    "In Terminal City, the cranes are known as the Probes. Ships go out carrying questions and return with more than the things listed inside their boxes: sounds, weather, materials, unfamiliar arrangements. Artists and listeners need unfamiliar material as well as the things they already know.",
+    "Between two stacks of containers, the Cyclist notices a peculiar interval. Narrow, wide, narrow again. It is the spaces that catch the eye. A ship's low note meets three short metallic knocks from somewhere along the waterfront. The Cyclist opens the small sketchbook and tries to put the arrangement on paper.",
+    "Up close, the drawing looks crowded. Another line makes it worse. The Cyclist turns the book sideways. Now it is wrong in another direction. The Cyclist closes the book and finishes eating.",
+    "The inland-facing crane begins to turn. The gull folds a wing and slides out of the frame of sky the Cyclist has been watching. Perhaps the Probe has learned something. The Cyclist has at least learned that the sketch is not finished.",
+    "There is still daylight, and the waterfront path goes west. The book goes into the bag. Whatever came off the ship can travel a little farther before anyone decides what it is for."
    ],
    "image_prompt": "Giant harbour gantry cranes along the port of Vancouver with hooks shaped like antennas, one crane turned to face inland, a container ship beneath them, faint radio waves rising from the hooks, mountains and fog beyond the inlet.",
    "motifs": "The crane hooks are antennas; engraved signal arcs rise from one crane turned inland; a painted glyph on a container.",
@@ -118,14 +126,18 @@
    },
    "hook": "The cranes are not loading ships. They are listening to somewhere else.",
    "card_sha1": "ddf9d26d2c2572871296f62367064a740fe5e708",
-   "chapter_sha1": "fe73727ebdeb6abcc2de3409ed2a2bc428c6c2ad"
+   "chapter_sha1": "d89803d6093ba0a71190351855b836d5f85c8190"
   },
   "old-line": {
    "title": "The Old Line",
    "paragraphs": [
-    "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection.",
-    "This is the Old Line. It does not run on a timetable and it does not care what the current map says. Old alignments, old rights-of-way, old versions of a corner, all still there under the asphalt, all still in use. A car on the Old Line stops where a place used to matter, not where a passenger expects.",
-    "The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten. You may follow an old route. You may not assume it goes where the current map says."
+    "The Old One stops the cart beside a puddle. On the dry road, a truck is reversing. In the puddle, rails run beneath it and turn toward the back of the new development.",
+    "The Kid crouches to look. The rails disappear when a tyre breaks the water, then return. The Kid points along the reflected track. “Shortcut?”",
+    "“Once,” says the Old One, already pushing the cart around the long way. The Kid looks from the rails to the brick wall in their path, then follows with the skateboard under one arm.",
+    "Vancouver has removed plenty of routes from its maps. The Repair People can still follow them. The Old Line keeps the ways people used to move, and the places they once had reasons to stop. Its rails do not promise to take anyone where a current map says they should go.",
+    "At the rear of the courtyard, another puddle briefly holds the reflection of an open doorway. Above it stands the same doorway bricked shut. There is no ghost waiting inside. The Old One looks from its worn threshold to the unused new bench.",
+    "On the back of a scrap of paper, the Kid draws the curve of the reflected rail. The Old One taps the near end, then points toward the courtyard entrance.",
+    "They take the drawing to the bench painter. The old route will not be rebuilt as track. A line of paint can still help a person find somewhere to stop."
    ],
    "image_prompt": "Commercial Drive at night after rain, old streetcar rails shining in the puddles where no track exists on the street, an old interurban tram car with no route number arriving out of the dark under a web of trolley wires, shop awnings and reflections.",
    "motifs": "Rails shine in the wet reflections where the street has none; small painted repair sigils mark old stops on the walls; wires drop from a street tree.",
@@ -139,14 +151,22 @@
    },
    "hook": "On wet nights the puddles show rails the street no longer has.",
    "card_sha1": "ba78875a5745dfad592f1975bb749ee0010e6f5b",
-   "chapter_sha1": "fa371a3f138af1aba69f4840fa5ee4fec79f73be"
+   "chapter_sha1": "18947e6a201a88c2a7494c7b58e4d442aa3e35c7"
   },
   "repair-people": {
    "title": "The Repair People",
    "paragraphs": [
-    "Painters, graffiti writers, sticker makers, paste-up crews, photographers, muralists, anyone up a ladder at an odd hour with a bucket and work clothes. Some of them are Repair People. Most are not. You cannot tell which.",
-    "A Repair Person treats a crack in a wall the way a plumber treats a burst pipe. What the city sees as a tag, a sticker, a mural or a fresh coat of paint may be structural maintenance. They are hard to get to know. Ask one a question and you will get a short answer and a person already turning back to the work. Nobody knows exactly what they are, and the city has decided not to ask.",
-    "They take their priorities from the Morning Meeting and their odd ideas from the Green Static. Everything they fix stays visible, because that is the point: the repair is also the art, and the art is what keeps people noticing."
+    "By afternoon, the courtyard looks like somewhere painters are working. A cloth covers the ground. The Old One steadies the cart. The Lanky One reaches high with a roller pole while the Kid works near the bottom. The second painter waits for the first coat to stop shining.",
+    "The bench painter follows the curve on the Kid's scrap: a low line turning in from the entrance toward the bench. At a wall joint, the line breaks. She crosses it with a separate mark, tidies one edge, then tidies it again.",
+    "A police car rolls along the lane.",
+    "Through its side windows, the courtyard is empty. The cloth lies flat. The bicycle leans against the wall. Beside the bench, water rocks once inside the dented bucket.",
+    "The car passes beyond the entrance.",
+    "Six people are painting. The long roller continues upward. The Old One has not lost the place on the wall. The bench painter's brush completes the stroke it was halfway through. Nobody looks after the car.",
+    "Some people who paint walls are Repair People. Most are simply people who paint walls. The difference can be difficult to catch.",
+    "Later, the resident with the cup stops beside the cloth. “What is it?”",
+    "“Not dry,” says the painter.",
+    "The resident steps around the wet work and follows the line to the bench. Music reaches down from the upstairs window. They stay long enough to finish the drink.",
+    "The painter rinses the brush. At the back, the old brick doorway is still dark. Someone is sitting here now. There is still somewhere they have not looked."
    ],
    "image_prompt": "An East Vancouver alley wall layered with murals, posters and stickers, a figure seen from behind on a ladder painting one bold brushstroke across a real crack in the brickwork so that the stroke holds the wall together, paint cans, a roller and a bucket below.",
    "motifs": "The wall is covered in painted symbols that read as occult geometry, one bold mark continuing across a real crack and off the wall into space.",
@@ -160,14 +180,17 @@
    },
    "hook": "Some of the people painting the walls are holding the city together. You cannot tell which.",
    "card_sha1": "de486cc6ae9495b3ad61388c7d190e53c99dd58b",
-   "chapter_sha1": "62051733b264444c79f45d003a556643c562bc9d"
+   "chapter_sha1": "fd56b314d8f2128683c2e369b251ae4a120c0c60"
   },
   "crows": {
    "title": "Crows",
    "paragraphs": [
-    "Every evening the crows cross Vancouver in one long, loose stream, heading east to roost, and every morning they come back. It looks like a commute because it is one. The crows are Terminal City's inspectors, and they are going home after a long shift.",
-    "During the day they check everything: roofs, wires, streets, parks, rails, walls, the edges of the city. They notice the corner that has gone quiet, the wall that has cracked, the boundary that has gone soft. They do not write it down. They carry it to Trout Lake before dawn.",
-    "They are reliable, collective, and blue-collar to the bone, but they are still crows: no uniforms, no lunch pails, no English. If you see a whole flock facing the same point at once, they have found something."
+    "A crow lands above the new courtyard. Below it, a resident sits at the end of a painted line. The upstairs window is open. The painter is knocking water out of a brush.",
+    "Another crow lands farther along the wall. The painter glances up, then toward the newly painted line. Both birds face the old brick doorway at the back. The new paint has brought someone into the courtyard, but nobody has turned toward that corner. Their attention remains there after the resident leaves.",
+    "All day, crows inspect roofs, wires, walls and edges. They notice what changed and what did not. They carry that knowledge with them, without a clipboard, without English, and without making it anyone else's business until morning.",
+    "The bench painter follows their gaze. The second painter puts the roller down and looks too. It is a small unfinished part of a small job. It still counts.",
+    "From farther west, the evening stream begins. One crow leaves the wall. The other waits, then joins the loose line crossing east. More pass over the development without landing.",
+    "The crew wheels its tools out beneath them. At the next lake meeting the report will include a used bench, a working window, and a corner still being missed. For now, the inspectors are going home."
    ],
    "image_prompt": "A long loose formation of crows crossing the dawn sky over East Vancouver rooftops and utility poles, one crow standing perfectly still on a wire in the foreground, an old punch-card time clock mounted on the pole beneath it.",
    "motifs": "Every crow faces the same point; the wires the flock crosses are also growing out of a tree; a punch-clock glyph is painted on the pole.",
@@ -181,14 +204,19 @@
    },
    "hook": "Every evening the crows go home from work.",
    "card_sha1": "1aa8fe851b38982a0c2cfa6cc2b6c3cd8dcc0413",
-   "chapter_sha1": "e9e40a245efa7cbde88c040c484793de62334783"
+   "chapter_sha1": "e811aeed53255347c31790a600a653680500e6cd"
   },
   "sunset": {
    "title": "Sunset",
    "paragraphs": [
-    "In Terminal City the sunset is a shift change. All day the city has been inspected and patched and kept in time. As the light goes through the wires and over the rooftops, the Repair People put their brushes down, the crows head home, and the daytime systems hand the city over to the night.",
-    "You feel it without knowing why. Around sunset people want to stop working, walk, meet someone, eat, listen to something, make something, go out. That is not an accident. Maintenance is not the point of the city. Maintenance exists so that people can eventually stop working, and the sunset is the moment they are allowed to.",
-    "The Nocturnals start scouting. The Wire Choir shifts from daytime traffic to night music. The other city clocks in."
+    "On the third afternoon, the courtyard wall is nearly finished. The first day's low route runs toward the bench. Above it, the second painter's branch opens across the surface without covering every inch. The Cyclist holds the harbour sketch at arm's length. The Kid points to a patch of wall they can leave alone.",
+    "The Lanky One taps a remembered rhythm on the empty bucket. Upstairs, the listener leans out, listens for a moment, then disappears from the window. A few minutes later they come down with a small speaker and choose something of their own.",
+    "The resident with the cup brings a chair. Someone asks about adding a mark. The second painter offers the brush handle first. A careful, slightly crooked stroke joins the composition. The bench painter lifts her own brush toward it. The neighbour goes still. After a moment the painter turns the brush in her hand and lays it across the closed tin. The neighbour breathes out.",
+    "Across the wires, the light changes. In Terminal City, sunset is the handover. The day's work exists so that it can stop: people can sit, eat, listen, talk, or leave for somewhere else.",
+    "Beside the lane-side bin, two older neighbours gather empty liquor bottles into crates in a small wire trolley. One holds the lid while the other drops a loose paper sleeve into the bin. The bottles clink softly as they move on toward the next block.",
+    "The bench painter sets the paint tin aside. The Old One sits down before anybody offers. The resident with the cup points at a new patch of paint. “Dry yet?”",
+    "The painter tests it with one knuckle. “This bit.” The resident moves the chair into that patch of evening. There are still small things that could be improved. They will remain small things for tonight.",
+    "At the rear wall, someone points out the old doorway to a neighbour. The painter sees the gesture, leaves the bucket beneath the bench, and accepts a place beside them."
    ],
    "image_prompt": "A western horizon of water seen past East Vancouver rooftops, utility poles and wires, the sun sinking as a half circle with one line beneath it, a second fainter horizon line drawn above the real one, streetlights already lit, a few people watching from a rooftop and from the seawall.",
    "motifs": "A second, fainter engraved horizon line above the real one; streetlights already lit; a symbol painted on the rooftop parapet the watchers stand behind.",
@@ -202,14 +230,26 @@
    },
    "hook": "Maintenance is not the point of the city.",
    "card_sha1": "822ec259ac87aa60b8e79dd0d0a7f27053fdb0c1",
-   "chapter_sha1": "dfb70a8d40723e5526f515aa571009f30dca3c3c"
+   "chapter_sha1": "69245d851fb3dd4b8c9eb15e72589968e1b5e505"
   },
   "sixth-hour": {
    "title": "The Sixth Hour",
    "paragraphs": [
-    "The Sixth Hour is not six o'clock. It is the sixth hour of music without a break. Some warehouse rooms in East Van are perfectly ordinary for the first five hours. After that, they get less reliable.",
-    "By the sixth hour, distance stretches. The walls breathe by a few millimetres. A door is not quite where it was. Nothing dramatic happens, and nobody could photograph it, but everyone in the room feels the rules of space go soft. Terminal City lets this happen on purpose. Nobody has decided whether it is a malfunction or a pressure release, and nobody in the room is asking.",
-    "The Nocturnals find the room. The Wire Choir carries the signal without admitting it. Whatever gets bent tonight goes on the crows' list tomorrow. The sixth hour starts when the music does."
+    "For the first few hours, the warehouse behaves like a warehouse. Coats pile up. Water glasses gather beside the wall. Above them, two moths circle a shaded light, throwing long shadows from very small wings.",
+    "The bench painter steps outside for air. Under the entrance light, a person in a rain jacket checks a phone, pockets it, and makes no move toward the door.",
+    "“First time?” the painter asks.",
+    "“Is it that obvious?”",
+    "Before she can answer, three people turn into the lane. One deliberately barges a companion against a parked van. They laugh. “Bet I can get someone to swing first,” one says, looking toward the bass behind the door.",
+    "The person in the rain jacket steps back.",
+    "Mist slides along the gutter. By the time the three reach the spill of light, it falls across a blank stretch of brick. They walk past, stop, and come back. One checks a phone. Another pulls at a locked service door. They argue about the address, then head out of the lane together. The music has not missed a beat.",
+    "The painter has stayed beside the hesitant visitor. Her sleeve beads with moisture. Now she presses the ordinary entrance handle; a warm rectangle opens exactly where it should.",
+    "“After you.”",
+    "The visitor laughs once and goes in. The painter follows. Behind them, the low mist thins. No one on the dance floor knows there was anything to interrupt.",
+    "The hours continue. The Lanky One catches a rhythm that recalls the lights beyond the mountains. The upstairs listener has put the phone away. By the sixth uninterrupted hour, the far wall seems a little farther away.",
+    "The second painter lays a palm against the brick. It moves by millimetres. Across the room, the door is slightly to one side of where she remembers it. This is the Sixth Hour: music and moving bodies have made the room less exact.",
+    "A moth lands on the light shade. Its shadow settles along a mortar line. The painter studies her paint-marked palm.",
+    "The visitor, rain jacket now tied around their waist, makes space beside them on the floor. The painter lowers her hand and joins them. Whatever the wall is doing, it can wait.",
+    "Later, outside, the door closes with an ordinary heavy click. The bench painter reaches by habit for a bucket that is still under the courtyard bench, then sets off to fetch it. The visitor leaves in another direction, humming."
    ],
    "image_prompt": "An anonymous windowless East Vancouver warehouse at night on wet pavement, a single small door glowing bright with light spilling out onto the ground, bass waves rippling the brickwork around it, a small painted mark beside the door, a coyote waiting patiently outside.",
    "motifs": "Engraved bass rings ripple the brickwork around the door; a painted sigil marks the door; wires reach the warehouse from a tree across the lot.",
@@ -223,14 +263,17 @@
    },
    "hook": "The sixth hour of music, when the walls start to breathe.",
    "card_sha1": "17bc285c84a71817dcd1309fdac903340a20f532",
-   "chapter_sha1": "906361165b3f10e833596d82375b3bbe535a06f8"
+   "chapter_sha1": "aa20c933baa817a0f306a5477d9b12ea68148b07"
   },
   "nocturnals": {
    "title": "The Nocturnals",
    "paragraphs": [
-    "Something already knows where tonight is. After sunset, before anyone has heard of the room, a set of tracks crosses a wet service road toward it. A shadow moves along a rail cut. A coyote is already waiting at a warehouse door nobody has told you about. In Terminal City these are the Nocturnals: the night scouts.",
-    "They are not a council and not a workforce. They are whatever reliably leads you to the right unmarked door, and they are gone before you can thank them. People follow without meaning to, one coincidence at a time, and end up somewhere the wider city has not noticed yet.",
-    "They take the handoff from the Sunset and lead toward the Sixth Hour. The Green Static, which confuses every scheduled system in the city, does not confuse them at all."
+    "The courtyard does not empty all at once. Someone takes a plate upstairs. Two people stay by the rear wall. The listener puts the small speaker away and comes back down wearing a jacket.",
+    "Out in the lane, a shape slips beyond the next lamp. The Kid notices a set of wet tracks crossing toward the rail cut. The second painter turns at the sound of a door closing farther along. None of these things is an invitation. Together, they are enough to suggest a walk.",
+    "After sunset, Terminal City has its Nocturnals. They find the rooms before most people have heard of them. A track, a shadow, the right movement at the edge of sight: people follow a possibility and believe they found the place themselves. Often they did.",
+    "At the first warehouse door, the Kid tries a handle that does not move. Farther along, at a smaller entrance, a coyote is already standing beside a spill of light. The Kid stops. The animal watches the lane, then moves off between parked vehicles.",
+    "Someone inside opens the door wider. The listener goes in. The second painter follows, then the Kid and the others who came along. The Old One has stayed at the courtyard, quite content with the bench.",
+    "Inside, a record begins. The listener has already found somewhere to stand. The Kid looks back at the empty patch beside the door where the coyote was. Then the door closes, and the bass comes through the floor."
    ],
    "image_prompt": "An East Vancouver service road and rail cut at night, wet pavement, chain-link fence and a loading bay, a trail of animal tracks in the wet leading toward one unmarked warehouse door with a thin line of light under it, only the shadow of an animal slipping out of the edge of the picture, the feeling of being led somewhere, no people.",
    "motifs": "Paw prints and engraved guide-lines lead to the one door; a painted symbol beside it; wires from a tree over the fence run to the loading bay.",
@@ -249,14 +292,17 @@
    },
    "hook": "Something already knows where tonight is.",
    "card_sha1": "fe2a5d794f99bd22931d177bc3b6e9bfd9e256a3",
-   "chapter_sha1": "7407ad0954b521ad2b71924ca2b0ae63e5e6b565"
+   "chapter_sha1": "79a86c59cb931a51410cdd37352a8adeed195c93"
   },
   "terminal-fog": {
    "title": "Terminal Fog",
    "paragraphs": [
-    "The Repair People patch the city all day, one wall at a time. Some things cannot be patched. For those, Terminal City has the fog.",
-    "Late at night, after the after-hours rooms have emptied and the Freight has taken away what cannot stay, fog comes in from the water. It covers the shoreline, the tracks, the lights, the skyline, until enough of Vancouver is hidden for Terminal City to be rebuilt underneath. This is the full rebuild, the one that fixes what a brush cannot.",
-    "When the fog lifts, the city is back. Almost. One familiar thing is gone, or shifted, or slightly wrong, and nobody announces it. Then the crows fly out to inspect the new build, and the cycle returns to Trout Lake."
+    "After the Freight, fog comes in from the water. It covers the rails first, then the warehouse lights, then the upper windows of the new development. The painter carries the recovered bucket down the lane beyond the crossing and disappears into the fog.",
+    "Repair People can work a wall at a time. Terminal Fog works while the walls cannot be seen. It hides enough of Vancouver for the things that local repairs could not settle to be put back together. No one gets to watch the middle of the job.",
+    "Before dawn, the courtyard returns in pieces: entrance, window, branch, bench. At the rear, the sealed doorway looks almost right. Yesterday its shadow crossed a brick joint. This morning the joint lies just beyond the shadow. The bricks are still bricks; the door is still closed.",
+    "On the pale wall, the residents' crooked marks remain. The unpainted gap remains too. Someone brings a cup downstairs and sits before opening a phone. The upstairs window opens, and music reaches the bench.",
+    "The painter passes the entrance on the way to Trout Lake. For a moment the bucket stops swinging. The painter looks at the crooked stroke, then at the person sitting beneath it. The bucket begins to swing again.",
+    "At the lake, crows are already gathering. The others arrive by their separate routes. Somewhere else in Vancouver there is another wall, another window, another place worth stopping. The painter sits down and opens a hand."
    ],
    "image_prompt": "A great bank of fog rolling in from the harbour and swallowing ship masts, a crane tip, downtown towers and rail lines, everything dissolving into blank white paper, while in the foreground a small still lake with reeds and one crow remains the last visible place.",
    "motifs": "The fog is drawn as engraved smoke lines erasing one building completely; a glyph on the last visible wall at the lake.",
@@ -270,14 +316,17 @@
    },
    "hook": "The fog takes the city apart and puts it back almost right.",
    "card_sha1": "9f54c23642e596345e124f30a93c85e957436b05",
-   "chapter_sha1": "b59503d88ec2ac2c2b4ba33a89ef4dc550ad0268"
+   "chapter_sha1": "517d8d1e8d2885f1498e99f4a305b6bbb752f600"
   },
   "eternal-night": {
    "title": "Eternal Night",
    "paragraphs": [
-    "Not every part of the city gets looked at. Sealed doors, empty windows, a sign for a shop that closed years ago, a painting on a wall nobody walks past anymore. Where attention has withdrawn, the night stays, even at noon. This is the Eternal Night.",
-    "It is not a place so much as a condition, and it is the one thing Terminal City works against. Not a villain. Just forgetting. When people stop noticing a room, a wall, a habit a neighbourhood had, the night settles into it, and what was there goes missing, quietly, without anyone deciding it should.",
-    "The crows inspect its edges and carry them to Trout Lake. By day the Repair People are sent there; what a brush cannot fix, the fog rebuilds; what cannot be rebuilt, the Freight takes away. The Eternal Night keeps nothing. It only shows the city where it is losing."
+    "The new paint catches the last light. Behind it, the old doorway seems to have missed the afternoon entirely.",
+    "The bench painter and the Old One stand beside the sealed brick opening after the crows have gone east. At the front, the resident with the cup is telling someone about the music from upstairs. Neither person looks this far back.",
+    "Eternal Night gathers where attention has withdrawn. It does not need the whole city to become dark. An old sign, an unused room or a piece of wall can fall out of people's lives while the street around it stays busy. Nothing comes to take it. Fewer people have reasons to notice, until almost nobody does.",
+    "The painter puts a small mark across the doorway's worn edge. The brick becomes easier to distinguish. Nobody turns. She adds a second, brighter touch and waits. At the entrance, someone laughs at something the resident has said. Neither looks back. The painter studies the paint still on her brush.",
+    "The Old One holds out the brush rag. After a moment the painter takes it. The Old One brushes a little grit from the threshold. In the puddle below, there is no old route tonight, only the two workers and the new wall behind them.",
+    "They leave the mark in place. The courtyard already has music and somewhere to sit. Tomorrow they can give the eye a reason to travel farther. At the entrance, the painter looks back once. The corner is still there."
    ],
    "image_prompt": "An old brick building in the deepest hour of night with a sealed loading door, empty windows, a painted shop sign faded past reading, an old mural fading on the side wall, deep architectural shadow and rain, one window impossibly black as if it absorbs the light of the street lamp, an empty street, no people anywhere.",
    "motifs": "One window impossibly black, drawn as absolute ink; faded painted symbols on the sealed loading door; no people.",
@@ -296,14 +345,17 @@
    "hook": "Where nobody looks anymore, the night stays.",
    "source_photo": "EV_0058",
    "card_sha1": "7eb91f6f7531586a8352e0c07eda8fd6d66e3fbb",
-   "chapter_sha1": "56d2c4d94f9ddcf640bfc5a9e01d4cb3237cf7ac"
+   "chapter_sha1": "117f6de4450f42d1c5870c3d49eb659408954144"
   },
   "outer-circuit": {
    "title": "The Outer Circuit",
    "paragraphs": [
-    "The seawall looks like a path. It is also the edge of the city, and edges have to be checked. Every walker, runner and cyclist on the seawall, and every person who cannot sleep and goes for a walk along the water at two in the morning, is checking it without knowing.",
-    "In Terminal City their movement is what keeps the edge in place. A person tracing the city's edge, again and again, holds that edge where it is. When the movement thins out, a stretch of path or shoreline can start to drift, or a lamp repeats itself farther around the bend than it should.",
-    "The Green Static scrambles the Circuit's signals around Stanley Park, and somewhere near Wreck Beach there is a gap it has never fully closed. The rule is the shortest one in the city."
+    "After the harbour, the Cyclist takes the long way around the water. A runner passes. Farther ahead, a person walks slowly with both hands in their pockets. Each rounds the same bend and disappears for a moment.",
+    "Where the trees lean over the path, the Cyclist stops to look at the crowded harbour sketch again. A lamp with a bent-looking reflection stands ahead. Around the next bend, there appears to be the same lamp, with the same reflection. The path feels longer than it did a moment ago.",
+    "The walker comes through, then another runner. The Cyclist closes the book and rolls after them. At the bend there is one lamp, an ordinary stretch of path, and the next curve of water.",
+    "In Terminal City, the seawall is known as the Outer Circuit. The people moving along it are keeping track of the city's edge without having agreed to a job. Walk, run, ride, wander because sleep would not come: each journey confirms a little more shoreline.",
+    "The book goes away. There is no need to solve the sketch while balancing a bicycle. At the tree line, a raccoon steps out beside a root, pauses with one paw on the path, and slips back into the leaves. The Cyclist sees only the last rings of its tail.",
+    "As evening settles, the Cyclist reaches a view across Burrard Inlet. Lights are beginning to appear on the far shore. This seems like a better place to stop."
    ],
    "image_prompt": "The Vancouver seawall curving away at blue hour, a wet path with water on one side and the city on the other, a row of old lamp posts repeating into the distance and disappearing around the bend, a cyclist and a runner, one lamp post drawn a second time where it should not be.",
    "motifs": "One lamp repeats farther around the bend than it should; engraved boundary geometry runs along the wall's edge; wires from a shoreline tree run into the lamps.",
@@ -318,14 +370,17 @@
    },
    "hook": "Keep moving, and the edge of the city holds.",
    "card_sha1": "e1003a58766c141a5256cf50134d038842a1e3fe",
-   "chapter_sha1": "84c9eec7a25c40f194b05bfe1466c3b2dc02ee23"
+   "chapter_sha1": "c84f9a9b006ff24020164e2777e018526f452b33"
   },
   "green-static": {
    "title": "Green Static",
    "paragraphs": [
-    "At the edge of Stanley Park, the Wire Choir goes quiet. Inside, it fails completely. Schedules turn approximate, clocks drift, and the ideas you were carrying in with you simply disappear. This is the Green Static, and it is the one place in Terminal City where the city cannot hear itself.",
-    "That is the point. In place of the lost signal come things nobody sent: a melody, a colour, a picture, a rhythm that refuses the grid. Artists and Repair People walk into the trees on purpose to lose the signal and see what turns up instead. Whatever they bring out is unauthorized, and unauthorized does not mean unwanted.",
-    "The Outer Circuit runs around the park but never gets in. The Nocturnals pass through it easily. Without the Green Static, the city would become perfectly synchronized, and a perfectly synchronized city is a silent one. Lose signal. Go green. Hear nothing. Bring something back."
+    "At the second morning's Meeting, the bench painter listens with yesterday's pale paint still on the sleeve. The crew knows the courtyard now. Before they separate, the second painter looks toward the trees beyond the lake. Later, after a trip across town, she takes a path into Stanley Park.",
+    "At the forest edge, the music in her headphones breaks up. A few steps farther in, it disappears. She takes the headphones off. The roller is back at the job; today she has only the small bag and a scrap of paper.",
+    "Beside the trail, a person sits meditating on a dry patch of ground. They do not look up. Wind moves the high branches. Somewhere close, water drops from a leaf.",
+    "In Green Static the Wire Choir loses its reach. The plans people carried into the trees become less certain. Other things have space to arrive. The person beside the trail may simply have come for quiet. The painter decides to stay a while too.",
+    "She takes out the paper and draws the old doorway as a cramped rectangle. A branch is added, then another; soon the doorway is lost among them. She turns the paper over and puts it away. Later, looking between two branches, she sees a line separate and meet again, leaving an opening in the middle. On the clean reverse of the paper, she draws that opening with a single loose stroke.",
+    "Back at the courtyard, she tries one branching stroke near the old doorway. It is not what she had planned that morning. She leaves it there to look at tomorrow."
    ],
    "image_prompt": "A dense Stanley Park forest trail under enormous old trees and fog, radio-wave arcs arriving from the city and dissolving into leaves at the edge of the trees, a musician sitting on a fallen log with headphones on listening to nothing, a faint glow of the city far beyond the trunks.",
    "motifs": "Engraved signal arcs from the city dissolve into leaves at the tree line; wires come out of the old-growth trunks and end in nothing.",
@@ -339,14 +394,17 @@
    },
    "hook": "The one place the city cannot hear itself.",
    "card_sha1": "95ac2bf85778891cb6d5353011e30c330299c44b",
-   "chapter_sha1": "c914b36aaea505634d962dfa870d2278604d397f"
+   "chapter_sha1": "7f124defc47d39a5b7a49cab0e79bc31a19a4405"
   },
   "endless-stair": {
    "title": "The Endless Stair",
    "paragraphs": [
-    "At the far western edge of the city, a long wooden staircase drops through the trees toward Wreck Beach. Everyone agrees there is a beautiful beach at the bottom. Nobody agrees on how many steps it takes to get there, and the people who make it down describe the beach differently every time.",
-    "The stair is the city's way out. It feeds something Terminal City cannot make for itself: scale, sky, sea, the feeling of leaving the useful world behind for a while. People stand at the bottom and feel small and glad about it, and the city receives that too. The stairs know when you are counting. Stop, and they add steps.",
-    "The Outer Circuit cannot quite contain it. The Beyond starts somewhere past the bottom. Sometimes the fog comes up the stairs instead of in from the sea."
+    "On the third morning, the Kid leaves Trout Lake carrying a skateboard and no paint. At the courtyard the others are looking at sketches. There will still be a wall in the afternoon.",
+    "After the bus ride west, the Kid stands at the top of the wooden stairs above Wreck Beach. Trees hide the bottom. The board goes under one arm. The descent begins with a count kept under the breath.",
+    "Halfway down, light opens between the trunks. The Kid stops counting to look. Below the next landing, there seem to be more steps than there were a moment ago. The Kid sighs and begins the count again. After three steps, the sea flashes between the trees. The Kid looks at it, looks at the next flight, and gives up counting.",
+    "The Endless Stair is one of the city's ways out of being useful for a while. At the bottom are sea, sky and enough distance to make a wall feel small. People come down for that without needing another reason. The stairs can keep their own accounting.",
+    "At the beach, the Kid sits on the board above the wet sand. In a shallow pool among the nearby stones, a small crab moves sideways through the reflected sky and disappears beneath a ledge. The Kid watches the water settle. On a scrap of paper, one line marks the horizon. Most of the page stays empty.",
+    "Later, back at the courtyard, the sketch is set beside the others. The Kid points to a gap between two painted branches. Nobody reaches to fill it. There is room enough to leave something open."
    ],
    "image_prompt": "An impossibly long wooden staircase with railings descending through tall coastal cedar and fir trees into fog, the steps continuing far beyond what is possible, one small figure partway down counting the steps, the lowest steps fading into blank white paper.",
    "motifs": "The stairs continue far past what perspective allows, into blank; small counting marks carved on the rails; wires drop from the trees alongside.",
@@ -361,14 +419,17 @@
    },
    "hook": "Everyone agrees there is a beach at the bottom.",
    "card_sha1": "024ed37a65035b5efdf10d6dad1de27afc0ffbf6",
-   "chapter_sha1": "0ee1c8c3bba3a5d3a3195551654b3be2ea5d61a9"
+   "chapter_sha1": "3f6cf7f2ab289257afd65d4c5a61f8c5f2f561bb"
   },
   "beyond": {
    "title": "The Beyond",
    "paragraphs": [
-    "Past the mountains, the city's signal ends, and that is where The Beyond begins: the forests, the rivers, the highways, and the temporary towns of speakers, lights and tents that appear in the wilderness for a weekend and vanish.",
-    "Vancouver people leave the grid for The Beyond and come back different. They bring rhythms the city has never played, techniques nobody here taught them, ways of being together that the streets did not have before. The Probes bring the machine version of outside news through the port. The Beyond brings the human version, on dusty cars, at dawn.",
-    "The Green Static gets people ready to receive new ideas. The Beyond supplies them. The Wire Choir sounds different for weeks after a return."
+    "The Lanky One returns on the third afternoon in a van with dust on its lower doors. The roller pole is still beside the Old One's cart, exactly where it was left after yesterday's Meeting.",
+    "Yesterday, after leaving the lake, the Lanky One rode out past the city's last warehouses and toward the mountains. Wires gave way to a highway, then a smaller road. In a clearing, a temporary gathering was still finding its shape: tents, speakers, strings of lights, people carrying things for one another.",
+    "This is the Beyond. People leave the city's familiar arrangements and spend a little time among other ones. There are different rhythms, different distances between neighbours, different ways of making an evening work. The mountains themselves need no explanation.",
+    "After dark, the Lanky One sat beside the van and listened to music whose beat seemed to lean slightly to one side. A hand tapped it against a knee. A phone was held up for a short recording, then slid into a coat pocket before it had stopped.",
+    "Now, back in the courtyard, the Lanky One plays the recording. There is a burst of music, then a long scrape of fabric and the van door shutting. The Kid looks at the phone. The Lanky One pockets it and tries the remembered rhythm on an empty bucket. The Kid answers on the skateboard's wooden underside. They stop, laugh once, and try it differently.",
+    "The roller pole is picked up again. The wall still needs its last stretch. Something from outside the city has come back without needing to be unloaded."
    ],
    "image_prompt": "The North Shore mountain skyline seen past harbour cranes, wires and rooftops, with one extra ridge line drawn faintly behind the real one, a road climbing up into cloud, and in a valley beyond the mountains a small temporary camp of tents, speaker stacks and a little stage, a line of birds leaving the city and another line returning.",
    "motifs": "One extra engraved ridge behind the real mountains; a glyph of an outbound and a returning arrow in the sky; wires trail from the roadside trees toward the pass.",
@@ -382,14 +443,17 @@
    },
    "hook": "Past the mountains the signal ends. People go anyway.",
    "card_sha1": "2ed48d4ee1f68b0793a945e825af59f9ec560c19",
-   "chapter_sha1": "0a9ec9c172348c3efcc67aa780ef5a03fc6c26b0"
+   "chapter_sha1": "5236c51ccd37a4c52afcc05176e25e3375fc5727"
   },
   "far-shore": {
    "title": "Far Shore",
    "paragraphs": [
-    "Across Burrard Inlet, the lights of North Vancouver climb the lower slopes of the mountains. On the right night, seen from this side of the water, they arrange themselves into long flowing shapes, like a script in a language nobody here speaks.",
-    "Cross the bridge and they are apartments again. That is not a trick. Some things cannot be understood up close. They only resolve after a distance has been crossed: water, language, a different way of living, a few kilometres of dark. The Far Shore is where the things the city cannot understand are turned into things it can use, and the water in between is what does the work.",
-    "The Probes send their unknowns across to it. What comes back sounds different on the wires for weeks. Nobody on either side has ever read the lights aloud, and they never spell anything. They only resolve, and only from the other side."
+    "The Cyclist stops where the inlet opens toward the North Shore. Behind the bicycle, footsteps continue along the path. Across the water, apartments are lighting up among the lower slopes.",
+    "The harbour sketch comes out again. Held close, its marks still press against one another. The pencil comes out for one more correction, then stops above the page. The Cyclist lowers it and looks across the inlet. A bright cluster, a dark interval, a longer scattered line: the lights seem to take on a flowing shape, then become windows again. The pencil remains still.",
+    "Some things need distance before they can be understood. In Terminal City, this is the Far Shore. Unfamiliar material from the port, or from people returning from beyond the city, can find a usable arrangement here. The water gives it room. Nothing needs to become a word.",
+    "The Cyclist holds the page farther away. The crowded marks resolve into three groups with space between them. On the facing page, the same groups are drawn again, this time with more paper left around each one.",
+    "Across the inlet, someone closes a curtain. The pattern changes. They are still apartments, with people inside getting on with the evening.",
+    "The Cyclist puts the book away and turns home. Tomorrow the second painter can see the sketch from the far end of the courtyard before making another mark."
    ],
    "image_prompt": "North Vancouver seen at night across Burrard Inlet from the south shore, dark mountain slopes and rows of apartment lights, a handful of the lights joined into one flowing, graceful, unreadable calligraphic curve rising like smoke, definitely not real letters or words, the pattern reflected in the water.",
    "motifs": "A handful of the apartment lights are joined into one flowing engraved curve rising like smoke, never letters; the water carries the reflection.",
@@ -408,14 +472,17 @@
    "hook": "Some things only make sense from across the water.",
    "source_photo": "EV_0073",
    "card_sha1": "0e5f7d4dec065d9db0f95e89649e0a7cdfdf70b8",
-   "chapter_sha1": "7af1e150d69e61cf032034b8ac46d3d60c43e333"
+   "chapter_sha1": "7f631d4aefa1291b3ec2008a55c98c8535f1877b"
   },
   "3-17-freight": {
    "title": "The 3:17 Freight",
    "paragraphs": [
-    "At 3:17 in the morning, a freight train crosses the East Van rail corridor by the False Creek flats. The train does not arrive at 3:17. 3:17 arrives with the train. Every clock within earshot holds at 3:17, or turns to it, for as long as the cars are passing, and lets go when the last one has.",
-    "The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, objects that ended up in the wrong place, the residue of a long night: anything the city cannot reconcile in the current build gets loaded onto the Freight and carried out. Nobody has explained who does the loading, and the city is not in a hurry to find out. The train goes on longer than it should. Cars repeat. Which is one more reason not to count them.",
-    "The Old Line keeps what must be remembered. The Freight removes what cannot remain. When it has gone, the fog comes in behind it and the rebuild begins."
+    "The painter returns to the courtyard after the warehouse night. The chair has been moved beside the bench. A cup has been left on the sill. The new marks are dry, including the crooked one. Under the bench, the bucket waits.",
+    "On the way home, the crossing lights begin. The painter stops with the bucket by one boot. A freight train enters the crossing. The nearby clock shows 3:17. So does the phone briefly lit in a waiting driver's hand. The painter checks the clock again after another car. Still 3:17. In the driver’s hand, the phone has not moved on either.",
+    "The train brings its own time. It also carries away what cannot remain through the next rebuild: failed patches, leftover arrangements, things that no longer have somewhere to remain. Nobody watching the crossing sees them loaded.",
+    "Between two ribs of a passing car, the painter glimpses a pale rectangle with a line crowded into one corner. It resembles a version of the courtyard that never quite worked. The next car looks familiar. The painter looks down at the bucket instead of counting.",
+    "Eventually the last car passes. The clocks let go. The crossing opens.",
+    "The painter lifts the bucket and continues. Behind the rails, fog is gathering over the low ground. At the courtyard, the painting is still on the wall, and the chair is still turned toward the music."
    ],
    "image_prompt": "A long freight train crossing an East Vancouver rail corridor at night beside dark industrial flats, the train stretching farther into the distance than it should with cars that seem to repeat, a rail crossing signal, and several clock faces visible in the scene (a station clock, a clock in a window, a clock on a pole) whose hands all show seventeen minutes past three, wet ground, no people.",
    "motifs": "Several clock faces with hands at seventeen past three and no numbers; the cars repeat; engraved export geometry along the corridor; a painted symbol on the crossing post.",
@@ -434,7 +501,7 @@
    "hook": "The train does not arrive at 3:17. 3:17 arrives with the train.",
    "source_photo": "EV_0094",
    "card_sha1": "ae4be0365505b5d60df0946bed85d878fe276a35",
-   "chapter_sha1": "6fa8fc8548112c228d05685397a7bb579f86ad92"
+   "chapter_sha1": "71eae7abae03d9765e5e5689868ad4b94d9b9e8f"
   }
  },
  "redirects": {
@@ -450,6 +517,6 @@
   "portrait": "/Users/stevehiehn/sas-platform/album-art/assets/credits/steve.png",
   "_portrait_note": "Steve's photo (2026-09-11); shown small, round, greyscale on the home page only"
  },
- "story_draft": "0.1",
- "story_sha1": "11e6accb6dabb064fd21754dd637d11440675f62"
+ "story_draft": "0.6",
+ "story_sha1": "55035e82f9d6a09e21837974ae37beca6d625559"
 }
