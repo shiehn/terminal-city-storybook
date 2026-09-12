@@ -5,6 +5,12 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.9.1 — 2026-09-12
+
+- Google Analytics 4 (property "Terminal City", stream terminalcity.music, `G-KDMEGT6G1W`): the gtag snippet in the `<head>`
+  of the home page and every chapter page (redirect stubs excluded). Enhanced measurement counts page views, scrolls,
+  outbound clicks and YouTube embed plays. No visible change.
+
 ## 0.9.0 — 2026-09-12
 
 - **The Story.** Steve: "I have used codex to create the stories and update the folklore." The chapter text now mirrors the
