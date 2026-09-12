@@ -25,7 +25,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Before sunrise, someone feeds the crows at Trout Lake. That is the whole meeting."
+   "hook": "Before sunrise, someone feeds the crows at Trout Lake. That is the whole meeting.",
+   "card_sha1": "417f457a1e8f7c25164a32b0a808d5552c504ce1"
   },
   "morning-mist": {
    "title": "Morning Mist",
@@ -45,7 +46,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Some mornings the whole city wakes up knowing the same thing, and nobody said it."
+   "hook": "Some mornings the whole city wakes up knowing the same thing, and nobody said it.",
+   "card_sha1": "52997ffc7ce7727ce36ae4d9862c9bdf531b6088"
   },
   "wire-choir": {
    "title": "The Wire Choir",
@@ -65,7 +67,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "The right song, at the right moment, out of somebody else's window."
+   "hook": "The right song, at the right moment, out of somebody else's window.",
+   "card_sha1": "f6408ef13011aa957d7858152bd0f2e572a5f905"
   },
   "clock": {
    "title": "The Clock",
@@ -89,7 +92,8 @@
     "ground": "paper"
    },
    "hook": "Every city needs a clock. Vancouver rides inside its.",
-   "author_note": "story = Steve's own text verbatim (sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md), his one-line paragraphs grouped; the first two sentences are the hook"
+   "author_note": "story = Steve's own text verbatim (sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md), his one-line paragraphs grouped; the first two sentences are the hook",
+   "card_sha1": "0228171b58397098e0db96132c56b710b586b9d5"
   },
   "probes": {
    "title": "The Probes",
@@ -108,7 +112,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "The cranes are not loading ships. They are listening to somewhere else."
+   "hook": "The cranes are not loading ships. They are listening to somewhere else.",
+   "card_sha1": "ddf9d26d2c2572871296f62367064a740fe5e708"
   },
   "old-line": {
    "title": "The Old Line",
@@ -127,7 +132,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "On wet nights the puddles show rails the street no longer has."
+   "hook": "On wet nights the puddles show rails the street no longer has.",
+   "card_sha1": "ba78875a5745dfad592f1975bb749ee0010e6f5b"
   },
   "repair-people": {
    "title": "The Repair People",
@@ -146,7 +152,8 @@
     "picked_by": "steve",
     "ground": "paper"
    },
-   "hook": "Some of the people painting the walls are holding the city together. You cannot tell which."
+   "hook": "Some of the people painting the walls are holding the city together. You cannot tell which.",
+   "card_sha1": "de486cc6ae9495b3ad61388c7d190e53c99dd58b"
   },
   "crows": {
    "title": "Crows",
@@ -165,7 +172,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Every evening the crows go home from work."
+   "hook": "Every evening the crows go home from work.",
+   "card_sha1": "1aa8fe851b38982a0c2cfa6cc2b6c3cd8dcc0413"
   },
   "sunset": {
    "title": "Sunset",
@@ -184,7 +192,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Maintenance is not the point of the city."
+   "hook": "Maintenance is not the point of the city.",
+   "card_sha1": "822ec259ac87aa60b8e79dd0d0a7f27053fdb0c1"
   },
   "sixth-hour": {
    "title": "The Sixth Hour",
@@ -203,7 +212,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "The sixth hour of music, when the walls start to breathe."
+   "hook": "The sixth hour of music, when the walls start to breathe.",
+   "card_sha1": "17bc285c84a71817dcd1309fdac903340a20f532"
   },
   "nocturnals": {
    "title": "The Nocturnals",
@@ -227,7 +237,8 @@
     "ground": "black",
     "source_photo": "EV_0128"
    },
-   "hook": "Something already knows where tonight is."
+   "hook": "Something already knows where tonight is.",
+   "card_sha1": "fe2a5d794f99bd22931d177bc3b6e9bfd9e256a3"
   },
   "terminal-fog": {
    "title": "Terminal Fog",
@@ -246,7 +257,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "The fog takes the city apart and puts it back almost right."
+   "hook": "The fog takes the city apart and puts it back almost right.",
+   "card_sha1": "9f54c23642e596345e124f30a93c85e957436b05"
   },
   "eternal-night": {
    "title": "Eternal Night",
@@ -270,7 +282,8 @@
     "source_photo": "EV_0058"
    },
    "hook": "Where nobody looks anymore, the night stays.",
-   "source_photo": "EV_0058"
+   "source_photo": "EV_0058",
+   "card_sha1": "7eb91f6f7531586a8352e0c07eda8fd6d66e3fbb"
   },
   "outer-circuit": {
    "title": "The Outer Circuit",
@@ -290,7 +303,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Keep moving, and the edge of the city holds."
+   "hook": "Keep moving, and the edge of the city holds.",
+   "card_sha1": "e1003a58766c141a5256cf50134d038842a1e3fe"
   },
   "green-static": {
    "title": "Green Static",
@@ -309,7 +323,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "The one place the city cannot hear itself."
+   "hook": "The one place the city cannot hear itself.",
+   "card_sha1": "95ac2bf85778891cb6d5353011e30c330299c44b"
   },
   "endless-stair": {
    "title": "The Endless Stair",
@@ -329,7 +344,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Everyone agrees there is a beach at the bottom."
+   "hook": "Everyone agrees there is a beach at the bottom.",
+   "card_sha1": "024ed37a65035b5efdf10d6dad1de27afc0ffbf6"
   },
   "beyond": {
    "title": "The Beyond",
@@ -348,7 +364,8 @@
     "picked_by": "alignment",
     "ground": "paper"
    },
-   "hook": "Past the mountains the signal ends. People go anyway."
+   "hook": "Past the mountains the signal ends. People go anyway.",
+   "card_sha1": "2ed48d4ee1f68b0793a945e825af59f9ec560c19"
   },
   "far-shore": {
    "title": "Far Shore",
@@ -372,7 +389,8 @@
     "source_photo": "EV_0073"
    },
    "hook": "Some things only make sense from across the water.",
-   "source_photo": "EV_0073"
+   "source_photo": "EV_0073",
+   "card_sha1": "0e5f7d4dec065d9db0f95e89649e0a7cdfdf70b8"
   },
   "3-17-freight": {
    "title": "The 3:17 Freight",
@@ -396,7 +414,8 @@
     "source_photo": "EV_0094"
    },
    "hook": "The train does not arrive at 3:17. 3:17 arrives with the train.",
-   "source_photo": "EV_0094"
+   "source_photo": "EV_0094",
+   "card_sha1": "ae4be0365505b5d60df0946bed85d878fe276a35"
   }
  },
  "redirects": {
