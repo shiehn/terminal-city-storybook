@@ -29,7 +29,8 @@
    },
    "hook": "Before sunrise, someone feeds the crows at Trout Lake. That is the whole meeting.",
    "card_sha1": "417f457a1e8f7c25164a32b0a808d5552c504ce1",
-   "chapter_sha1": "b6808f3dff2348afc7008f2ac9176f9ab172539b"
+   "chapter_sha1": "91f85320d3108652b7b7e38bfd20c00fb0856352",
+   "site_summary": "Every morning before the sun, a thin mist lies on Trout Lake, and the day's first meeting happens where almost nobody sees it. If you walked past you would see a murder of crows in a tree by the water and one weathered street artist on a bench, paint on their hands, feeding them. That is the whole meeting. The crows are reporting: they spent yesterday over the roofs, wires, walls and parks and noticed which corners have gone quiet and where music, art and attention are running thin. They do not speak English. The painter understands anyway. No chairperson, no agenda, no minutes. The meeting decides what the city needs today.\n\n**Continuity.** Opening. Preserve the prototype convergence; establish the courtyard in the existing water-report scene. The six attendees separate only after the Meeting."
   },
   "morning-mist": {
    "title": "Morning Mist",
@@ -53,7 +54,8 @@
    },
    "hook": "Some mornings the whole city wakes up knowing the same thing, and nobody said it.",
    "card_sha1": "52997ffc7ce7727ce36ae4d9862c9bdf531b6088",
-   "chapter_sha1": "c6851ca833e52491f9123afbe8e4a90ba170d337"
+   "chapter_sha1": "390b78fdc95e3783bf1fbf7210b60bac9baed593",
+   "site_summary": "Some mornings the whole city wakes up knowing the same thing, and nobody said it. Before sunrise a thin mist drifts out of Trout Lake, where it waited through the meeting, and settles over every district, catching on wires, wet paint, rails, glass and branches. It carries no instructions. Nothing is written in the air. But under it, things that have nothing to do with each other change together: a painter turns to a wall she was not going to paint, a radio three streets away changes its tone at the same moment. That is how you spot it. The mist carries what is needed, not how to do it.\n\n**Continuity.** After 01; before 06. First sight of the actual courtyard. Its walls are still unpainted and the first receiver is not yet connected."
   },
   "wire-choir": {
    "title": "The Wire Choir",
@@ -77,7 +79,8 @@
    },
    "hook": "The right song, at the right moment, out of somebody else's window.",
    "card_sha1": "f6408ef13011aa957d7858152bd0f2e572a5f905",
-   "chapter_sha1": "65fb0266cf945686485ea3b51b3cc695574ad42d"
+   "chapter_sha1": "b4d353aa6b5385b49f1b25007fe56e6698cc6e3c",
+   "site_summary": "Look up in an East Van lane: poles, layers of wires, trolley lines, transformers. Add every radio, every car stereo, every pair of headphones and the bass leaking under a warehouse door, and you have the Wire Choir. It is how Terminal City sings to itself. When a neighbourhood goes quiet the Choir leans on coincidence: somebody's car at a red light playing the exact song, a band rehearsing through a wall you happen to be leaning on, a window left open. You still choose what you listen to. You really did. The timing was just a little too good. No one hears the broadcast as an announcement.\n\n**Continuity.** Chronologically after 04, before 07. Revisit the receiver glimpse from 04, then stay with the sound connection. A small corner mark exists; the long entrance line is painted in 07."
   },
   "clock": {
    "title": "The Clock",
@@ -102,7 +105,8 @@
    "hook": "Every city needs a clock. Vancouver rides inside its.",
    "author_note": "story = Steve's own text verbatim (sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md), his one-line paragraphs grouped; the first two sentences are the hook",
    "card_sha1": "0228171b58397098e0db96132c56b710b586b9d5",
-   "chapter_sha1": "91fa57becd4d38be700ab0d1bd3552d8a11d0cff"
+   "chapter_sha1": "f53b365d4e0d3dfdc5b56ac133b4e30655276f56",
+   "site_summary": "Terminal City calls the SkyTrain the Clock. All day it moves above and beneath the streets, closing doors, sounding chimes, crossing itself and pulling away again. Thousands of people use it to get somewhere; almost none notice what else it is doing. The trains do not follow the rhythm of the city. The city follows the trains. A door closes at Commercial–Broadway and, somewhere across town, a light changes. The Clock does not tell Terminal City what time it is. It distributes time. Occasionally it drifts, by a second or two, and the whole city feels late. Then a train passes, the doors close, and the city catches up.\n\n**Continuity.** After 06; before 03. The Old One has revealed the remembered route. Synchronization prepares the sound connection; chapter 03 stays with that connection and its first listener."
   },
   "probes": {
    "title": "The Probes",
@@ -126,7 +130,8 @@
    },
    "hook": "The cranes are not loading ships. They are listening to somewhere else.",
    "card_sha1": "ddf9d26d2c2572871296f62367064a740fe5e708",
-   "chapter_sha1": "d89803d6093ba0a71190351855b836d5f85c8190"
+   "chapter_sha1": "2781707eeb9ac3b5ce0d70b6186a108ed16aae8c",
+   "site_summary": "Down at the port the giant cranes stand along the water. To most people they are machinery. In Terminal City they are the Probes, and they are not loading ships. They are listening to somewhere else. Ships leave the harbour with questions and come back with weather, objects, languages, sounds, rumours, materials and patterns nobody here has seen before, and the cranes lift it all ashore. Sometimes the cargo is only the box the information travelled in. Without the Probes the city would only ever feed on itself. If you see a crane turned to face inland instead of the sea, it has learned something.\n\n**Continuity.** After 15 in the reading order. The Cyclist is on a separate route from the second painter. The sketch made here is the same sketch carried through 14 and understood in 18."
   },
   "old-line": {
    "title": "The Old Line",
@@ -151,7 +156,8 @@
    },
    "hook": "On wet nights the puddles show rails the street no longer has.",
    "card_sha1": "ba78875a5745dfad592f1975bb749ee0010e6f5b",
-   "chapter_sha1": "18947e6a201a88c2a7494c7b58e4d442aa3e35c7"
+   "chapter_sha1": "092c06496bdf7ffaba8bf7cfc252391d2a2a6774",
+   "site_summary": "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection. This is the Old Line. It does not run on a timetable and it does not care what the current map says; old alignments and old versions of a corner are all still there under the asphalt, all still in use. The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten.\n\n**Continuity.** After 02; before 04. No large painting yet. The observed rail curve becomes the low route line painted in 07, not a demand to reconstruct an old building."
   },
   "repair-people": {
    "title": "The Repair People",
@@ -180,7 +186,8 @@
    },
    "hook": "Some of the people painting the walls are holding the city together. You cannot tell which.",
    "card_sha1": "de486cc6ae9495b3ad61388c7d190e53c99dd58b",
-   "chapter_sha1": "fd56b314d8f2128683c2e369b251ae4a120c0c60"
+   "chapter_sha1": "04a8de9c26222c73a4df9a6f81c20f5018e15f7a",
+   "site_summary": "Painters, graffiti writers, sticker makers, paste-up crews, photographers, anyone up a ladder at an odd hour with a bucket and work clothes. Some of them are Repair People. Most are not. You cannot tell which. A Repair Person treats a crack in a wall the way a plumber treats a burst pipe: what the city sees as a tag, a sticker, a mural or a fresh coat of paint may be structural maintenance. They are hard to get to know. Ask one a question and you get a short answer and a person already turning back to the work. Everything they fix stays visible, because the repair is also the art, and the art is what keeps people noticing.\n\n**Continuity.** After 03; before 08. Show only the first-day composition. Forest branches, harbour spacing and residents’ marks arrive later."
   },
   "crows": {
    "title": "Crows",
@@ -204,7 +211,8 @@
    },
    "hook": "Every evening the crows go home from work.",
    "card_sha1": "1aa8fe851b38982a0c2cfa6cc2b6c3cd8dcc0413",
-   "chapter_sha1": "e811aeed53255347c31790a600a653680500e6cd"
+   "chapter_sha1": "74843d4bfcbd853dbcb82f6f8bbfd88282aa8ba7",
+   "site_summary": "Every evening the crows cross Vancouver in one long, loose stream, heading east to roost, and every morning they come back. It looks like a commute because it is one. The crows are Terminal City's inspectors, going home after a long shift. During the day they check everything: roofs, wires, streets, parks, rails, walls, the edges of the city. They notice the corner that has gone quiet, the wall that has cracked, the boundary gone soft. They do not write it down. They carry it to Trout Lake before dawn. Reliable, collective, blue-collar to the bone, but still crows: no uniforms, no lunch pails, no English.\n\n**Continuity.** After 07; before 13. Crows inspect before leaving to roost. The rear doorway is the remaining attention gap; do not send the flock back to a nighttime Meeting."
   },
   "sunset": {
    "title": "Sunset",
@@ -230,7 +238,8 @@
    },
    "hook": "Maintenance is not the point of the city.",
    "card_sha1": "822ec259ac87aa60b8e79dd0d0a7f27053fdb0c1",
-   "chapter_sha1": "69245d851fb3dd4b8c9eb15e72589968e1b5e505"
+   "chapter_sha1": "ba649f6bd5df1a301454490dbdaa9076cfb17b81",
+   "site_summary": "In Terminal City the sunset is a shift change. All day the city has been inspected and patched and kept in time. As the light goes through the wires and over the rooftops, the Repair People put their brushes down, the crows head home, and the daytime systems hand the city to the night. You feel it without knowing why: around sunset people want to stop working, walk, meet someone, eat, listen, make something, go out. That is not an accident. Maintenance is not the point of the city. Maintenance exists so that people can eventually stop working, and the sunset is the moment they are allowed to.\n\n**Continuity.** After 16 and 17 in story chronology. Pay off the sketches from 05, 15 and 18 here. Before 11. The work becomes complete enough to use, not a permanent cure for the whole city."
   },
   "sixth-hour": {
    "title": "The Sixth Hour",
@@ -263,7 +272,8 @@
    },
    "hook": "The sixth hour of music, when the walls start to breathe.",
    "card_sha1": "17bc285c84a71817dcd1309fdac903340a20f532",
-   "chapter_sha1": "aa20c933baa817a0f306a5477d9b12ea68148b07"
+   "chapter_sha1": "9080c773cf2ab966e8e571cb32fe0bc1c40f18c3",
+   "site_summary": "The Sixth Hour is not six o'clock. It is the sixth hour of music without a break. Some warehouse rooms in East Van are perfectly ordinary for the first five hours. After that they get less reliable. By the sixth hour distance stretches, the walls breathe by a few millimetres, a door is not quite where it was. Nothing dramatic happens and nobody could photograph it, but everyone in the room feels the rules of space go soft. Terminal City lets this happen on purpose, and nobody in the room is asking whether it is a malfunction or a pressure release. The sixth hour starts when the music does.\n\n**Continuity.** After 11 despite the album numbering; before 19. Same warehouse, door and people. The six hours refer to its continuous music, not the courtyard playlist or wall-clock six."
   },
   "nocturnals": {
    "title": "The Nocturnals",
@@ -292,7 +302,8 @@
    },
    "hook": "Something already knows where tonight is.",
    "card_sha1": "fe2a5d794f99bd22931d177bc3b6e9bfd9e256a3",
-   "chapter_sha1": "79a86c59cb931a51410cdd37352a8adeed195c93"
+   "chapter_sha1": "8aaf930048cd4ac8347a26d26529abc4a62f1f6e",
+   "site_summary": "Something already knows where tonight is. After sunset, before anyone has heard of the room, a set of tracks crosses a wet service road toward it. A shadow moves along a rail cut. A coyote is already waiting at a warehouse door nobody has told you about. These are the Nocturnals, the night scouts. They are not a council and not a workforce; they are whatever reliably leads you to the right unmarked door, and they are gone before you can thank them. People follow without meaning to, one coincidence at a time, and end up somewhere the wider city has not noticed yet.\n\n**Continuity.** After 09; before 10. The bench painter’s bucket remains under the courtyard bench. The Nocturnals guide by plausible attention and coincidence, without speech or recruitment."
   },
   "terminal-fog": {
    "title": "Terminal Fog",
@@ -316,7 +327,8 @@
    },
    "hook": "The fog takes the city apart and puts it back almost right.",
    "card_sha1": "9f54c23642e596345e124f30a93c85e957436b05",
-   "chapter_sha1": "517d8d1e8d2885f1498e99f4a305b6bbb752f600"
+   "chapter_sha1": "e223d88eb26f6707f24fa427b0083b81fb981f13",
+   "site_summary": "The Repair People patch the city all day, one wall at a time. Some things cannot be patched. For those, Terminal City has the fog. Late at night, after the rooms have emptied and the Freight has taken away what cannot stay, fog comes in from the water and covers the shoreline, the tracks, the lights, the skyline, until enough of Vancouver is hidden for Terminal City to be rebuilt underneath. This is the full rebuild, the one that fixes what a brush cannot. When the fog lifts the city is back. Almost. One familiar thing is gone, or shifted, or slightly wrong, and nobody announces it.\n\n**Continuity.** After 19; final chapter in continuous story order. Repeat established courtyard compositions so the small change is visible. Closing Meeting is a short return, not a twentieth chapter."
   },
   "eternal-night": {
    "title": "Eternal Night",
@@ -345,7 +357,8 @@
    "hook": "Where nobody looks anymore, the night stays.",
    "source_photo": "EV_0058",
    "card_sha1": "7eb91f6f7531586a8352e0c07eda8fd6d66e3fbb",
-   "chapter_sha1": "117f6de4450f42d1c5870c3d49eb659408954144"
+   "chapter_sha1": "d9be8f4a55b477d2ff92ea83ac13e751001ea0d2",
+   "site_summary": "Not every part of the city gets looked at. Sealed doors, empty windows, a sign for a shop that closed years ago, a painting on a wall nobody walks past anymore. Where attention has withdrawn, the night stays, even at noon. This is the Eternal Night. It is not a place so much as a condition, and it is the one thing Terminal City works against. Not a villain. Just forgetting. When people stop noticing a room, a wall, a habit a neighbourhood had, the night settles into it and what was there goes missing, quietly. The Eternal Night keeps nothing. It only shows the city where it is losing.\n\n**Continuity.** After 08. This is the first evening, not the result of the final Fog in 12. Leaves a modest unfinished task for the second Meeting at the start of 15."
   },
   "outer-circuit": {
    "title": "The Outer Circuit",
@@ -370,7 +383,8 @@
    },
    "hook": "Keep moving, and the edge of the city holds.",
    "card_sha1": "e1003a58766c141a5256cf50134d038842a1e3fe",
-   "chapter_sha1": "c84f9a9b006ff24020164e2777e018526f452b33"
+   "chapter_sha1": "921e9c1201a6a92d7249090385a2b5eeab0973e2",
+   "site_summary": "The seawall looks like a path. It is also the edge of the city, and edges have to be checked. Every walker, runner and cyclist on the seawall, and every person who cannot sleep and goes for a walk along the water at two in the morning, is checking it without knowing. In Terminal City their movement is what keeps the edge in place: a person tracing the city's edge, again and again, holds that edge where it is. When the movement thins out, a stretch of path can start to drift, or a lamp repeats itself farther around the bend than it should. The rule is the shortest one in the city. Keep moving.\n\n**Continuity.** After 05; before 18. Cyclist keeps the crowded sketch. This is the public path around the park; chapter 15’s forest interior happened earlier with a different attendee."
   },
   "green-static": {
    "title": "Green Static",
@@ -394,7 +408,8 @@
    },
    "hook": "The one place the city cannot hear itself.",
    "card_sha1": "95ac2bf85778891cb6d5353011e30c330299c44b",
-   "chapter_sha1": "7f124defc47d39a5b7a49cab0e79bc31a19a4405"
+   "chapter_sha1": "0a0ef184a33e9e6edbd7cdebdc99fc071f39fa77",
+   "site_summary": "At the edge of Stanley Park the Wire Choir goes quiet. Inside, it fails completely. Schedules turn approximate, clocks drift, and the ideas you were carrying in simply disappear. This is the Green Static, the one place in Terminal City where the city cannot hear itself. That is the point. In place of the lost signal come things nobody sent: a melody, a colour, a rhythm that refuses the grid. Artists and Repair People walk into the trees on purpose to lose the signal and see what turns up instead. Whatever they bring out is unauthorized, and unauthorized does not mean unwanted.\n\n**Continuity.** Start of second cycle, after 13. A short Meeting recurrence establishes a new day. Second painter takes an ordinary journey to the park; Cyclist’s separate port visit follows in 05."
   },
   "endless-stair": {
    "title": "The Endless Stair",
@@ -419,7 +434,8 @@
    },
    "hook": "Everyone agrees there is a beach at the bottom.",
    "card_sha1": "024ed37a65035b5efdf10d6dad1de27afc0ffbf6",
-   "chapter_sha1": "3f6cf7f2ab289257afd65d4c5a61f8c5f2f561bb"
+   "chapter_sha1": "06e3141b87af9e4f82670f4e0fc9a4406b616023",
+   "site_summary": "At the far western edge of the city a long wooden staircase drops through the trees toward Wreck Beach. Everyone agrees there is a beautiful beach at the bottom. Nobody agrees on how many steps it takes to get there. The stair is the city's way out. It feeds something Terminal City cannot make for itself: scale, sky, sea, the feeling of leaving the useful world behind for a while. People stand at the bottom and feel small and glad about it, and the city receives that too. The stairs know when you are counting. Stop, and they add steps.\n\n**Continuity.** Start of third cycle, after 18’s Day 2 dusk. Kid’s trip uses ordinary cross-town travel. No connection by portal to the Lanky One’s separate road trip in 17."
   },
   "beyond": {
    "title": "The Beyond",
@@ -443,7 +459,8 @@
    },
    "hook": "Past the mountains the signal ends. People go anyway.",
    "card_sha1": "2ed48d4ee1f68b0793a945e825af59f9ec560c19",
-   "chapter_sha1": "5236c51ccd37a4c52afcc05176e25e3375fc5727"
+   "chapter_sha1": "bf0da6c898a4b21660244208736d480b0e0d8124",
+   "site_summary": "Past the mountains the city's signal ends, and that is where The Beyond begins: the forests, the rivers, the highways, and the temporary towns of speakers, lights and tents that appear in the wilderness for a weekend and vanish. Vancouver people leave the grid for The Beyond and come back different, with rhythms the city has never played and ways of being together the streets did not have before. The Probes bring the machine version of outside news through the port. The Beyond brings the human version, on dusty cars, at dawn. Leave with the old map. Return with something the map cannot name.\n\n**Continuity.** Read after 16. The explicit look back explains the Lanky One’s absence since the second Meeting. Travel is by road to an unnamed temporary gathering, then home; rejoin present time before 09."
   },
   "far-shore": {
    "title": "Far Shore",
@@ -472,7 +489,8 @@
    "hook": "Some things only make sense from across the water.",
    "source_photo": "EV_0073",
    "card_sha1": "0e5f7d4dec065d9db0f95e89649e0a7cdfdf70b8",
-   "chapter_sha1": "7f631d4aefa1291b3ec2008a55c98c8535f1877b"
+   "chapter_sha1": "2a6dc6cd41be278936ac78f9774d323abdaeb774",
+   "site_summary": "Across Burrard Inlet the lights of North Vancouver climb the lower slopes of the mountains. On the right night, seen from this side of the water, they arrange themselves into long flowing shapes, like a script in a language nobody here speaks. Cross the bridge and they are apartments again. That is not a trick. Some things cannot be understood up close; they only resolve after a distance has been crossed, water, language, a different way of living. The Far Shore is where the things the city cannot understand are turned into things it can use, and the water in between is what does the work.\n\n**Continuity.** After 14; before Day 3’s 16 in story chronology. Same Cyclist, bike and crowded port sketch from 05. The opening in 09 uses this revised spacing; Far Shore lights never spell anything."
   },
   "3-17-freight": {
    "title": "The 3:17 Freight",
@@ -501,7 +519,8 @@
    "hook": "The train does not arrive at 3:17. 3:17 arrives with the train.",
    "source_photo": "EV_0094",
    "card_sha1": "ae4be0365505b5d60df0946bed85d878fe276a35",
-   "chapter_sha1": "71eae7abae03d9765e5e5689868ad4b94d9b9e8f"
+   "chapter_sha1": "ef4231af6c40a1feaa2e8813b324b3ab2e73346c",
+   "site_summary": "At 3:17 in the morning a freight train crosses the East Van rail corridor by the False Creek flats. The train does not arrive at 3:17. 3:17 arrives with the train: every clock within earshot holds at 3:17 for as long as the cars are passing and lets go when the last one has. The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, the residue of a long night, anything the city cannot reconcile is loaded and carried out. Nobody has explained who does the loading. The train goes on longer than it should. Cars repeat. Which is one more reason not to count them.\n\n**Continuity.** After 10; before 12, regardless of album order. Retrieve the bucket left in 09. Freight takes unreconciled material, not the successful mural, residents or occupied homes. Loading stays unseen."
   }
  },
  "redirects": {
@@ -517,6 +536,6 @@
   "portrait": "/Users/stevehiehn/sas-platform/album-art/assets/credits/steve.png",
   "_portrait_note": "Steve's photo (2026-09-11); shown small, round, greyscale on the home page only"
  },
- "story_draft": "0.6",
- "story_sha1": "55035e82f9d6a09e21837974ae37beca6d625559"
+ "story_draft": "0.7",
+ "story_sha1": "4d8f43744177b8c82fa966c93e23f67e903667ec"
 }

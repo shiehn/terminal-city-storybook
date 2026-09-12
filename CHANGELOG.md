@@ -5,6 +5,14 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.9.0 — 2026-09-12
+
+- **The Story.** Steve: "I have used codex to create the stories and update the folklore." The chapter text now mirrors the
+  Story document (Draft 0.7, in the private canon repo): one continuous three-day story across all nineteen chapters, with
+  its recurring characters, printed whole. Under each hook a short site summary, in the chapter's own voice, says what the
+  node is before the scene begins (Steve, on adding the summaries first: "thanks, go for it"). Lore stays in the field
+  guide (Draft 0.9): the rule, the place, the role. Provenance stamps for the production graph on every story and page.
+
 ## 0.8.3 — 2026-09-11
 
 - Credits line now reads "Made by Steve Hiehn, a software developer and electronic musician based in Vancouver, Canada";
