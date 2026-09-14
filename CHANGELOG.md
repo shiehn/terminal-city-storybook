@@ -5,6 +5,13 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.10.0 — 2026-09-13
+
+- **Placeholder videos in the video slot.** Steve: "put the videos up on the site, I know they are just place holders .. but I want to
+  get a feel for them in context". Until a chapter has its YouTube `video_url`, the slot plays the current stand-in cut (720p H.264,
+  hosted in the public bucket `gs://terminal-city`, content-addressed `videos/<slug>/<slug>-<sha8>.mp4` + first-frame poster), recorded
+  as `stories.json` `video_placeholder` (url, poster, sha1, source cut). The master drawing no longer shows on chapters with a video.
+
 ## 0.9.1 — 2026-09-12
 
 - Google Analytics 4 (property "Terminal City", stream terminalcity.music, `G-KDMEGT6G1W`): the gtag snippet in the `<head>`

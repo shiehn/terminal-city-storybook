@@ -26,7 +26,15 @@
    "hook": "Before sunrise, someone feeds the crows at Trout Lake. That is the whole meeting.",
    "card_sha1": "55c7b8ba7dd761dd1fe15de71f3380dda931cb6a",
    "chapter_sha1": "2147d8e61507a14ee5b7a2858515341b0f194cf6",
-   "site_summary": "Every morning before the sun, a thin mist lies on Trout Lake, and the day's first meeting happens where almost nobody sees it. If you walked past you would see a murder of crows in a tree by the water and one weathered street artist on a bench, paint on their hands, feeding them. That is the whole meeting. The crows are reporting: they spent yesterday over the roofs, wires, walls and parks and noticed which corners have gone quiet and where music, art and attention are running thin. They do not speak English. The painter understands anyway. No chairperson, no agenda, no minutes. The meeting decides what the city needs today."
+   "site_summary": "Every morning before the sun, a thin mist lies on Trout Lake, and the day's first meeting happens where almost nobody sees it. If you walked past you would see a murder of crows in a tree by the water and one weathered street artist on a bench, paint on their hands, feeding them. That is the whole meeting. The crows are reporting: they spent yesterday over the roofs, wires, walls and parks and noticed which corners have gone quiet and where music, art and attention are running thin. They do not speak English. The painter understands anyway. No chairperson, no agenda, no minutes. The meeting decides what the city needs today.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/morning-meeting/morning-meeting-23c3b078.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/morning-meeting/morning-meeting-23c3b078-poster-b.jpg",
+    "sha1": "23c3b078da06a66d735837eb904c51d57964be54",
+    "source": "album-art/renders/experiments/drawn-video/morning-meeting/morning-meeting_comic_dark_standin.share.mp4",
+    "seconds": 212.0,
+    "poster_at": 106.0
+   }
   },
   "morning-mist": {
    "title": "Morning Mist",
@@ -47,7 +55,15 @@
    "hook": "Some mornings the whole city wakes up knowing the same thing, and nobody said it.",
    "card_sha1": "52997ffc7ce7727ce36ae4d9862c9bdf531b6088",
    "chapter_sha1": "72c81d38e2f7cdae19cd46bcf4581a53e4b109b1",
-   "site_summary": "Some mornings the whole city wakes up knowing the same thing, and nobody said it. Before sunrise a thin mist drifts out of Trout Lake, where it waited through the meeting, and settles over every district, catching on wires, wet paint, rails, glass and branches. It carries no instructions. Nothing is written in the air. But under it, things that have nothing to do with each other change together: a painter turns to a wall she was not going to paint, a radio three streets away changes its tone at the same moment. That is how you spot it. The mist carries what is needed, not how to do it."
+   "site_summary": "Some mornings the whole city wakes up knowing the same thing, and nobody said it. Before sunrise a thin mist drifts out of Trout Lake, where it waited through the meeting, and settles over every district, catching on wires, wet paint, rails, glass and branches. It carries no instructions. Nothing is written in the air. But under it, things that have nothing to do with each other change together: a painter turns to a wall she was not going to paint, a radio three streets away changes its tone at the same moment. That is how you spot it. The mist carries what is needed, not how to do it.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/morning-mist/morning-mist-7175fff5.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/morning-mist/morning-mist-7175fff5-poster-b.jpg",
+    "sha1": "7175fff50cb8b477be6ea0cfb093a9f6c2f50bcc",
+    "source": "album-art/renders/experiments/drawn-video/morning-mist/morning-mist_comic_dark_standin.share.mp4",
+    "seconds": 183.0,
+    "poster_at": 145.6
+   }
   },
   "wire-choir": {
    "title": "The Wire Choir",
@@ -68,7 +84,15 @@
    "hook": "The right song, at the right moment, out of somebody else's window.",
    "card_sha1": "f6408ef13011aa957d7858152bd0f2e572a5f905",
    "chapter_sha1": "d237fbdac5565471e613f39e05fcc98aaf2e20a3",
-   "site_summary": "Look up in an East Van lane: poles, layers of wires, trolley lines, transformers. Add every radio, every car stereo, every pair of headphones and the bass leaking under a warehouse door, and you have the Wire Choir. It is how Terminal City sings to itself. When a neighbourhood goes quiet the Choir leans on coincidence: somebody's car at a red light playing the exact song, a band rehearsing through a wall you happen to be leaning on, a window left open. You still choose what you listen to. You really did. The timing was just a little too good. No one hears the broadcast as an announcement."
+   "site_summary": "Look up in an East Van lane: poles, layers of wires, trolley lines, transformers. Add every radio, every car stereo, every pair of headphones and the bass leaking under a warehouse door, and you have the Wire Choir. It is how Terminal City sings to itself. When a neighbourhood goes quiet the Choir leans on coincidence: somebody's car at a red light playing the exact song, a band rehearsing through a wall you happen to be leaning on, a window left open. You still choose what you listen to. You really did. The timing was just a little too good. No one hears the broadcast as an announcement.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-5c0de10d.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-5c0de10d-poster.jpg",
+    "sha1": "5c0de10d832e2a2d8de13e39f2eb1d737567b272",
+    "source": "album-art/renders/experiments/drawn-video/wire-choir/wire-choir_comic_dark_standin.share.mp4",
+    "seconds": 132.0,
+    "poster_at": 15.8
+   }
   },
   "clock": {
    "title": "The Clock",
@@ -89,7 +113,15 @@
    "author_note": "story = Steve's own text verbatim (sas-project-mgmt/canon/drafts/the-clock-2026-09-10.md), his one-line paragraphs grouped; the first two sentences are the hook",
    "card_sha1": "0228171b58397098e0db96132c56b710b586b9d5",
    "chapter_sha1": "e97a5b56828bf6e0a34edd0a5d3e7effa4cc6250",
-   "site_summary": "Terminal City calls the SkyTrain the Clock. All day it moves above and beneath the streets, closing doors, sounding chimes, crossing itself and pulling away again. Thousands of people use it to get somewhere; almost none notice what else it is doing. The trains do not follow the rhythm of the city. The city follows the trains. A door closes at Commercial–Broadway and, somewhere across town, a light changes. The Clock does not tell Terminal City what time it is. It distributes time. Occasionally it drifts, by a second or two, and the whole city feels late. Then a train passes, the doors close, and the city catches up."
+   "site_summary": "Terminal City calls the SkyTrain the Clock. All day it moves above and beneath the streets, closing doors, sounding chimes, crossing itself and pulling away again. Thousands of people use it to get somewhere; almost none notice what else it is doing. The trains do not follow the rhythm of the city. The city follows the trains. A door closes at Commercial–Broadway and, somewhere across town, a light changes. The Clock does not tell Terminal City what time it is. It distributes time. Occasionally it drifts, by a second or two, and the whole city feels late. Then a train passes, the doors close, and the city catches up.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/clock/clock-673f9864.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/clock/clock-673f9864-poster.jpg",
+    "sha1": "673f9864a0e28afea9a3b7ad79c472b4658c86dc",
+    "source": "album-art/renders/experiments/drawn-video/clock/clock_comic_dark_music.share.mp4",
+    "seconds": 131.0,
+    "poster_at": 15.7
+   }
   },
   "probes": {
    "title": "The Probes",
@@ -109,7 +141,15 @@
    "hook": "The cranes are not loading ships. They are listening to somewhere else.",
    "card_sha1": "ddf9d26d2c2572871296f62367064a740fe5e708",
    "chapter_sha1": "7ffb66b28503bf6c42e9cf2e36e9e335fd487081",
-   "site_summary": "Down at the port the giant cranes stand along the water. To most people they are machinery. In Terminal City they are the Probes, and they are not loading ships. They are listening to somewhere else. Ships leave the harbour with questions and come back with weather, objects, languages, sounds, rumours, materials and patterns nobody here has seen before, and the cranes lift it all ashore. Sometimes the cargo is only the box the information travelled in. Without the Probes the city would only ever feed on itself. If you see a crane turned to face inland instead of the sea, it has learned something."
+   "site_summary": "Down at the port the giant cranes stand along the water. To most people they are machinery. In Terminal City they are the Probes, and they are not loading ships. They are listening to somewhere else. Ships leave the harbour with questions and come back with weather, objects, languages, sounds, rumours, materials and patterns nobody here has seen before, and the cranes lift it all ashore. Sometimes the cargo is only the box the information travelled in. Without the Probes the city would only ever feed on itself. If you see a crane turned to face inland instead of the sea, it has learned something.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/probes/probes-c78e5251.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/probes/probes-c78e5251-poster.jpg",
+    "sha1": "c78e525165acd074701905b24e0eef53a1aba619",
+    "source": "album-art/renders/experiments/drawn-video/probes/probes_comic_dark_standin.share.mp4",
+    "seconds": 103.0,
+    "poster_at": 12.4
+   }
   },
   "old-line": {
    "title": "The Old Line",
@@ -129,7 +169,15 @@
    "hook": "On wet nights the puddles show rails the street no longer has.",
    "card_sha1": "ba78875a5745dfad592f1975bb749ee0010e6f5b",
    "chapter_sha1": "c0b0c92552c00997e10da873ddd308d870b9361a",
-   "site_summary": "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection. This is the Old Line. It does not run on a timetable and it does not care what the current map says; old alignments and old versions of a corner are all still there under the asphalt, all still in use. The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten."
+   "site_summary": "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection. This is the Old Line. It does not run on a timetable and it does not care what the current map says; old alignments and old versions of a corner are all still there under the asphalt, all still in use. The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-e64e63b2.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-e64e63b2-poster-b.jpg",
+    "sha1": "e64e63b2d6b549273d2454e3f5e00a03cdf3d65d",
+    "source": "album-art/renders/experiments/drawn-video/old-line/old-line_comic_dark_standin.share.mp4",
+    "seconds": 136.0,
+    "poster_at": 98.9
+   }
   },
   "repair-people": {
    "title": "The Repair People",
@@ -149,7 +197,15 @@
    "hook": "Some of the people painting the walls are holding the city together. You cannot tell which.",
    "card_sha1": "047286e692734b4ff4721a69d09419bbbcfe7400",
    "chapter_sha1": "13ea865887d726e6ba8759ef26ec0c4821947d14",
-   "site_summary": "Painters, graffiti writers, sticker makers, paste-up crews, photographers, anyone up a ladder at an odd hour with a bucket and work clothes. Some of them are Repair People. Most are not. You cannot tell which. A Repair Person treats a crack in a wall the way a plumber treats a burst pipe: what the city sees as a tag, a sticker, a mural or a fresh coat of paint may be structural maintenance. They are hard to get to know. Ask one a question and you get a short answer and a person already turning back to the work. Everything they fix stays visible, because the repair is also the art, and the art is what keeps people noticing."
+   "site_summary": "Painters, graffiti writers, sticker makers, paste-up crews, photographers, anyone up a ladder at an odd hour with a bucket and work clothes. Some of them are Repair People. Most are not. You cannot tell which. A Repair Person treats a crack in a wall the way a plumber treats a burst pipe: what the city sees as a tag, a sticker, a mural or a fresh coat of paint may be structural maintenance. They are hard to get to know. Ask one a question and you get a short answer and a person already turning back to the work. Everything they fix stays visible, because the repair is also the art, and the art is what keeps people noticing.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-6fa65171.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-6fa65171-poster.jpg",
+    "sha1": "6fa65171f517473c0e77688e9ae299f8b01a075d",
+    "source": "album-art/renders/experiments/drawn-video/repair-people/repair-people_comic_dark_standin.share.mp4",
+    "seconds": 143.5,
+    "poster_at": 78.9
+   }
   },
   "crows": {
    "title": "Crows",
@@ -169,7 +225,15 @@
    "hook": "Every evening the crows go home from work.",
    "card_sha1": "fd4430bb35648617da7e8621dc58928618020166",
    "chapter_sha1": "b7fbbf7ddd5fb58ff5cf62dd5623762d93c92160",
-   "site_summary": "Crows spend the day inspecting roofs, windows, wires and streets, then commute east in the evening. Their observations reach the Morning Meeting, but a view is not the whole truth. They return to uncertain places and change position when a familiar perch stops telling them enough. To a passerby, this looks like birds waiting around. Some days that is exactly what careful work looks like."
+   "site_summary": "Crows spend the day inspecting roofs, windows, wires and streets, then commute east in the evening. Their observations reach the Morning Meeting, but a view is not the whole truth. They return to uncertain places and change position when a familiar perch stops telling them enough. To a passerby, this looks like birds waiting around. Some days that is exactly what careful work looks like.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/crows/crows-186fff12.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/crows/crows-186fff12-poster-b.jpg",
+    "sha1": "186fff123b980e51b606f82e8d8cc11163ba8a1e",
+    "source": "album-art/renders/experiments/drawn-video/crows/crows_comic_dark_standin.share.mp4",
+    "seconds": 110.5,
+    "poster_at": 77.9
+   }
   },
   "sunset": {
    "title": "Sunset",
@@ -189,7 +253,15 @@
    "hook": "Maintenance is not the point of the city.",
    "card_sha1": "34cba6476c400afe1ab800cc2927fef3499ff3a5",
    "chapter_sha1": "49d7fc00389ce82e84094dc5cb83721fb3d205b2",
-   "site_summary": "In Terminal City the sunset is a shift change. All day the city has been inspected and patched and kept in time. As the light goes through the wires and over the rooftops, the Repair People put their brushes down, the crows head home, and the daytime systems hand the city to the night. You feel it without knowing why: around sunset people want to stop working, walk, meet someone, eat, listen, make something, go out. That is not an accident. Maintenance is not the point of the city. Maintenance exists so that people can eventually stop working, and the sunset is the moment they are allowed to."
+   "site_summary": "In Terminal City the sunset is a shift change. All day the city has been inspected and patched and kept in time. As the light goes through the wires and over the rooftops, the Repair People put their brushes down, the crows head home, and the daytime systems hand the city to the night. You feel it without knowing why: around sunset people want to stop working, walk, meet someone, eat, listen, make something, go out. That is not an accident. Maintenance is not the point of the city. Maintenance exists so that people can eventually stop working, and the sunset is the moment they are allowed to.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-a9f12252.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-a9f12252-poster.jpg",
+    "sha1": "a9f12252c28354fd49bbd2df19c1f83b31098417",
+    "source": "album-art/renders/experiments/drawn-video/sunset/sunset_comic_dark_standin.share.mp4",
+    "seconds": 145.5,
+    "poster_at": 52.4
+   }
   },
   "sixth-hour": {
    "title": "The Sixth Hour",
@@ -209,7 +281,15 @@
    "hook": "The sixth hour of music, when the walls start to breathe.",
    "card_sha1": "d7a6682082a1bd3ef4ab2388b22eec11e9e2676a",
    "chapter_sha1": "913b8a3773d5d59eb7db73c6bd6893c9499af94f",
-   "site_summary": "The Sixth Hour begins with the music and counts six uninterrupted hours, not the hour on a clock. Deep into a warehouse gathering, a doorway can feel slightly misplaced and a wall a little farther away. Small moths pass before steady lamps and make shadows that briefly find the beat. People dance, rest and make room. The room’s oddness does not require an explanation to keep the evening going."
+   "site_summary": "The Sixth Hour begins with the music and counts six uninterrupted hours, not the hour on a clock. Deep into a warehouse gathering, a doorway can feel slightly misplaced and a wall a little farther away. Small moths pass before steady lamps and make shadows that briefly find the beat. People dance, rest and make room. The room’s oddness does not require an explanation to keep the evening going.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/sixth-hour/sixth-hour-cf37d054.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/sixth-hour/sixth-hour-cf37d054-poster.jpg",
+    "sha1": "cf37d05483876f62b74f7465baa89d10e4a01e8e",
+    "source": "album-art/renders/experiments/drawn-video/sixth-hour/sixth-hour_comic_dark_standin.share.mp4",
+    "seconds": 179.5,
+    "poster_at": 64.6
+   }
   },
   "nocturnals": {
    "title": "The Nocturnals",
@@ -234,7 +314,15 @@
    "hook": "Something already knows where tonight is.",
    "card_sha1": "aea618f18a29ce50d0be1ec36d33bfa9bdd28250",
    "chapter_sha1": "58b6b7bbb58e3ef6dd3e2dca5c90e993c971dae4",
-   "site_summary": "Coyotes know the night through passages: the lane that still goes through, the gate that no longer does, the room audible only around the next corner. Terminal City calls these scouts the Nocturnals. They can try a familiar route and find it shut. They can find another. A person who notices may follow, but the choice belongs to the person. The animal has more of the night to cover."
+   "site_summary": "Coyotes know the night through passages: the lane that still goes through, the gate that no longer does, the room audible only around the next corner. Terminal City calls these scouts the Nocturnals. They can try a familiar route and find it shut. They can find another. A person who notices may follow, but the choice belongs to the person. The animal has more of the night to cover.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/nocturnals/nocturnals-a0a90242.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/nocturnals/nocturnals-a0a90242-poster-b.jpg",
+    "sha1": "a0a902422f25f5873b0e1b21ce75fc461ec21944",
+    "source": "album-art/renders/experiments/drawn-video/nocturnals/nocturnals_comic_dark_standin.share.mp4",
+    "seconds": 152.0,
+    "poster_at": 131.3
+   }
   },
   "terminal-fog": {
    "title": "Terminal Fog",
@@ -254,7 +342,15 @@
    "hook": "The fog takes the city apart and puts it back almost right.",
    "card_sha1": "ec100f713af024a71ef5328c3cc62394d1045afe",
    "chapter_sha1": "fe227fcdeac55fd49d4a45d0a6a5e74e17da09e6",
-   "site_summary": "The Repair People patch the city all day, one wall at a time. Some things cannot be patched. For those, Terminal City has the fog. Late at night, after the rooms have emptied and the Freight has taken away what cannot stay, fog comes in from the water and covers the shoreline, the tracks, the lights, the skyline, until enough of Vancouver is hidden for Terminal City to be rebuilt underneath. This is the full rebuild, the one that fixes what a brush cannot. When the fog lifts the city is back. Almost. One familiar thing is gone, or shifted, or slightly wrong, and nobody announces it."
+   "site_summary": "The Repair People patch the city all day, one wall at a time. Some things cannot be patched. For those, Terminal City has the fog. Late at night, after the rooms have emptied and the Freight has taken away what cannot stay, fog comes in from the water and covers the shoreline, the tracks, the lights, the skyline, until enough of Vancouver is hidden for Terminal City to be rebuilt underneath. This is the full rebuild, the one that fixes what a brush cannot. When the fog lifts the city is back. Almost. One familiar thing is gone, or shifted, or slightly wrong, and nobody announces it.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-22d5178b.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-22d5178b-poster.jpg",
+    "sha1": "22d5178be3cb6e0f65b29c09b88bd309ca867f13",
+    "source": "album-art/renders/experiments/drawn-video/terminal-fog/terminal-fog_comic_dark_standin.share.mp4",
+    "seconds": 131.5,
+    "poster_at": 36.8
+   }
   },
   "eternal-night": {
    "title": "Eternal Night",
@@ -279,7 +375,15 @@
    "source_photo": "EV_0058",
    "card_sha1": "7eb91f6f7531586a8352e0c07eda8fd6d66e3fbb",
    "chapter_sha1": "54c1f913cec24a012bbbbcfa3c65c6b6cfe12ad7",
-   "site_summary": "Not every part of the city gets looked at. Sealed doors, empty windows, a sign for a shop that closed years ago, a painting on a wall nobody walks past anymore. Where attention has withdrawn, the night stays, even at noon. This is the Eternal Night. It is not a place so much as a condition, and it is the one thing Terminal City works against. Not a villain. Just forgetting. When people stop noticing a room, a wall, a habit a neighbourhood had, the night settles into it and what was there goes missing, quietly. The Eternal Night keeps nothing. It only shows the city where it is losing."
+   "site_summary": "Not every part of the city gets looked at. Sealed doors, empty windows, a sign for a shop that closed years ago, a painting on a wall nobody walks past anymore. Where attention has withdrawn, the night stays, even at noon. This is the Eternal Night. It is not a place so much as a condition, and it is the one thing Terminal City works against. Not a villain. Just forgetting. When people stop noticing a room, a wall, a habit a neighbourhood had, the night settles into it and what was there goes missing, quietly. The Eternal Night keeps nothing. It only shows the city where it is losing.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/eternal-night/eternal-night-95a144a0.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/eternal-night/eternal-night-95a144a0-poster.jpg",
+    "sha1": "95a144a0f189c874e158eae65904383de60919b8",
+    "source": "album-art/renders/experiments/drawn-video/eternal-night/eternal-night_comic_dark_standin.share.mp4",
+    "seconds": 109.5,
+    "poster_at": 60.2
+   }
   },
   "outer-circuit": {
    "title": "The Outer Circuit",
@@ -300,7 +404,15 @@
    "hook": "Keep moving, and the edge of the city holds.",
    "card_sha1": "e1003a58766c141a5256cf50134d038842a1e3fe",
    "chapter_sha1": "c6b44c4fb7249d89e7ff4cf5967f8f59d17e7ac4",
-   "site_summary": "The seawall looks like a path. It is also the edge of the city, and edges have to be checked. Every walker, runner and cyclist on the seawall, and every person who cannot sleep and goes for a walk along the water at two in the morning, is checking it without knowing. In Terminal City their movement is what keeps the edge in place: a person tracing the city's edge, again and again, holds that edge where it is. When the movement thins out, a stretch of path can start to drift, or a lamp repeats itself farther around the bend than it should. The rule is the shortest one in the city. Keep moving."
+   "site_summary": "The seawall looks like a path. It is also the edge of the city, and edges have to be checked. Every walker, runner and cyclist on the seawall, and every person who cannot sleep and goes for a walk along the water at two in the morning, is checking it without knowing. In Terminal City their movement is what keeps the edge in place: a person tracing the city's edge, again and again, holds that edge where it is. When the movement thins out, a stretch of path can start to drift, or a lamp repeats itself farther around the bend than it should. The rule is the shortest one in the city. Keep moving.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/outer-circuit/outer-circuit-55511b92.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/outer-circuit/outer-circuit-55511b92-poster.jpg",
+    "sha1": "55511b9257a9a10695e7fb9f8b27bc0f51fa4ae5",
+    "source": "album-art/renders/experiments/drawn-video/outer-circuit/outer-circuit_comic_dark_standin.share.mp4",
+    "seconds": 119.0,
+    "poster_at": 53.6
+   }
   },
   "green-static": {
    "title": "Green Static",
@@ -320,7 +432,15 @@
    "hook": "The one place the city cannot hear itself.",
    "card_sha1": "ded301d437dc7eabf5de4b2312b2fdb56b478f15",
    "chapter_sha1": "c16c56427924b269e1f5cac1c15035b5a6ca50b7",
-   "site_summary": "At the edge of Stanley Park the Wire Choir goes quiet. Inside, it fails completely. Schedules turn approximate, clocks drift, and the ideas you were carrying in simply disappear. This is the Green Static, where Terminal City loses its orderly surface signal. Underground mycelium remains alive, carrying fragments without clear instructions. That is the point. In place of the lost signal come things nobody sent: a melody, a colour, a rhythm that refuses the grid. Artists and Repair People walk into the trees on purpose to lose the signal and see what turns up instead. Whatever they bring out is unauthorized, and unauthorized does not mean unwanted."
+   "site_summary": "At the edge of Stanley Park the Wire Choir goes quiet. Inside, it fails completely. Schedules turn approximate, clocks drift, and the ideas you were carrying in simply disappear. This is the Green Static, where Terminal City loses its orderly surface signal. Underground mycelium remains alive, carrying fragments without clear instructions. That is the point. In place of the lost signal come things nobody sent: a melody, a colour, a rhythm that refuses the grid. Artists and Repair People walk into the trees on purpose to lose the signal and see what turns up instead. Whatever they bring out is unauthorized, and unauthorized does not mean unwanted.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/green-static/green-static-108d7ba5.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/green-static/green-static-108d7ba5-poster.jpg",
+    "sha1": "108d7ba573750f315ed67fff11ce9874fefdba9b",
+    "source": "album-art/renders/experiments/drawn-video/green-static/green-static_comic_dark_standin.share.mp4",
+    "seconds": 122.0,
+    "poster_at": 79.3
+   }
   },
   "endless-stair": {
    "title": "The Endless Stair",
@@ -341,7 +461,15 @@
    "hook": "Everyone agrees there is a beach at the bottom.",
    "card_sha1": "67ade8e800e32442a1912fabfd08c918086258a3",
    "chapter_sha1": "5c7b04a970b70b43f6e50eecd27ef798364fe369",
-   "site_summary": "At the far western edge of the city a long wooden staircase drops through the trees toward Wreck Beach. Everyone agrees there is a beautiful beach at the bottom. Nobody agrees on how many steps it takes to get there. The stair is the city's way out. It feeds something Terminal City cannot make for itself: scale, sky, sea, the feeling of leaving the useful world behind for a while. People stand at the bottom and feel small and glad about it, and the city receives that too. The stairs know when you are counting. Stop, and they add steps."
+   "site_summary": "At the far western edge of the city a long wooden staircase drops through the trees toward Wreck Beach. Everyone agrees there is a beautiful beach at the bottom. Nobody agrees on how many steps it takes to get there. The stair is the city's way out. It feeds something Terminal City cannot make for itself: scale, sky, sea, the feeling of leaving the useful world behind for a while. People stand at the bottom and feel small and glad about it, and the city receives that too. The stairs know when you are counting. Stop, and they add steps.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/endless-stair/endless-stair-bafdea62.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/endless-stair/endless-stair-bafdea62-poster.jpg",
+    "sha1": "bafdea62f6863d6adc15255ee40fc061c4fea8f3",
+    "source": "album-art/renders/experiments/drawn-video/endless-stair/endless-stair_comic_dark_standin.share.mp4",
+    "seconds": 161.5,
+    "poster_at": 19.4
+   }
   },
   "beyond": {
    "title": "The Beyond",
@@ -361,7 +489,15 @@
    "hook": "Past the mountains the signal ends. People go anyway.",
    "card_sha1": "2ed48d4ee1f68b0793a945e825af59f9ec560c19",
    "chapter_sha1": "39262349d370abc9a6b046a36f359521e9634bf0",
-   "site_summary": "Past the mountains the city's signal ends, and that is where The Beyond begins: the forests, the rivers, the highways, and the temporary towns of speakers, lights and tents that appear in the wilderness for a weekend and vanish. Vancouver people leave the grid for The Beyond and come back different, with rhythms the city has never played and ways of being together the streets did not have before. The Probes bring the machine version of outside news through the port. The Beyond brings the human version, on dusty cars, at dawn. Leave with the old map. Return with something the map cannot name."
+   "site_summary": "Past the mountains the city's signal ends, and that is where The Beyond begins: the forests, the rivers, the highways, and the temporary towns of speakers, lights and tents that appear in the wilderness for a weekend and vanish. Vancouver people leave the grid for The Beyond and come back different, with rhythms the city has never played and ways of being together the streets did not have before. The Probes bring the machine version of outside news through the port. The Beyond brings the human version, on dusty cars, at dawn. Leave with the old map. Return with something the map cannot name.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/beyond/beyond-bac1f859.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/beyond/beyond-bac1f859-poster.jpg",
+    "sha1": "bac1f859b1eccfec0d33ce55c38a448e3789207a",
+    "source": "album-art/renders/experiments/drawn-video/beyond/beyond_comic_dark_standin.share.mp4",
+    "seconds": 104.0,
+    "poster_at": 37.4
+   }
   },
   "far-shore": {
    "title": "Far Shore",
@@ -386,7 +522,15 @@
    "source_photo": "EV_0073",
    "card_sha1": "0e5f7d4dec065d9db0f95e89649e0a7cdfdf70b8",
    "chapter_sha1": "6d984e581d56f31e62e20a3d4f75291e2fec5ab5",
-   "site_summary": "Across Burrard Inlet the lights of North Vancouver climb the lower slopes of the mountains. On the right night, seen from this side of the water, they arrange themselves into long flowing shapes, like a script in a language nobody here speaks. Cross the bridge and they are apartments again. That is not a trick. Some things cannot be understood up close; they only resolve after a distance has been crossed, water, language, a different way of living. The Far Shore is where the things the city cannot understand are turned into things it can use, and the water in between is what does the work."
+   "site_summary": "Across Burrard Inlet the lights of North Vancouver climb the lower slopes of the mountains. On the right night, seen from this side of the water, they arrange themselves into long flowing shapes, like a script in a language nobody here speaks. Cross the bridge and they are apartments again. That is not a trick. Some things cannot be understood up close; they only resolve after a distance has been crossed, water, language, a different way of living. The Far Shore is where the things the city cannot understand are turned into things it can use, and the water in between is what does the work.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/far-shore/far-shore-2308426f.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/far-shore/far-shore-2308426f-poster.jpg",
+    "sha1": "2308426f873f10247820903cb25e307d45c7b7be",
+    "source": "album-art/renders/experiments/drawn-video/far-shore/far-shore_comic_dark_standin.share.mp4",
+    "seconds": 103.0,
+    "poster_at": 28.8
+   }
   },
   "3-17-freight": {
    "title": "The 3:17 Freight",
@@ -411,7 +555,15 @@
    "source_photo": "EV_0094",
    "card_sha1": "ae4be0365505b5d60df0946bed85d878fe276a35",
    "chapter_sha1": "1ca52fdb25d6a45600b4fcd82a4b137af529ef4e",
-   "site_summary": "At 3:17 in the morning a freight train crosses the East Van rail corridor by the False Creek flats. The train does not arrive at 3:17. 3:17 arrives with the train: every clock within earshot holds at 3:17 for as long as the cars are passing and lets go when the last one has. The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, the residue of a long night, anything the city cannot reconcile is loaded and carried out. Nobody has explained who does the loading. The train goes on longer than it should. Cars repeat. Which is one more reason not to count them."
+   "site_summary": "At 3:17 in the morning a freight train crosses the East Van rail corridor by the False Creek flats. The train does not arrive at 3:17. 3:17 arrives with the train: every clock within earshot holds at 3:17 for as long as the cars are passing and lets go when the last one has. The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, the residue of a long night, anything the city cannot reconcile is loaded and carried out. Nobody has explained who does the loading. The train goes on longer than it should. Cars repeat. Which is one more reason not to count them.",
+   "video_placeholder": {
+    "url": "https://storage.googleapis.com/terminal-city/videos/3-17-freight/3-17-freight-9ec39705.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/3-17-freight/3-17-freight-9ec39705-poster.jpg",
+    "sha1": "9ec3970585f044330645aaf00edee3663666cee8",
+    "source": "album-art/renders/experiments/drawn-video/3-17-freight/3-17-freight_comic_dark_standin.share.mp4",
+    "seconds": 108.5,
+    "poster_at": 39.1
+   }
   }
  },
  "redirects": {
