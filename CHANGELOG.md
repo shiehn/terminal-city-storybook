@@ -5,6 +5,37 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.11.0 — 2026-10-09
+
+- **The chapter lyrics replace the chapter descriptions** (Steve, D-090: "Okay replace all the chapter descriptions with the
+  following lyrics … Commit and deploy the sight" / "Site"). On all nineteen chapter pages the site summary and the story
+  scene are replaced by the chapter's lyric, set as verse: one line per line, verbatim, in the display face under the hook
+  (wrapped lines hang on a phone). New site-owned field `lyric` (+ `lyric_sha1`) per story in `stories/stories.json`, filled
+  from `sas-project-mgmt/canon/drafts/chapter-lyrics-2026-10-09.md` by `sas-project-mgmt/scripts/mirror_lyrics.py`, which
+  matches each block to its chapter by number and title; top-level `lyrics_source` stamps the file and its sha1. The Story
+  mirror still owns paragraphs / hook / title / site_summary and never touches `lyric`; the builder prints the lyric when
+  present. Title, BPM/role tag, video slot, hook, rule, field notes, maps and navigation unchanged. Guide stays Draft 1.2;
+  plates untouched, $0.
+
+## 0.10.2 — 2026-10-03
+
+- **Story Draft 1.6 (a600bf39): the drum busker, the live Repair Person** (Steve, D-048: "We a need imagery of live music.
+  Its a mistake to only consider electronic ... I propose a new repair person character is a drum buster planing on empty
+  paint cans"; D-049: "Go for it"). A skilled street musician who plays a kit of the painters' empty cans joins six chapter
+  scenes (morning-meeting, wire-choir, clock, repair-people, sunset, 3-17-freight); crows and beyond changed only in the
+  Story's authoring fields, so their page text is unchanged. Paragraphs re-mirrored (hooks, titles and site summaries
+  unchanged), `chapter_sha1` restamped on all eight, every page rebuilt. Guide stays Draft 1.2; plates untouched, $0.
+
+## 0.10.1 — 2026-09-21
+
+- **Story Draft 1.5 on every page** (Steve: "There has been major changes, please incorporate the latest"): people and music
+  in the foreground, lore as the evidence around the plot — drafted by mgmt from Steve's 19-Story Rework and his Timed Video
+  Storyboard 0.1, both of 2026-09-21. All nineteen chapter scenes re-mirrored (paragraphs only; hooks, titles and site
+  summaries unchanged), `chapter_sha1` restamped, every page rebuilt. Guide stays Draft 1.2; plates untouched (D-011).
+- **The video template's skeleton is now the Story's five loose blocks** — intro/title · narrative setup · atmospheric body
+  (the music leads, lore as visual evidence) · return/small change · exit — replacing the v0.1.0 seven-beat order in the
+  builder note and this repo's rules. No visible change to the page; the video slot is unchanged.
+
 ## 0.10.0 — 2026-09-13
 
 - **Placeholder videos in the video slot.** Steve: "put the videos up on the site, I know they are just place holders .. but I want to
