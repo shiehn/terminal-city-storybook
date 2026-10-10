@@ -28,12 +28,18 @@
    "chapter_sha1": "f15f35a9f1e73cf1a76c7d762c2288ebd7cb2ba5",
    "site_summary": "Every morning before the sun, a thin mist lies on Trout Lake, and the day's first meeting happens where almost nobody sees it. If you walked past you would see a murder of crows in a tree by the water and one weathered street artist on a bench, paint on their hands, feeding them. That is the whole meeting. The crows are reporting: they spent yesterday over the roofs, wires, walls and parks and noticed which corners have gone quiet and where music, art and attention are running thin. They do not speak English. The painter understands anyway. No chairperson, no agenda, no minutes. The meeting decides what the city needs today.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/morning-meeting/morning-meeting-23c3b078.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/morning-meeting/morning-meeting-23c3b078-poster-b.jpg",
-    "sha1": "23c3b078da06a66d735837eb904c51d57964be54",
-    "source": "album-art/renders/experiments/drawn-video/morning-meeting/morning-meeting_comic_dark_standin.share.mp4",
-    "seconds": 212.0,
-    "poster_at": 106.0
+    "url": "https://storage.googleapis.com/terminal-city/videos/morning-meeting/morning-meeting-bfc571a6.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/morning-meeting/morning-meeting-bfc571a6-poster.jpg",
+    "sha1": "bfc571a624c2f35f46814b1d8fac5daa1057e3f9",
+    "source": "td-lab/renders/morning-meeting_video_v13.mp4",
+    "seconds": 225.51,
+    "poster_at": 112.75,
+    "credits": [
+     "\"Foggy day of hyrcanian forest of iran\" by Reza Rafizadeh (CC BY 3.0)",
+     "\"Jungle crow (Corvus macrorhynchos) in a park\" by The Nature Box (CC BY 4.0)",
+     "\"Wild crow raven standing and walking on grass\" by Alice Stock Footages (CC BY 3.0)"
+    ],
+    "stock": true
    },
    "lyric": [
     "Before the sun",
@@ -71,12 +77,17 @@
    "chapter_sha1": "bef3204ace1fc5ee8617bbe56c844c671558434b",
    "site_summary": "Some mornings the whole city wakes up knowing the same thing, and nobody said it. Before sunrise a thin mist drifts out of Trout Lake, where it waited through the meeting, and settles over every district, catching on wires, wet paint, rails, glass and branches. It carries no instructions. Nothing is written in the air. But under it, things that have nothing to do with each other change together: a painter turns to a wall she was not going to paint, a radio three streets away changes its tone at the same moment. That is how you spot it. The mist carries what is needed, not how to do it.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/morning-mist/morning-mist-7175fff5.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/morning-mist/morning-mist-7175fff5-poster-b.jpg",
-    "sha1": "7175fff50cb8b477be6ea0cfb093a9f6c2f50bcc",
-    "source": "album-art/renders/experiments/drawn-video/morning-mist/morning-mist_comic_dark_standin.share.mp4",
-    "seconds": 183.0,
-    "poster_at": 145.6
+    "url": "https://storage.googleapis.com/terminal-city/videos/morning-mist/morning-mist-96620629.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/morning-mist/morning-mist-96620629-poster.jpg",
+    "sha1": "9662062979dedf571bb879c0f2d0b7fbd6bb4cb0",
+    "source": "td-lab/renders/morning-mist_video_v3.mp4",
+    "seconds": 173.41,
+    "poster_at": 86.7,
+    "credits": [
+     "\"Foggy day of hyrcanian forest of iran\" by Reza Rafizadeh (CC BY 3.0)",
+     "\"Vancouver at Twilight\" by Vidaerc (CC BY 3.0)"
+    ],
+    "stock": true
    },
    "lyric": [
     "The meeting breaks apart",
@@ -115,12 +126,16 @@
    "chapter_sha1": "b784153b118abad76a11bd930677ca8c0b25562a",
    "site_summary": "Look up in an East Van lane: poles, layers of wires, trolley lines, transformers. Add every radio, every car stereo, every pair of headphones and the bass leaking under a warehouse door, and you have the Wire Choir. It is how Terminal City sings to itself. When a neighbourhood goes quiet the Choir leans on coincidence: somebody's car at a red light playing the exact song, a band rehearsing through a wall you happen to be leaning on, a window left open. You still choose what you listen to. You really did. The timing was just a little too good. No one hears the broadcast as an announcement.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-5c0de10d.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-5c0de10d-poster.jpg",
-    "sha1": "5c0de10d832e2a2d8de13e39f2eb1d737567b272",
-    "source": "album-art/renders/experiments/drawn-video/wire-choir/wire-choir_comic_dark_standin.share.mp4",
-    "seconds": 132.0,
-    "poster_at": 15.8
+    "url": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-6ca86757.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-6ca86757-poster.jpg",
+    "sha1": "6ca86757e42f3d48841c0d411e4a918ebb4ff6c5",
+    "source": "td-lab/renders/wire-choir_video_v3.mp4",
+    "seconds": 153.6,
+    "poster_at": 76.8,
+    "credits": [
+     "\"Vancouver at Twilight\" by Vidaerc (CC BY 3.0)"
+    ],
+    "stock": true
    },
    "lyric": [
     "A few seconds of metal",
@@ -161,12 +176,18 @@
    "chapter_sha1": "b9ed265e36963a16b8247f17131e3ece18877bd0",
    "site_summary": "Terminal City calls the SkyTrain the Clock. All day it moves above and beneath the streets, closing doors, sounding chimes, crossing itself and pulling away again. Thousands of people use it to get somewhere; almost none notice what else it is doing. The trains do not follow the rhythm of the city. The city follows the trains. A door closes at Commercial–Broadway and, somewhere across town, a light changes. The Clock does not tell Terminal City what time it is. It distributes time. Occasionally it drifts, by a second or two, and the whole city feels late. Then a train passes, the doors close, and the city catches up.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/clock/clock-673f9864.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/clock/clock-673f9864-poster.jpg",
-    "sha1": "673f9864a0e28afea9a3b7ad79c472b4658c86dc",
-    "source": "album-art/renders/experiments/drawn-video/clock/clock_comic_dark_music.share.mp4",
-    "seconds": 131.0,
-    "poster_at": 15.7
+    "url": "https://storage.googleapis.com/terminal-city/videos/clock/clock-f759d4e4.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/clock/clock-f759d4e4-poster.jpg",
+    "sha1": "f759d4e45cc44b45adb0325a7fdcae3f872afd92",
+    "source": "td-lab/renders/clock_video_v1.mp4",
+    "seconds": 180.63,
+    "poster_at": 90.31,
+    "credits": [
+     "\"A Vancouver SkyTrain running (slow motion video)\" by Subhashish Panigrahi (CC BY-SA 4.0)",
+     "\"Clock Tower, West Parade, Bexhill\" by Alexis Markwick (CC BY-SA 3.0)"
+    ],
+    "licence": "CC BY-SA 4.0",
+    "stock": false
    },
    "lyric": [
     "Doors close above the street.",

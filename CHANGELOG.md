@@ -5,6 +5,20 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.12.0 — 2026-10-09
+
+- **The first four TouchDesigner videos.** Steve: "Please release the placeholder videos on terminalcity.music". Chapters 01–04
+  (The Morning Meeting, Morning Mist, The Wire Choir, The Clock) now play the td-lab cuts (720p H.264, ~2.2 Mb/s) from
+  `gs://terminal-city/videos/<slug>/<slug>-<sha8>.mp4`, published by `sas-project-mgmt/scripts/publish_videos.py`; poster = the
+  middle frame. Share-alike clips were swapped out of the three cuts that use licensed stock (D-094); The Clock keeps its
+  CC BY-SA sources and is released under CC BY-SA 4.0. Every Creative Commons source is credited in the page colophon.
+- **Page anatomy, top down: title · video · lyrics · next chapter.** Steve: "it should be top down: the title, video, lyrics, link
+  to the next video. Remove the blue before the lyrics and the 'rule' this applies to all the pages". The hook line and the
+  rule are gone from every chapter; the next-chapter link sits right under the lyrics (the next chapter's video poster when it
+  has one) and no longer repeats a hook. Field notes stay collapsed below it.
+- **No BPM and no INPUT / PROCESSING / OUTPUT tag** on chapter pages or the home page (D-095: the BPMs were the guide's
+  provisional anchors and did not match the tracks; the roles stay in the field guide as background logic).
+
 ## 0.11.0 — 2026-10-09
 
 - **The chapter lyrics replace the chapter descriptions** (Steve, D-090: "Okay replace all the chapter descriptions with the
