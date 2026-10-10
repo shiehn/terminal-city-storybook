@@ -5,6 +5,16 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.13.0 — 2026-10-10
+
+- **The witness rewrite (D-097/D-098).** Steve: "I want the lyrics to read more like a person slowly piecing together the evidence
+  of witnessing the existence of terminal city … Don't ever discuss or identify the observer." All 19 chapter lyrics are replaced
+  by the rewrite he brought back from ChatGPT (brief + drop in sas-project-mgmt/canon/drafts, lyrics file
+  `chapter-lyrics-2026-10-10.md`); lyrics only (no page leads or field notes), Terminal Fog shortened. The home page description
+  is now a suspicion of a greater force in the city rather than an explanation (stanzas as paragraphs), the small line reads
+  "Nineteen glimpses of a city hiding inside this one.", the guide's one-liner is no longer printed under it, and the colophon
+  disclaimer says "the hidden system layered across them is invented".
+
 ## 0.12.0 — 2026-10-09
 
 - **The first four TouchDesigner videos.** Steve: "Please release the placeholder videos on terminalcity.music". Chapters 01–04
