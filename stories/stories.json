@@ -39,7 +39,8 @@
      "\"Jungle crow (Corvus macrorhynchos) in a park\" by The Nature Box (CC BY 4.0)",
      "\"Wild crow raven standing and walking on grass\" by Alice Stock Footages (CC BY 3.0)"
     ],
-    "stock": true
+    "stock": true,
+    "cut_version": "video_v13"
    },
    "lyric": [
     "Before the sun",
@@ -87,7 +88,8 @@
      "\"Foggy day of hyrcanian forest of iran\" by Reza Rafizadeh (CC BY 3.0)",
      "\"Vancouver at Twilight\" by Vidaerc (CC BY 3.0)"
     ],
-    "stock": true
+    "stock": true,
+    "cut_version": "video_v3"
    },
    "lyric": [
     "The meeting breaks apart",
@@ -135,7 +137,8 @@
     "credits": [
      "\"Vancouver at Twilight\" by Vidaerc (CC BY 3.0)"
     ],
-    "stock": true
+    "stock": true,
+    "cut_version": "video_v3"
    },
    "lyric": [
     "A few seconds of metal",
@@ -187,7 +190,8 @@
      "\"Clock Tower, West Parade, Bexhill\" by Alexis Markwick (CC BY-SA 3.0)"
     ],
     "licence": "CC BY-SA 4.0",
-    "stock": false
+    "stock": false,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "Doors close above the street.",
