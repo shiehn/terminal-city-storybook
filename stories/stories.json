@@ -355,15 +355,15 @@
    "chapter_sha1": "e20e59df9cac91942955b3d510e71a2e113f79c9",
    "site_summary": "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection. This is the Old Line. It does not run on a timetable and it does not care what the current map says; old alignments and old versions of a corner are all still there under the asphalt, all still in use. The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-1f38caa8.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-1f38caa8-poster.jpg",
-    "sha1": "1f38caa8b06b6807509a3e5c8fe9a1bb04c766f9",
-    "source": "td-lab/renders/old-line_video_v1.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-aca077e7.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-aca077e7-poster.jpg",
+    "sha1": "aca077e7b3669e87fae881171e448fd6b7ebbb88",
+    "source": "td-lab/renders/old-line_video_v2.mp4",
     "seconds": 180.72,
     "poster_at": 90.36,
     "credits": [],
     "stock": true,
-    "cut_version": "video_v1"
+    "cut_version": "video_v2"
    },
    "lyric": [
     "Caught in a puddle.",
@@ -416,12 +416,15 @@
    "chapter_sha1": "863eb333cdc8faa57de6c24b370891674fee091b",
    "site_summary": "Painters, graffiti writers, sticker makers, paste-up crews, photographers, anyone up a ladder at an odd hour with a bucket and work clothes. Some of them are Repair People. Most are not. You cannot tell which. A Repair Person treats a crack in a wall the way a plumber treats a burst pipe: what the city sees as a tag, a sticker, a mural or a fresh coat of paint may be structural maintenance. They are hard to get to know. Ask one a question and you get a short answer and a person already turning back to the work. Everything they fix stays visible, because the repair is also the art, and the art is what keeps people noticing.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-6fa65171.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-6fa65171-poster.jpg",
-    "sha1": "6fa65171f517473c0e77688e9ae299f8b01a075d",
-    "source": "album-art/renders/experiments/drawn-video/repair-people/repair-people_comic_dark_standin.share.mp4",
-    "seconds": 143.5,
-    "poster_at": 78.9
+    "url": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-e9cd55ec.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-e9cd55ec-poster.jpg",
+    "sha1": "e9cd55ecbb65d265e9e499f65638cba03779b3d3",
+    "source": "td-lab/renders/repair-people_video_v1.mp4",
+    "seconds": 174.57,
+    "poster_at": 87.28,
+    "credits": [],
+    "stock": true,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "Seen through chain-link.",
