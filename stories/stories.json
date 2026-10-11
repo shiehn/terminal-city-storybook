@@ -292,12 +292,15 @@
    "chapter_sha1": "cfae3ebaadf1a2565392b5430f35d4135876dbd6",
    "site_summary": "Down at the port the giant cranes stand along the water. To most people they are machinery. In Terminal City they are the Probes, and they are not loading ships. They are listening to somewhere else. Ships leave the harbour with questions and come back with weather, objects, languages, sounds, rumours, materials and patterns nobody here has seen before, and the cranes lift it all ashore. Sometimes the cargo is only the box the information travelled in. Without the Probes the city would only ever feed on itself. If you see a crane turned to face inland instead of the sea, it has learned something.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/probes/probes-c78e5251.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/probes/probes-c78e5251-poster.jpg",
-    "sha1": "c78e525165acd074701905b24e0eef53a1aba619",
-    "source": "album-art/renders/experiments/drawn-video/probes/probes_comic_dark_standin.share.mp4",
-    "seconds": 103.0,
-    "poster_at": 12.4
+    "url": "https://storage.googleapis.com/terminal-city/videos/probes/probes-715bf132.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/probes/probes-715bf132-poster.jpg",
+    "sha1": "715bf132dcf43a6aa16666aab0ee9788952a48c4",
+    "source": "td-lab/renders/probes_video_v1.mp4",
+    "seconds": 192.03,
+    "poster_at": 96.02,
+    "credits": [],
+    "stock": true,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "Wind in the microphone.",
@@ -352,12 +355,15 @@
    "chapter_sha1": "e20e59df9cac91942955b3d510e71a2e113f79c9",
    "site_summary": "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection. This is the Old Line. It does not run on a timetable and it does not care what the current map says; old alignments and old versions of a corner are all still there under the asphalt, all still in use. The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-e64e63b2.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-e64e63b2-poster-b.jpg",
-    "sha1": "e64e63b2d6b549273d2454e3f5e00a03cdf3d65d",
-    "source": "album-art/renders/experiments/drawn-video/old-line/old-line_comic_dark_standin.share.mp4",
-    "seconds": 136.0,
-    "poster_at": 98.9
+    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-1f38caa8.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-1f38caa8-poster.jpg",
+    "sha1": "1f38caa8b06b6807509a3e5c8fe9a1bb04c766f9",
+    "source": "td-lab/renders/old-line_video_v1.mp4",
+    "seconds": 180.72,
+    "poster_at": 90.36,
+    "credits": [],
+    "stock": true,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "Caught in a puddle.",
