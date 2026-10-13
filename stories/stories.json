@@ -479,12 +479,19 @@
    "chapter_sha1": "368bc141217c6ab998b1c07af2f4bb37523396f2",
    "site_summary": "Crows spend the day inspecting roofs, windows, wires and streets, then commute east in the evening. Their observations reach the Morning Meeting, but a view is not the whole truth. They return to uncertain places and change position when a familiar perch stops telling them enough. To a passerby, this looks like birds waiting around. Some days that is exactly what careful work looks like.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/crows/crows-186fff12.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/crows/crows-186fff12-poster-b.jpg",
-    "sha1": "186fff123b980e51b606f82e8d8cc11163ba8a1e",
-    "source": "album-art/renders/experiments/drawn-video/crows/crows_comic_dark_standin.share.mp4",
-    "seconds": 110.5,
-    "poster_at": 77.9
+    "url": "https://storage.googleapis.com/terminal-city/videos/crows/crows-b8b1b806.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/crows/crows-b8b1b806-poster.jpg",
+    "sha1": "b8b1b806e5be8e4ddde8ea487faeeaf4e20edabb",
+    "source": "td-lab/renders/crows_video_v1.mp4",
+    "seconds": 182.86,
+    "poster_at": 91.43,
+    "credits": [
+     "\"Flock of starlings (Sturnus vulgaris)\" by Karen Roe (CC BY 2.0)",
+     "\"Jungle crow (Corvus macrorhynchos) in a park\" by The Nature Box (CC BY 4.0)",
+     "\"Wild crow raven standing and walking on grass\" by Alice Stock Footages (CC BY 3.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "The upstairs window",
