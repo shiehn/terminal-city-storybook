@@ -355,15 +355,15 @@
    "chapter_sha1": "e20e59df9cac91942955b3d510e71a2e113f79c9",
    "site_summary": "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection. This is the Old Line. It does not run on a timetable and it does not care what the current map says; old alignments and old versions of a corner are all still there under the asphalt, all still in use. The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-aca077e7.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-aca077e7-poster.jpg",
-    "sha1": "aca077e7b3669e87fae881171e448fd6b7ebbb88",
-    "source": "td-lab/renders/old-line_video_v2.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-530dd492.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-530dd492-poster.jpg",
+    "sha1": "530dd492dd8c5bb4b1b90c7198c29e4ca2262dd1",
+    "source": "td-lab/renders/old-line_video_v3.mp4",
     "seconds": 180.72,
     "poster_at": 90.36,
     "credits": [],
     "stock": true,
-    "cut_version": "video_v2"
+    "cut_version": "video_v3"
    },
    "lyric": [
     "Caught in a puddle.",
@@ -416,15 +416,15 @@
    "chapter_sha1": "863eb333cdc8faa57de6c24b370891674fee091b",
    "site_summary": "Painters, graffiti writers, sticker makers, paste-up crews, photographers, anyone up a ladder at an odd hour with a bucket and work clothes. Some of them are Repair People. Most are not. You cannot tell which. A Repair Person treats a crack in a wall the way a plumber treats a burst pipe: what the city sees as a tag, a sticker, a mural or a fresh coat of paint may be structural maintenance. They are hard to get to know. Ask one a question and you get a short answer and a person already turning back to the work. Everything they fix stays visible, because the repair is also the art, and the art is what keeps people noticing.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-e9cd55ec.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-e9cd55ec-poster.jpg",
-    "sha1": "e9cd55ecbb65d265e9e499f65638cba03779b3d3",
-    "source": "td-lab/renders/repair-people_video_v1.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-165be1ef.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-165be1ef-poster.jpg",
+    "sha1": "165be1ef4f0478770c4b73a02f0085caed1d3748",
+    "source": "td-lab/renders/repair-people_video_v2.mp4",
     "seconds": 174.57,
     "poster_at": 87.28,
     "credits": [],
     "stock": true,
-    "cut_version": "video_v1"
+    "cut_version": "video_v2"
    },
    "lyric": [
     "Seen through chain-link.",
@@ -544,12 +544,15 @@
    "chapter_sha1": "692626453a7b2c0a235bef78ccf7ef58ca23a50d",
    "site_summary": "In Terminal City the sunset is a shift change. All day the city has been inspected and patched and kept in time. As the light goes through the wires and over the rooftops, the Repair People put their brushes down, the crows head home, and the daytime systems hand the city to the night. You feel it without knowing why: around sunset people want to stop working, walk, meet someone, eat, listen, make something, go out. That is not an accident. Maintenance is not the point of the city. Maintenance exists so that people can eventually stop working, and the sunset is the moment they are allowed to.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-a9f12252.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-a9f12252-poster.jpg",
-    "sha1": "a9f12252c28354fd49bbd2df19c1f83b31098417",
-    "source": "album-art/renders/experiments/drawn-video/sunset/sunset_comic_dark_standin.share.mp4",
-    "seconds": 145.5,
-    "poster_at": 52.4
+    "url": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-91cc7020.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-91cc7020-poster.jpg",
+    "sha1": "91cc70203aa3c5596b6716afd2567ed44f5f5c7c",
+    "source": "td-lab/renders/sunset_video_v2.mp4",
+    "seconds": 167.0,
+    "poster_at": 83.5,
+    "credits": [],
+    "stock": true,
+    "cut_version": "video_v2"
    },
    "lyric": [
     "Brushes washed.",
