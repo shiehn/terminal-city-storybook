@@ -613,12 +613,17 @@
    "chapter_sha1": "8ac2bdd448c9171660b96d84d6a583b692bbfc85",
    "site_summary": "The Sixth Hour begins with the music and counts six uninterrupted hours, not the hour on a clock. Deep into a warehouse gathering, a doorway can feel slightly misplaced and a wall a little farther away. Small moths pass before steady lamps and make shadows that briefly find the beat. People dance, rest and make room. The room’s oddness does not require an explanation to keep the evening going.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/sixth-hour/sixth-hour-cf37d054.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/sixth-hour/sixth-hour-cf37d054-poster.jpg",
-    "sha1": "cf37d05483876f62b74f7465baa89d10e4a01e8e",
-    "source": "album-art/renders/experiments/drawn-video/sixth-hour/sixth-hour_comic_dark_standin.share.mp4",
-    "seconds": 179.5,
-    "poster_at": 64.6
+    "url": "https://storage.googleapis.com/terminal-city/videos/sixth-hour/sixth-hour-7929f7aa.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/sixth-hour/sixth-hour-7929f7aa-poster.jpg",
+    "sha1": "7929f7aadfb460b9407c2a81eb768a7242c00cfd",
+    "source": "td-lab/renders/sixth-hour_video_v3.mp4",
+    "seconds": 154.48,
+    "poster_at": 77.24,
+    "credits": [
+     "\"Hawk-moth on milkweed\" by mike vidal (CC BY 3.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v3"
    },
    "lyric": [
     "Usually",
