@@ -162,17 +162,17 @@
    "chapter_sha1": "b784153b118abad76a11bd930677ca8c0b25562a",
    "site_summary": "Look up in an East Van lane: poles, layers of wires, trolley lines, transformers. Add every radio, every car stereo, every pair of headphones and the bass leaking under a warehouse door, and you have the Wire Choir. It is how Terminal City sings to itself. When a neighbourhood goes quiet the Choir leans on coincidence: somebody's car at a red light playing the exact song, a band rehearsing through a wall you happen to be leaning on, a window left open. You still choose what you listen to. You really did. The timing was just a little too good. No one hears the broadcast as an announcement.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-6ca86757.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-6ca86757-poster.jpg",
-    "sha1": "6ca86757e42f3d48841c0d411e4a918ebb4ff6c5",
-    "source": "td-lab/renders/wire-choir_video_v3.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-a475b3be.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/wire-choir/wire-choir-a475b3be-poster.jpg",
+    "sha1": "a475b3be1fe58cfb88ae28a01be9ec7eca5e22c7",
+    "source": "td-lab/renders/wire-choir_video_v4.mp4",
     "seconds": 153.6,
     "poster_at": 76.8,
     "credits": [
      "\"Vancouver at Twilight\" by Vidaerc (CC BY 3.0)"
     ],
     "stock": true,
-    "cut_version": "video_v3"
+    "cut_version": "video_v4"
    },
    "lyric": [
     "Three seconds of metal",
@@ -355,15 +355,15 @@
    "chapter_sha1": "e20e59df9cac91942955b3d510e71a2e113f79c9",
    "site_summary": "Vancouver has taken a lot of routes off its maps: streetcar rails, rail spurs, stops that used to matter. On wet nights they come back. Look into a puddle on a street with no tracks and you may see rails shining in the reflection. This is the Old Line. It does not run on a timetable and it does not care what the current map says; old alignments and old versions of a corner are all still there under the asphalt, all still in use. The Freight shares its rails but does the opposite job: the Freight removes what cannot stay, and the Old Line keeps what must not be forgotten.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-528a06b6.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-528a06b6-poster.jpg",
-    "sha1": "528a06b6f4dc38503cebd96c4f9a8667e8e7d3cd",
-    "source": "td-lab/renders/old-line_video_v4.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-79a0c5e2.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/old-line/old-line-79a0c5e2-poster.jpg",
+    "sha1": "79a0c5e2caa35014c4f136f365fbd2010e100552",
+    "source": "td-lab/renders/old-line_video_v5.mp4",
     "seconds": 180.72,
     "poster_at": 90.36,
     "credits": [],
     "stock": true,
-    "cut_version": "video_v4"
+    "cut_version": "video_v5"
    },
    "lyric": [
     "Caught in a puddle.",
@@ -416,15 +416,15 @@
    "chapter_sha1": "863eb333cdc8faa57de6c24b370891674fee091b",
    "site_summary": "Painters, graffiti writers, sticker makers, paste-up crews, photographers, anyone up a ladder at an odd hour with a bucket and work clothes. Some of them are Repair People. Most are not. You cannot tell which. A Repair Person treats a crack in a wall the way a plumber treats a burst pipe: what the city sees as a tag, a sticker, a mural or a fresh coat of paint may be structural maintenance. They are hard to get to know. Ask one a question and you get a short answer and a person already turning back to the work. Everything they fix stays visible, because the repair is also the art, and the art is what keeps people noticing.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-bbb6c01b.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-bbb6c01b-poster.jpg",
-    "sha1": "bbb6c01bf6d06da9b5720887cb3b4395e1471d6e",
-    "source": "td-lab/renders/repair-people_video_v3.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-3ad7c36a.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/repair-people/repair-people-3ad7c36a-poster.jpg",
+    "sha1": "3ad7c36a3c8f5142ace25767c0301a4eb3f790cf",
+    "source": "td-lab/renders/repair-people_video_v4.mp4",
     "seconds": 174.57,
     "poster_at": 87.28,
     "credits": [],
     "stock": true,
-    "cut_version": "video_v3"
+    "cut_version": "video_v4"
    },
    "lyric": [
     "Seen through chain-link.",
@@ -479,10 +479,10 @@
    "chapter_sha1": "368bc141217c6ab998b1c07af2f4bb37523396f2",
    "site_summary": "Crows spend the day inspecting roofs, windows, wires and streets, then commute east in the evening. Their observations reach the Morning Meeting, but a view is not the whole truth. They return to uncertain places and change position when a familiar perch stops telling them enough. To a passerby, this looks like birds waiting around. Some days that is exactly what careful work looks like.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/crows/crows-b8b1b806.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/crows/crows-b8b1b806-poster.jpg",
-    "sha1": "b8b1b806e5be8e4ddde8ea487faeeaf4e20edabb",
-    "source": "td-lab/renders/crows_video_v1.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/crows/crows-872b73c1.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/crows/crows-872b73c1-poster.jpg",
+    "sha1": "872b73c17392bcee2c52d9bcf54d4e582f4a279e",
+    "source": "td-lab/renders/crows_video_v2.mp4",
     "seconds": 182.86,
     "poster_at": 91.43,
     "credits": [
@@ -491,7 +491,7 @@
      "\"Wild crow raven standing and walking on grass\" by Alice Stock Footages (CC BY 3.0)"
     ],
     "stock": true,
-    "cut_version": "video_v1"
+    "cut_version": "video_v2"
    },
    "lyric": [
     "The upstairs window",
@@ -544,17 +544,17 @@
    "chapter_sha1": "692626453a7b2c0a235bef78ccf7ef58ca23a50d",
    "site_summary": "In Terminal City the sunset is a shift change. All day the city has been inspected and patched and kept in time. As the light goes through the wires and over the rooftops, the Repair People put their brushes down, the crows head home, and the daytime systems hand the city to the night. You feel it without knowing why: around sunset people want to stop working, walk, meet someone, eat, listen, make something, go out. That is not an accident. Maintenance is not the point of the city. Maintenance exists so that people can eventually stop working, and the sunset is the moment they are allowed to.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-1a01c10e.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-1a01c10e-poster.jpg",
-    "sha1": "1a01c10e35e19c256f1a3587ac9d284a7f73a64a",
-    "source": "td-lab/renders/sunset_video_v4.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-5a0eb16f.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/sunset/sunset-5a0eb16f-poster.jpg",
+    "sha1": "5a0eb16f133437b55c647f9431f62b2919bc42ad",
+    "source": "td-lab/renders/sunset_video_v5.mp4",
     "seconds": 167.0,
     "poster_at": 83.5,
     "credits": [
      "\"Flock of starlings (Sturnus vulgaris)\" by Karen Roe (CC BY 2.0)"
     ],
     "stock": true,
-    "cut_version": "video_v4"
+    "cut_version": "video_v5"
    },
    "lyric": [
     "Brushes washed.",
