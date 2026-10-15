@@ -697,10 +697,10 @@
    "chapter_sha1": "b0c72e2ca790ec1dd48ae0180ba893dadf1d7a25",
    "site_summary": "Coyotes know the night through passages: the lane that still goes through, the gate that no longer does, the room audible only around the next corner. Terminal City calls these scouts the Nocturnals. They can try a familiar route and find it shut. They can find another. A person who notices may follow, but the choice belongs to the person. The animal has more of the night to cover.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/nocturnals/nocturnals-b0ce82de.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/nocturnals/nocturnals-b0ce82de-poster.jpg",
-    "sha1": "b0ce82de6c94331a0736a82662dd8e98e9d34075",
-    "source": "td-lab/renders/nocturnals_video_v2.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/nocturnals/nocturnals-608f0abc.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/nocturnals/nocturnals-608f0abc-poster.jpg",
+    "sha1": "608f0abc7080cab73e15d3a93bf2b858183ddf11",
+    "source": "td-lab/renders/nocturnals_video_v3.mp4",
     "seconds": 187.37,
     "poster_at": 93.69,
     "credits": [
@@ -708,7 +708,7 @@
      "\"Video of a Coyote Hunting, Catching, and Eating a Vole\" by [1] (CC BY 2.0)"
     ],
     "stock": true,
-    "cut_version": "video_v2"
+    "cut_version": "video_v3"
    },
    "lyric": [
     "Out later",
