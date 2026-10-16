@@ -5,6 +5,19 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.14.0 — 2026-10-15
+
+- **Twenty chapters: Inferno (D-110, D-115, D-117).** Steve walked from East Van through the fairground to the Burnaby refinery
+  and made it the twentieth, final chapter: "the perfect final video … it should be the 20th". The Open Slot's grey square becomes
+  a page, `inferno/`, in the album and daily-cycle views (reading order … 10 → 19 → 20 → 12). No video, no plate and no lyric
+  yet: the page shows the title and its one hook line until the song lands (the Story's summaries are private, so a chapter
+  without a lyric no longer falls back to them); the map station is unplaced until the video session
+  keys it. The small line reads "Twenty glimpses of a city hiding inside this one."
+- **Canon: Field Guide 1.5 + Story 1.10.** Every page is rebuilt from the confirmed drafts (Steve: "Confirm and publish"): the
+  Inferno bounded after two whole-canon audits (D-111: "the train leaves versions behind; the fire leaves none"), and Eternal
+  Night reframed as the city looking away (D-116) — field notes only; the lyrics are unchanged. The colophon now names the
+  draft the stories were mirrored from (it had said 1.2 since September).
+
 ## 0.13.0 — 2026-10-10
 
 - **The witness rewrite (D-097/D-098).** Steve: "I want the lyrics to read more like a person slowly piecing together the evidence
