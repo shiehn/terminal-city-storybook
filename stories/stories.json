@@ -848,12 +848,15 @@
    "chapter_sha1": "4f5bbf5e4d8fb8868f9dec3026d30b0c6527b6d2",
    "site_summary": "Not every part of the city gets looked at. Sealed doors, empty windows, a sign for a shop that closed years ago, a painting on a wall nobody walks past anymore. Where attention has withdrawn, the night stays, even at noon. This is the Eternal Night. It is not a place so much as a condition, and it is the one thing Terminal City works against. Not a villain. Just forgetting. When people stop noticing a room, a wall, a habit a neighbourhood had, the night settles into it and what was there goes missing, quietly. Everyone who lives here knows what this city looks away from; the chapter does not pretend otherwise. It shows the looking away, never the people it is done to. The Eternal Night keeps nothing. It only shows the city where it has stopped looking, and the city's answer is to look again.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/eternal-night/eternal-night-95a144a0.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/eternal-night/eternal-night-95a144a0-poster.jpg",
-    "sha1": "95a144a0f189c874e158eae65904383de60919b8",
-    "source": "album-art/renders/experiments/drawn-video/eternal-night/eternal-night_comic_dark_standin.share.mp4",
-    "seconds": 109.5,
-    "poster_at": 60.2
+    "url": "https://storage.googleapis.com/terminal-city/videos/eternal-night/eternal-night-7fc83d70.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/eternal-night/eternal-night-7fc83d70-poster.jpg",
+    "sha1": "7fc83d7070224abe8e7886ef8492c53f167585ac",
+    "source": "td-lab/renders/eternal-night_video_v2.mp4",
+    "seconds": 179.21,
+    "poster_at": 89.61,
+    "credits": [],
+    "stock": true,
+    "cut_version": "video_v2"
    },
    "lyric": [
     "Some places",
