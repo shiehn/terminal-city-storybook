@@ -766,12 +766,20 @@
    "chapter_sha1": "5d558a8d376bcc03b6156b99f99a7ceabfe86645",
    "site_summary": "The Repair People patch the city all day, one wall at a time. Some things cannot be patched. For those, Terminal City has the fog. Late at night, after the rooms have emptied and the Freight has taken away what cannot stay, fog comes in from the water and covers the shoreline, the tracks, the lights, the skyline, until enough of Vancouver is hidden for Terminal City to be rebuilt underneath. This is the full rebuild, the one that fixes what a brush cannot. When the fog lifts the city is back. Almost. One familiar thing is gone, or shifted, or slightly wrong, and nobody announces it.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-22d5178b.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-22d5178b-poster.jpg",
-    "sha1": "22d5178be3cb6e0f65b29c09b88bd309ca867f13",
-    "source": "album-art/renders/experiments/drawn-video/terminal-fog/terminal-fog_comic_dark_standin.share.mp4",
-    "seconds": 131.5,
-    "poster_at": 36.8
+    "url": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-4bfc5d5f.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-4bfc5d5f-poster.jpg",
+    "sha1": "4bfc5d5fff30a4f10d525b308fec1b866cd973cb",
+    "source": "td-lab/renders/terminal-fog_video_v1.mp4",
+    "seconds": 163.97,
+    "poster_at": 81.98,
+    "credits": [
+     "\"2022-09-13 POKLJUKA FUNGI GOBA\" by NaIzletuSi ™ (CC BY 3.0)",
+     "\"Foggy day of hyrcanian forest of iran\" by Reza Rafizadeh (CC BY 3.0)",
+     "\"Mycelium in Terrarium, lots of life! - Micro time-lapse\" by Madi Gan (CC BY 3.0)",
+     "\"Red tree brain fungus - Peniophora rufa\" by momentaryvitality (CC BY 3.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "Chairs folded.",
