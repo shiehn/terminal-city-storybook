@@ -766,10 +766,10 @@
    "chapter_sha1": "5d558a8d376bcc03b6156b99f99a7ceabfe86645",
    "site_summary": "The Repair People patch the city all day, one wall at a time. Some things cannot be patched. For those, Terminal City has the fog. Late at night, after the rooms have emptied and the Freight has taken away what cannot stay, fog comes in from the water and covers the shoreline, the tracks, the lights, the skyline, until enough of Vancouver is hidden for Terminal City to be rebuilt underneath. This is the full rebuild, the one that fixes what a brush cannot. When the fog lifts the city is back. Almost. One familiar thing is gone, or shifted, or slightly wrong, and nobody announces it.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-4bfc5d5f.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-4bfc5d5f-poster.jpg",
-    "sha1": "4bfc5d5fff30a4f10d525b308fec1b866cd973cb",
-    "source": "td-lab/renders/terminal-fog_video_v1.mp4",
+    "url": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-8ab05377.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/terminal-fog/terminal-fog-8ab05377-poster.jpg",
+    "sha1": "8ab05377d32bb44c1b286c821ce24f513845d02c",
+    "source": "td-lab/renders/terminal-fog_video_v2.mp4",
     "seconds": 163.97,
     "poster_at": 81.98,
     "credits": [
@@ -779,7 +779,7 @@
      "\"Red tree brain fungus - Peniophora rufa\" by momentaryvitality (CC BY 3.0)"
     ],
     "stock": true,
-    "cut_version": "video_v1"
+    "cut_version": "video_v2"
    },
    "lyric": [
     "Chairs folded.",
