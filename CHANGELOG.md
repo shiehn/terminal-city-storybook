@@ -5,6 +5,28 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.15.0 — 2026-10-17
+
+- **Play first (Steve: "when it loads on my phone I just see text, I want people to be able to interact with the music/play videos
+  ASAP … I want the site optimized for engagement").** The home page opens on a player: one tap on "Play the album" starts chapter 01
+  with sound and the album plays on, chapter after chapter, in the same player (previous / next, "Read the lyric →"). Under it, the
+  preface's first stanza (the rest behind "Read more"), then the twenty chapters as a poster grid: a tap plays that chapter in the
+  player. The map, the album / daily-cycle lists and the colophon follow, unchanged.
+- **The new map (D-120).** Steve: "arcane lineart of a vancouver in the style of the glyph art … our own fantasy world overlayered on
+  vancouver". One drawing in the glyph style (gpt-image-2: draft 2's black ground and light lines, draft 3's mountains), every chapter
+  drawn INTO it in the same line (Trout Lake's stones and heron, the Wire Choir's pole, the 3:17 clock …; the cranes are the Probes,
+  the forest at the peninsula tip is Green Static). Every drawing is a link: "they should blend perfectly into the map but remain
+  clearly click able" — its own lines light up green on hover / tap with its name, and one drawing at a time shimmers faintly.
+  Home: a Chapters / Map switch under the player (map first on a wide screen, chapters first on a phone); chapter pages: the field
+  notes map with this chapter lit. On a phone the map is wider than the screen and pans, centred on the chapter. Inferno is on it.
+- **Green.** The one accent colour is now #3eaf7c (signalsandsorcery.com's brand green), replacing the red #D8232F.
+- **Chapter pages:** the title is smaller on phones so the video sits in the first screen, edge to edge; when a video ends an
+  "Up next" card plays the next chapter (it starts by itself where the browser allows).
+- **Speed:** images are files in `assets/` (named by content hash, shared and cached across pages, loaded lazily) instead of inline
+  data: the home page went from ~960 KB to ~40 KB and a chapter page from up to ~820 KB to ~22 KB.
+- **Measured and shareable:** GA4 events `album_play`, `video_start`, `video_progress` (25/50/75), `video_complete` per chapter;
+  share-card tags (title, line, poster) on every page.
+
 ## 0.14.0 — 2026-10-15
 
 - **Twenty chapters: Inferno (D-110, D-115, D-117).** Steve walked from East Van through the fairground to the Burnaby refinery
