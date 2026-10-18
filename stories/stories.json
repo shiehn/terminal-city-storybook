@@ -911,12 +911,18 @@
    "chapter_sha1": "00d86e2e596c37ef0f98a9f36ded7413243002cf",
    "site_summary": "The seawall looks like a path. It is also the edge of the city, and edges have to be checked. Every walker, runner and cyclist on the seawall, and every person who cannot sleep and goes for a walk along the water at two in the morning, is checking it without knowing. In Terminal City their movement is what keeps the edge in place: a person tracing the city's edge, again and again, holds that edge where it is. When the movement thins out, a stretch of path can start to drift, or a lamp repeats itself farther around the bend than it should. The rule is the shortest one in the city. Keep moving.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/outer-circuit/outer-circuit-55511b92.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/outer-circuit/outer-circuit-55511b92-poster.jpg",
-    "sha1": "55511b9257a9a10695e7fb9f8b27bc0f51fa4ae5",
-    "source": "album-art/renders/experiments/drawn-video/outer-circuit/outer-circuit_comic_dark_standin.share.mp4",
-    "seconds": 119.0,
-    "poster_at": 53.6
+    "url": "https://storage.googleapis.com/terminal-city/videos/outer-circuit/outer-circuit-4743a4e0.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/outer-circuit/outer-circuit-4743a4e0-poster.jpg",
+    "sha1": "4743a4e0287e23f32f8132aa1af50e2265b6b53f",
+    "source": "td-lab/renders/outer-circuit_video_v2.mp4",
+    "seconds": 180.03,
+    "poster_at": 90.02,
+    "credits": [
+     "\"Aerial view of sand beach. Top view sea waves. Drone footage\" by Nature video, HD - 4K (CC BY 3.0)",
+     "\"Vancouver at Twilight\" by Vidaerc (CC BY 3.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v2"
    },
    "lyric": [
     "Feet against pavement.",
