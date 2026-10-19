@@ -976,12 +976,19 @@
    "chapter_sha1": "39e322e8ff12fb227d7c5becf7a0b7811a8d1f26",
    "site_summary": "At the edge of Stanley Park the Wire Choir goes quiet. Inside, it fails completely. Schedules turn approximate, clocks drift, and the ideas you were carrying in simply disappear. This is the Green Static, where Terminal City loses its orderly surface signal. Underground mycelium remains alive, carrying fragments without clear instructions. That is the point. In place of the lost signal come things nobody sent: a melody, a colour, a rhythm that refuses the grid. Artists and Repair People walk into the trees on purpose to lose the signal and see what turns up instead. Whatever they bring out is unauthorized, and unauthorized does not mean unwanted.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/green-static/green-static-108d7ba5.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/green-static/green-static-108d7ba5-poster.jpg",
-    "sha1": "108d7ba573750f315ed67fff11ce9874fefdba9b",
-    "source": "album-art/renders/experiments/drawn-video/green-static/green-static_comic_dark_standin.share.mp4",
-    "seconds": 122.0,
-    "poster_at": 79.3
+    "url": "https://storage.googleapis.com/terminal-city/videos/green-static/green-static-618e13ad.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/green-static/green-static-618e13ad-poster.jpg",
+    "sha1": "618e13addc1b730114ce8353eb9cc156fd54a356",
+    "source": "td-lab/renders/green-static_video_v2.mp4",
+    "seconds": 174.6,
+    "poster_at": 87.3,
+    "credits": [
+     "\"2022-09-13 POKLJUKA FUNGI GOBA\" by NaIzletuSi ™ (CC BY 3.0)",
+     "\"Foggy day of hyrcanian forest of iran\" by Reza Rafizadeh (CC BY 3.0)",
+     "\"Red tree brain fungus - Peniophora rufa\" by momentaryvitality (CC BY 3.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v2"
    },
    "lyric": [
     "The wires end",
