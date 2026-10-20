@@ -5,6 +5,13 @@ and the asset catalogs via `sas-project-mgmt/scripts/storyboard_page.py` / `buil
 an entry here whenever the look, the beat order, or the page anatomy changes; content changes (a new field-guide
 draft, a new photo) do not bump the version — the colophon on every page already names the draft and build date.
 
+## 0.16.0 — 2026-10-20
+
+- **Sightings (Steve's 10-19 brainstorm, D-121: "Terminal City is the world, not the album"; "Replace “Chapters” with “Sightings”").**
+  Every public label that said "chapter" now says "sighting": the player ("Sighting 01", previous / next sighting), the grid tab
+  ("Sightings"), each page's heading line ("Sighting 15") and the map's alt text. The page eyebrow drops the "/ 20" counter: twenty
+  is the current album, not the limit of the world. Internal names (slugs, `TC_nn`, GA4 event parameters) are unchanged.
+
 ## 0.15.0 — 2026-10-17
 
 - **Play first (Steve: "when it loads on my phone I just see text, I want people to be able to interact with the music/play videos
