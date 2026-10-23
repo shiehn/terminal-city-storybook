@@ -1209,12 +1209,17 @@
    "chapter_sha1": "474210e836f6aa65aec9be8e909a79121242bdc1",
    "site_summary": "Across Burrard Inlet the lights of North Vancouver climb the lower slopes of the mountains. On the right night, seen from this side of the water, they arrange themselves into long flowing shapes, like a script in a language nobody here speaks. Cross the bridge and they are apartments again. That is not a trick. Some things cannot be understood up close; they only resolve after a distance has been crossed, water, language, a different way of living. The Far Shore is where the things the city cannot understand are turned into things it can use, and the water in between is what does the work.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/far-shore/far-shore-2308426f.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/far-shore/far-shore-2308426f-poster.jpg",
-    "sha1": "2308426f873f10247820903cb25e307d45c7b7be",
-    "source": "album-art/renders/experiments/drawn-video/far-shore/far-shore_comic_dark_standin.share.mp4",
-    "seconds": 103.0,
-    "poster_at": 28.8
+    "url": "https://storage.googleapis.com/terminal-city/videos/far-shore/far-shore-2bb61125.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/far-shore/far-shore-2bb61125-poster.jpg",
+    "sha1": "2bb6112546306b030eacd30e4f29a01c75372023",
+    "source": "td-lab/renders/far-shore_video_v1.mp4",
+    "seconds": 234.68,
+    "poster_at": 117.34,
+    "credits": [
+     "\"Vancouver at Twilight\" by Vidaerc (CC BY 3.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "Across the inlet",
