@@ -1136,12 +1136,18 @@
    "chapter_sha1": "432604bf12b47b47c7cfeed24c699700295977c9",
    "site_summary": "Past the mountains the city's signal ends, and that is where The Beyond begins: the forests, the rivers, the highways, and the temporary towns of speakers, lights and tents that appear in the wilderness for a weekend and vanish. Vancouver people leave the grid for The Beyond and come back different, with rhythms the city has never played and ways of being together the streets did not have before. The Probes bring the machine version of outside news through the port. The Beyond brings the human version, on dusty cars, at dawn. Leave with the old map. Return with something the map cannot name.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/beyond/beyond-bac1f859.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/beyond/beyond-bac1f859-poster.jpg",
-    "sha1": "bac1f859b1eccfec0d33ce55c38a448e3789207a",
-    "source": "album-art/renders/experiments/drawn-video/beyond/beyond_comic_dark_standin.share.mp4",
-    "seconds": 104.0,
-    "poster_at": 37.4
+    "url": "https://storage.googleapis.com/terminal-city/videos/beyond/beyond-d51587ae.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/beyond/beyond-d51587ae-poster.jpg",
+    "sha1": "d51587ae91d46ed2efcbe66860193bed027eeecd",
+    "source": "td-lab/renders/beyond_video_v1.mp4",
+    "seconds": 194.79,
+    "poster_at": 97.39,
+    "credits": [
+     "\"Campfire at night - Claytor Lake State Park - video\" by Virginia State Parks (CC BY 2.0)",
+     "\"Sea to Sky Highlights\" by Jorge Mir (CC BY 3.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v1"
    },
    "lyric": [
     "Past the mountains",
