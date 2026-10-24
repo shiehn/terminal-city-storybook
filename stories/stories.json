@@ -1278,12 +1278,18 @@
    "chapter_sha1": "f712df01f72f1651be9c7a6ba6af54579a0ba80f",
    "site_summary": "Late at night a freight train crosses the East Van rail corridor by the False Creek flats. The train does not arrive at 3:17. 3:17 arrives with the train: every clock within earshot holds at 3:17 for as long as the cars are passing and lets go when the last one has. The Freight is how Terminal City throws things away. Failed repairs, old versions of a corner, the residue of a long night, anything the city cannot reconcile is loaded and carried out. Nobody has explained who does the loading. The train goes on longer than it should. Cars repeat. Which is one more reason not to count them.",
    "video_placeholder": {
-    "url": "https://storage.googleapis.com/terminal-city/videos/3-17-freight/3-17-freight-9ec39705.mp4",
-    "poster": "https://storage.googleapis.com/terminal-city/videos/3-17-freight/3-17-freight-9ec39705-poster.jpg",
-    "sha1": "9ec3970585f044330645aaf00edee3663666cee8",
-    "source": "album-art/renders/experiments/drawn-video/3-17-freight/3-17-freight_comic_dark_standin.share.mp4",
-    "seconds": 108.5,
-    "poster_at": 39.1
+    "url": "https://storage.googleapis.com/terminal-city/videos/3-17-freight/3-17-freight-3c76f497.mp4",
+    "poster": "https://storage.googleapis.com/terminal-city/videos/3-17-freight/3-17-freight-3c76f497-poster.jpg",
+    "sha1": "3c76f497faf2d5e79876d0072bd7108150898c2c",
+    "source": "td-lab/renders/3-17-freight_video_v2.mp4",
+    "seconds": 164.63,
+    "poster_at": 82.31,
+    "credits": [
+     "\"Coyote Scent Marking, Feb. 2022\" by Cabin Branch Wildlife (CC BY 3.0)",
+     "\"Video of a Coyote Hunting, Catching, and Eating a Vole\" by [1] (CC BY 2.0)"
+    ],
+    "stock": true,
+    "cut_version": "video_v2"
    },
    "lyric": [
     "Old versions",
